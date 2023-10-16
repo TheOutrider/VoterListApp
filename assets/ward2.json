@@ -1,0 +1,7624 @@
+{
+  "data": [
+    {
+      "serial_number": 1,
+      "name_mr": "सोमेश्वर अवचट",
+      "name_en": "Someshwar Awachat"
+    },
+    {
+      "serial_number": 2,
+      "name_mr": "कोकिळा मारोती बजैत",
+      "name_en": "Kokila Maroti Bajait"
+    },
+    {
+      "serial_number": 3,
+      "name_mr": "संजय भाटे",
+      "name_en": "Sanjay Bhate"
+    },
+    {
+      "serial_number": 4,
+      "name_mr": "संतोष नारायण भाटकर",
+      "name_en": "Santosh Narayan Bhatkar"
+    },
+    {
+      "serial_number": 5,
+      "name_mr": "सोनाली संतोष भाटकर",
+      "name_en": "Sonali Santosh Bhatkar"
+    },
+    {
+      "serial_number": 6,
+      "name_mr": "मंगेस अंबादास भोयर",
+      "name_en": "Manges Ambadas Bhoyer"
+    },
+    {
+      "serial_number": 7,
+      "name_mr": "नंदा संतोष बोबडे",
+      "name_en": "Nanda Santosh Bobde"
+    },
+    {
+      "serial_number": 8,
+      "name_mr": "संध्या सुधीर चाप्पेकर",
+      "name_en": "Sandhya Sudhir Chappekar"
+    },
+    {
+      "serial_number": 9,
+      "name_mr": "हरिश्चंद्र शंकर डायरे",
+      "name_en": "Harishchandra Shankar Dire"
+    },
+    {
+      "serial_number": 10,
+      "name_mr": "देविदास किसन चांगरे",
+      "name_en": "Devidas Kisan Changare"
+    },
+    {
+      "serial_number": 11,
+      "name_mr": "मनोज विठ्ठलराव इंगोले",
+      "name_en": "Manoj Vitthalrao Ingole"
+    },
+    {
+      "serial_number": 12,
+      "name_mr": "कविता मनोजराव इंगोले",
+      "name_en": "Kavita Manojrao Ingole"
+    },
+    {
+      "serial_number": 13,
+      "name_mr": "संगिता श्रावण कावळे",
+      "name_en": "Sangita Shravan Kavale"
+    },
+    {
+      "serial_number": 14,
+      "name_mr": "प्रवीण वामन खडके",
+      "name_en": "Praveen Vaman Khadke"
+    },
+    {
+      "serial_number": 15,
+      "name_mr": "शाहनवाज झुबेर खान",
+      "name_en": "Shahnawaz Zubair Khan"
+    },
+    {
+      "serial_number": 16,
+      "name_mr": "योगिता विजय कोल्हे",
+      "name_en": "Yogita Vijay Kolhe"
+    },
+    {
+      "serial_number": 17,
+      "name_mr": "प्रदीप मधुकरराव कुसे",
+      "name_en": "Pradeep Madhukar Rao Kuse"
+    },
+    {
+      "serial_number": 18,
+      "name_mr": "भास्कर लानुजी लांजेकर",
+      "name_en": "Bhaskar Lanuji Lanjekar"
+    },
+    {
+      "serial_number": 19,
+      "name_mr": "माधुरी भास्कर लांजेकर",
+      "name_en": "Madhuri Bhaskar Lanjekar"
+    },
+    {
+      "serial_number": 20,
+      "name_mr": "श्रीकांत भास्कर लांजेकर",
+      "name_en": "Shrikant Bhaskar Lanjekar"
+    },
+    {
+      "serial_number": 21,
+      "name_mr": "प्रकाश संतोष मानकर",
+      "name_en": "Prakash Santosh Mankar"
+    },
+    {
+      "serial_number": 22,
+      "name_mr": "सुमित सुधाकरराव मरडवार",
+      "name_en": "Sumit Sudhakarrao Maradwar"
+    },
+    {
+      "serial_number": 23,
+      "name_mr": "गजानन अरुणराव नारद",
+      "name_en": "Gajanan Arunrao Narad"
+    },
+    {
+      "serial_number": 24,
+      "name_mr": "मंगेश लक्ष्मण नारद",
+      "name_en": "Mangesh Laxman Narad"
+    },
+    {
+      "serial_number": 25,
+      "name_mr": "सचिन मारोती परत आला",
+      "name_en": "Sachin Maroti is back"
+    },
+    {
+      "serial_number": 26,
+      "name_mr": "गायत्री लुलमान पटेल",
+      "name_en": "Gayatri Lulman Patel"
+    },
+    {
+      "serial_number": 27,
+      "name_mr": "अर्चना प्रशांत रागेत",
+      "name_en": "Archana Prashant Rageet"
+    },
+    {
+      "serial_number": 28,
+      "name_mr": "रुपाली प्रशांतराव राऊत",
+      "name_en": "Rupali Prashantrao Raut"
+    },
+    {
+      "serial_number": 29,
+      "name_mr": "सुनीता संजय वानखडे",
+      "name_en": "Sunita Sanjay Wankhede"
+    },
+    {
+      "serial_number": 30,
+      "name_mr": "सीमा चापेकर",
+      "name_en": "Seema Chapekar"
+    },
+    {
+      "serial_number": 31,
+      "name_mr": "भूषण चिंचुलकर",
+      "name_en": "Bhushan Chinchulkar"
+    },
+    {
+      "serial_number": 32,
+      "name_mr": "श्रीनंद डाबरकर",
+      "name_en": "Srinand Daburkar"
+    },
+    {
+      "serial_number": 33,
+      "name_mr": "सुधा धिये",
+      "name_en": "Sudha Dhiye"
+    },
+    {
+      "serial_number": 34,
+      "name_mr": "श्रुती कावळे",
+      "name_en": "Shruti Kawle"
+    },
+    {
+      "serial_number": 35,
+      "name_mr": "संतोष मेश्राम",
+      "name_en": "Santosh Meshram"
+    },
+    {
+      "serial_number": 36,
+      "name_mr": "प्रतिभा मेश्राम",
+      "name_en": "Pratibha Meshram"
+    },
+    {
+      "serial_number": 37,
+      "name_mr": "अंकित मून",
+      "name_en": "Ankit Moon"
+    },
+    {
+      "serial_number": 38,
+      "name_mr": "भुमित वंजारी",
+      "name_en": "Bhumit Vanjari"
+    },
+    {
+      "serial_number": 39,
+      "name_mr": "आशा धर्मराज दाभेकर",
+      "name_en": "Asha Dharmaraj Dabhekar"
+    },
+    {
+      "serial_number": 40,
+      "name_mr": "वैशाली सोमेश्वर अवचट",
+      "name_en": "Vaishali Someshwar Awachat"
+    },
+    {
+      "serial_number": 41,
+      "name_mr": "सेवक इरपाटे",
+      "name_en": "Sevak Irpate"
+    },
+    {
+      "serial_number": 42,
+      "name_mr": "प्रतिभा इरपत",
+      "name_en": "Pratibha Irpat"
+    },
+    {
+      "serial_number": 43,
+      "name_mr": "लता जीवतोडे",
+      "name_en": "Lata Jivtode"
+    },
+    {
+      "serial_number": 44,
+      "name_mr": "स्वीटी कामडे",
+      "name_en": "Sweetie Kamday"
+    },
+    {
+      "serial_number": 45,
+      "name_mr": "वृषाली कावळे",
+      "name_en": "Vrushali Kavle"
+    },
+    {
+      "serial_number": 46,
+      "name_mr": "कल्याणी प्रमोदराव खैरकर",
+      "name_en": "Kalyani Pramodarao Khairkar"
+    },
+    {
+      "serial_number": 47,
+      "name_mr": "मंगेश खोब्रागडे",
+      "name_en": "Mangesh Khobragade"
+    },
+    {
+      "serial_number": 48,
+      "name_mr": "रामदास कुडे",
+      "name_en": "Ramdas Kude"
+    },
+    {
+      "serial_number": 49,
+      "name_mr": "सुनीता कुडे",
+      "name_en": "Sunita Kude"
+    },
+    {
+      "serial_number": 50,
+      "name_mr": "पिंटू कुडे",
+      "name_en": "Pintu Kude"
+    },
+    {
+      "serial_number": 51,
+      "name_mr": "मेहतर मडावी",
+      "name_en": "Mehtar Madavi"
+    },
+    {
+      "serial_number": 52,
+      "name_mr": "शंकरीबाई मडावी",
+      "name_en": "Shankaribai Madavi"
+    },
+    {
+      "serial_number": 53,
+      "name_mr": "रोशनी मडावी",
+      "name_en": "Roshni Madavi"
+    },
+    {
+      "serial_number": 54,
+      "name_mr": "बादल पोहाणे",
+      "name_en": "Badal Pohane"
+    },
+    {
+      "serial_number": 55,
+      "name_mr": "पायल गोविंद ठाकरे",
+      "name_en": "Payal Govind Thackeray"
+    },
+    {
+      "serial_number": 56,
+      "name_mr": "मयुरी राहुल ठाकरे",
+      "name_en": "Mayuri Rahul Thackeray"
+    },
+    {
+      "serial_number": 57,
+      "name_mr": "अंकित वासुदेव भानखेडे",
+      "name_en": "Ankit Vasudev Bhankhede"
+    },
+    {
+      "serial_number": 58,
+      "name_mr": "ऋतिक दाभेकर",
+      "name_en": "Ritiuk Dabhekar"
+    },
+    {
+      "serial_number": 59,
+      "name_mr": "सिमता डाबरकर",
+      "name_en": "Simta Daburkar"
+    },
+    {
+      "serial_number": 60,
+      "name_mr": "कवडू श्रावण धिमे",
+      "name_en": "Kavadu Shravan Dhime"
+    },
+    {
+      "serial_number": 61,
+      "name_mr": "इंदू कवडू घ्या",
+      "name_en": "Indu Kavadu Take"
+    },
+    {
+      "serial_number": 62,
+      "name_mr": "अनिता सतीश कावळे",
+      "name_en": "Anita Satish Kawle"
+    },
+    {
+      "serial_number": 63,
+      "name_mr": "दिक्षा प्रवीण मेसेकर",
+      "name_en": "Diksha Praveen Mesekar"
+    },
+    {
+      "serial_number": 64,
+      "name_mr": "नत्थुजी झितरामंजी नारद",
+      "name_en": "Natthuji Zitramanji Narad"
+    },
+    {
+      "serial_number": 65,
+      "name_mr": "संजय विठोबाजी नवघरे",
+      "name_en": "Sanjay Vithobaji Navghare"
+    },
+    {
+      "serial_number": 66,
+      "name_mr": "मनीषा संजय रागीट",
+      "name_en": "Manisha Sanjay Ragit"
+    },
+    {
+      "serial_number": 67,
+      "name_mr": "रोशनी मंगेशराव ठाकरे",
+      "name_en": "Roshni Mangeshrao Thackeray"
+    },
+    {
+      "serial_number": 68,
+      "name_mr": "चंद्रशेखर महादेवजी ठाकूर",
+      "name_en": "Chandrasekhar Mahadevji Thakur"
+    },
+    {
+      "serial_number": 69,
+      "name_mr": "श्वेता चंद्रशेखर ठाकूर",
+      "name_en": "Shweta Chandrasekhar Thakur"
+    },
+    {
+      "serial_number": 70,
+      "name_mr": "गीता ज्ञानेश्वर वरभे",
+      "name_en": "Geeta Dnyaneshwar Varabhe"
+    },
+    {
+      "serial_number": 71,
+      "name_mr": "निखिता प्रविण वरभे",
+      "name_en": "Nikhita Pravin Varabhe"
+    },
+    {
+      "serial_number": 72,
+      "name_mr": "प्रणय संजय वरभे",
+      "name_en": "Pranay Sanjay Varbhe"
+    },
+    {
+      "serial_number": 73,
+      "name_mr": "रोशन गुणवंत अवचट",
+      "name_en": "Roshan Gunwant Awachat"
+    },
+    {
+      "serial_number": 74,
+      "name_mr": "मोहिनी रितेश अवचट",
+      "name_en": "Mohini Ritesh Awachat"
+    },
+    {
+      "serial_number": 75,
+      "name_mr": "संजय शामराव भदे",
+      "name_en": "Sanjay Shamrao Bhade"
+    },
+    {
+      "serial_number": 76,
+      "name_mr": "किशोर पुंडलिक डाबरकर",
+      "name_en": "Kishore Pundalik Daburkar"
+    },
+    {
+      "serial_number": 77,
+      "name_mr": "दीक्षा मधुकर कारमोरे",
+      "name_en": "Deeksha Madhukar Carmore"
+    },
+    {
+      "serial_number": 78,
+      "name_mr": "श्रुती नीळकंठ कवाडे",
+      "name_en": "Shruti Neelkanth Kawade"
+    },
+    {
+      "serial_number": 79,
+      "name_mr": "उषा प्रमोद नंदेश्वर",
+      "name_en": "Usha Pramod Nandeshwar"
+    },
+    {
+      "serial_number": 80,
+      "name_mr": "प्रमोद वसंता नंदेश्वर",
+      "name_en": "Pramod Vasantha Nandeshwar"
+    },
+    {
+      "serial_number": 81,
+      "name_mr": "शुभम उमाकांत मानकर",
+      "name_en": "Shubham Umakant Mankar"
+    },
+    {
+      "serial_number": 82,
+      "name_mr": "निखिल पद्माकर कावळे",
+      "name_en": "Nikhil Padmakar Kawle"
+    },
+    {
+      "serial_number": 83,
+      "name_mr": "वनिता शुभाश कोल्हे कोल्हे",
+      "name_en": "Vanita Shubash Kolhe Kolhe"
+    },
+    {
+      "serial_number": 84,
+      "name_mr": "श्रेया दामोदर भोयर",
+      "name_en": "Shreya Damodar Bhoyer"
+    },
+    {
+      "serial_number": 85,
+      "name_mr": "धीरज दामोधरजी भोयर",
+      "name_en": "Dheeraj Damodharji Bhoyer"
+    },
+    {
+      "serial_number": 86,
+      "name_mr": "माधुरी नरेंद्र गिरडे",
+      "name_en": "Madhuri Narendra Girde"
+    },
+    {
+      "serial_number": 87,
+      "name_mr": "शुभांगी विनोद कावळे",
+      "name_en": "Shubhangi Vinod Kawle"
+    },
+    {
+      "serial_number": 88,
+      "name_mr": "जयश्री नामदेव क्षीरसागर",
+      "name_en": "Jayashree Namdev Kshirsagar"
+    },
+    {
+      "serial_number": 89,
+      "name_mr": "सोनाली नारायण अवचट",
+      "name_en": "Sonali Narayan Awachat"
+    },
+    {
+      "serial_number": 90,
+      "name_mr": "अमित वाल्मिक चाप्पेकर",
+      "name_en": "Amit Valmik Chappekar"
+    },
+    {
+      "serial_number": 91,
+      "name_mr": "ज्योत्सना प्रमोद चौधरी",
+      "name_en": "Jyotsana Pramod Chaudhary"
+    },
+    {
+      "serial_number": 92,
+      "name_mr": "प्रियांका नामदेव डाबरकर",
+      "name_en": "Priyanka Namdev Daburkar"
+    },
+    {
+      "serial_number": 93,
+      "name_mr": "हर्ष योगेश डाखोळे",
+      "name_en": "Harsha Yogesh Dakhole"
+    },
+    {
+      "serial_number": 94,
+      "name_mr": "निकिता जगदीश गवळी",
+      "name_en": "Nikita Jagdish Gawli"
+    },
+    {
+      "serial_number": 95,
+      "name_mr": "माधुरी नरेश जंगठे",
+      "name_en": "Madhuri Naresh Jangthe"
+    },
+    {
+      "serial_number": 96,
+      "name_mr": "नरेश धोंडाबाजी जंगठे",
+      "name_en": "Naresh Dhondabaji Jangathe"
+    },
+    {
+      "serial_number": 97,
+      "name_mr": "मेघा संजय काजुरकर",
+      "name_en": "Megha Sanjay Kazurkar"
+    },
+    {
+      "serial_number": 98,
+      "name_mr": "सविता भोजराज काकडे",
+      "name_en": "Savita Bhojraj Kakade"
+    },
+    {
+      "serial_number": 99,
+      "name_mr": "सूर्यकांत प्रभाकर कावळे",
+      "name_en": "Suryakant Prabhakar Kawle"
+    },
+    {
+      "serial_number": 100,
+      "name_mr": "सुनीता सतीश कावळे",
+      "name_en": "Sunita Satish Kawle"
+    },
+    {
+      "serial_number": 101,
+      "name_mr": "शितल रोशन कावळे",
+      "name_en": "Shital Roshan Kawle"
+    },
+    {
+      "serial_number": 102,
+      "name_mr": "कानुपात्रा अवदुथ खोड्या",
+      "name_en": "Kanupatra Avaduth pranks"
+    },
+    {
+      "serial_number": 103,
+      "name_mr": "ज्ञानेश्वर शामराव कोल्हे",
+      "name_en": "Dnyaneshwar Shamrao Kolhe"
+    },
+    {
+      "serial_number": 104,
+      "name_mr": "सोनाली सचिन पोहाणे",
+      "name_en": "Sonali Sachin Pohane"
+    },
+    {
+      "serial_number": 105,
+      "name_mr": "सुवर्णा सुनील पोहाणे",
+      "name_en": "Suvarna Sunil Pohane"
+    },
+    {
+      "serial_number": 106,
+      "name_mr": "मीनाक्षी अमर ताजणे",
+      "name_en": "Meenakshi Amar Tajane"
+    },
+    {
+      "serial_number": 107,
+      "name_mr": "मोहन श्रावणजी ठाकरे",
+      "name_en": "Mohan Shravanji Thackeray"
+    },
+    {
+      "serial_number": 108,
+      "name_mr": "मंगला मोहन ठाकरे",
+      "name_en": "Mangala Mohan Thackeray"
+    },
+    {
+      "serial_number": 109,
+      "name_mr": "पूनम राहुल ठाकरे",
+      "name_en": "Poonam Rahul Thackeray"
+    },
+    {
+      "serial_number": 110,
+      "name_mr": "स्नेहल अनिल वरभे",
+      "name_en": "Snehal Anil Varbhe"
+    },
+    {
+      "serial_number": 111,
+      "name_mr": "प्रतिक रमेश वानखेडे",
+      "name_en": "Pratik Ramesh Wankhede"
+    },
+    {
+      "serial_number": 112,
+      "name_mr": "माधुरी राजू व्हटकर",
+      "name_en": "Madhuri Raju Watkar"
+    },
+    {
+      "serial_number": 113,
+      "name_mr": "अनिकेत पुंड",
+      "name_en": "Aniket Pund"
+    },
+    {
+      "serial_number": 114,
+      "name_mr": "रोमा पुंड",
+      "name_en": "Roma Pund"
+    },
+    {
+      "serial_number": 115,
+      "name_mr": "गणेश तुकारामजी भोयर",
+      "name_en": "Ganesh Tukaramji Bhoyer"
+    },
+    {
+      "serial_number": 116,
+      "name_mr": "निरज रामकृष्ण भोयर",
+      "name_en": "Niraj Ramakrishna Bhoyer"
+    },
+    {
+      "serial_number": 117,
+      "name_mr": "प्रवीण अशोकराव चौधरी",
+      "name_en": "Praveen Ashokrao Chaudhary"
+    },
+    {
+      "serial_number": 118,
+      "name_mr": "चैताली देविदासराव मानकर",
+      "name_en": "Chaitali Devidasrao Mankar"
+    },
+    {
+      "serial_number": 119,
+      "name_mr": "राजश्री हरीश राऊत",
+      "name_en": "Rajshree Harish Raut"
+    },
+    {
+      "serial_number": 120,
+      "name_mr": "नीता नरेश वरभे",
+      "name_en": "Nita Naresh Varabhe"
+    },
+    {
+      "serial_number": 121,
+      "name_mr": "नीलिमा कावळे",
+      "name_en": "Neelima Kawle"
+    },
+    {
+      "serial_number": 122,
+      "name_mr": "रितेश संजय नवघरे",
+      "name_en": "Ritesh Sanjay Navghare"
+    },
+    {
+      "serial_number": 123,
+      "name_mr": "खेलन खिरेंद्र यांनी मानले",
+      "name_en": "Khelan Khirendra agreed"
+    },
+    {
+      "serial_number": 124,
+      "name_mr": "चंद्रभागा महादेव रागीट",
+      "name_en": "Chandrabhaga Mahadev ragit"
+    },
+    {
+      "serial_number": 125,
+      "name_mr": "राजू महादेव रागावला",
+      "name_en": "Raju Mahadev angry"
+    },
+    {
+      "serial_number": 126,
+      "name_mr": "चैताली राजू संतापला",
+      "name_en": "Chaitali Raju angry"
+    },
+    {
+      "serial_number": 127,
+      "name_mr": "माला महादेव रागावला",
+      "name_en": "Mala Mahadev angry"
+    },
+    {
+      "serial_number": 128,
+      "name_mr": "दिनेश दिनेश सोनटक्के",
+      "name_en": "Dinesh Dinesh Sontakke"
+    },
+    {
+      "serial_number": 129,
+      "name_mr": "हितेंद्र चरडे",
+      "name_en": "Hitendra Charde"
+    },
+    {
+      "serial_number": 130,
+      "name_mr": "संजय बोपचे",
+      "name_en": "Sanjay Bopche"
+    },
+    {
+      "serial_number": 131,
+      "name_mr": "मनुश्‍वरी बोपचे",
+      "name_en": "Manushwari Bopche"
+    },
+    {
+      "serial_number": 132,
+      "name_mr": "अश्विनी अनिलराव देशमुख",
+      "name_en": "Ashwini Anilrao Deshmukh"
+    },
+    {
+      "serial_number": 133,
+      "name_mr": "निखिल राजू डाबरकर",
+      "name_en": "Nikhil Raju Daburkar"
+    },
+    {
+      "serial_number": 134,
+      "name_mr": "ज्ञानेश्वर किसन रागीट",
+      "name_en": "Dnyaneshwar Kisan ragit"
+    },
+    {
+      "serial_number": 135,
+      "name_mr": "बाळ ज्ञानेश्वर रागेत",
+      "name_en": "Baby Dnyaneshwar Rageet"
+    },
+    {
+      "serial_number": 136,
+      "name_mr": "अरुण ज्ञानेश्वर संतापले",
+      "name_en": "Arun Dnyaneshwar angry"
+    },
+    {
+      "serial_number": 137,
+      "name_mr": "संजय ज्ञानेश्वर रागीट",
+      "name_en": "Sanjay Dnyaneshwar ragit"
+    },
+    {
+      "serial_number": 138,
+      "name_mr": "चंदा दिनेश सोनटके",
+      "name_en": "Chanda Dinesh Sonthke"
+    },
+    {
+      "serial_number": 139,
+      "name_mr": "भूषण राम नारायण अवचट",
+      "name_en": "Bhushan Ram Narayan Awachat"
+    },
+    {
+      "serial_number": 140,
+      "name_mr": "लक्ष्मण ॥त्रामण नारद",
+      "name_en": "Laxman Zitraman Narad"
+    },
+    {
+      "serial_number": 141,
+      "name_mr": "राधा नथु नारद",
+      "name_en": "Radha Natthu Narad"
+    },
+    {
+      "serial_number": 142,
+      "name_mr": "प्रवीण नत्थू नारद",
+      "name_en": "Pravin Natthu Narad"
+    },
+    {
+      "serial_number": 143,
+      "name_mr": "अरविंद अशोक चौधरी",
+      "name_en": "Arvind Ashok Chaudhary"
+    },
+    {
+      "serial_number": 144,
+      "name_mr": "राजू रामकृष्ण चोपकर",
+      "name_en": "Raju Ramakrishna Chopkar"
+    },
+    {
+      "serial_number": 145,
+      "name_mr": "सुनीता राजू चोपकर",
+      "name_en": "Sunita Raju Chopkar"
+    },
+    {
+      "serial_number": 146,
+      "name_mr": "पल्लवी दशरथ डाखोळे",
+      "name_en": "Pallavi Dasaratha Dakhole"
+    },
+    {
+      "serial_number": 147,
+      "name_mr": "धनराज नारायण कावळे",
+      "name_en": "Dhanraj Narayan Kawle"
+    },
+    {
+      "serial_number": 148,
+      "name_mr": "निशा धनराज कावळे",
+      "name_en": "Nisha Dhanraj Kawle"
+    },
+    {
+      "serial_number": 149,
+      "name_mr": "लक्ष्मी सुनील लोटणे",
+      "name_en": "Lakshmi Sunil Lotane"
+    },
+    {
+      "serial_number": 150,
+      "name_mr": "श्रेया श्रीकांत मारावर",
+      "name_en": "Shreya Srikanth Marawar"
+    },
+    {
+      "serial_number": 151,
+      "name_mr": "लक्ष्मण नारद",
+      "name_en": "Laxman Narad"
+    },
+    {
+      "serial_number": 152,
+      "name_mr": "वैशाली तेजराम पुरी",
+      "name_en": "Vaishali Tejram Puri"
+    },
+    {
+      "serial_number": 153,
+      "name_mr": "पल्लवी बाबाराव टेंबुकर",
+      "name_en": "Pallavi Babarao Tembukar"
+    },
+    {
+      "serial_number": 154,
+      "name_mr": "रेश्मा राजुजी कामडे",
+      "name_en": "Reshma Rajuji Kamde"
+    },
+    {
+      "serial_number": 155,
+      "name_mr": "उज्वला किर्तीश कावळे",
+      "name_en": "Ujwala Kirtish Kawle"
+    },
+    {
+      "serial_number": 156,
+      "name_mr": "चंद्रभान तुकाराम अवचट",
+      "name_en": "Chandrabhan Tukaram Awachat"
+    },
+    {
+      "serial_number": 157,
+      "name_mr": "छाया चंद्रभान अवचट",
+      "name_en": "Chhaya Chandrabhan Awachat"
+    },
+    {
+      "serial_number": 158,
+      "name_mr": "प्रकाश चंद्रभान अवचट",
+      "name_en": "Prakash Chandrabhan Awachat"
+    },
+    {
+      "serial_number": 159,
+      "name_mr": "निलेश चंद्रभान अवचट",
+      "name_en": "Nilesh Chandrabhan Awachat"
+    },
+    {
+      "serial_number": 160,
+      "name_mr": "शंकर किसन रागीट",
+      "name_en": "Shankar Kisan Ragit"
+    },
+    {
+      "serial_number": 161,
+      "name_mr": "नानू शंकर रागीट आहेत",
+      "name_en": "Nanu Shankar is Ragit"
+    },
+    {
+      "serial_number": 162,
+      "name_mr": "कवडू शंकर रागीट",
+      "name_en": "Kavadu Shankar ragit"
+    },
+    {
+      "serial_number": 163,
+      "name_mr": "कुमुद विनायक अवचट",
+      "name_en": "Kumud Vinayak Awachat"
+    },
+    {
+      "serial_number": 164,
+      "name_mr": "कौसाबाई दौलत अवचट",
+      "name_en": "Kausabai Daulat Awachat"
+    },
+    {
+      "serial_number": 165,
+      "name_mr": "विनायक दौलत अवचट",
+      "name_en": "Vinayak Daulat Awachat"
+    },
+    {
+      "serial_number": 166,
+      "name_mr": "लीला विनायक अवचट",
+      "name_en": "Leela Vinayak Awachat"
+    },
+    {
+      "serial_number": 167,
+      "name_mr": "रितेश विनायक अवचट",
+      "name_en": "Ritesh Vinayak Awachat"
+    },
+    {
+      "serial_number": 168,
+      "name_mr": "विमल मारोती मडावी",
+      "name_en": "Vimal Maroti Madavi"
+    },
+    {
+      "serial_number": 169,
+      "name_mr": "कविता मारोती मडावी",
+      "name_en": "Kavita Maroti Madavi"
+    },
+    {
+      "serial_number": 170,
+      "name_mr": "विजय मारोती मडावी",
+      "name_en": "Vijay Maroti Madavi"
+    },
+    {
+      "serial_number": 171,
+      "name_mr": "अविनाश पांडुरंग चौधरी",
+      "name_en": "Avinash Pandurang Chaudhary"
+    },
+    {
+      "serial_number": 172,
+      "name_mr": "भोजराज भुजंगराव काकडे",
+      "name_en": "Bhojraj Bhujangrao Kakde"
+    },
+    {
+      "serial_number": 173,
+      "name_mr": "प्रतिक उमाकांत मानकर",
+      "name_en": "Pratik Umakant Mankar"
+    },
+    {
+      "serial_number": 174,
+      "name_mr": "माया प्रमोद राऊत",
+      "name_en": "Maya Pramod Raut"
+    },
+    {
+      "serial_number": 175,
+      "name_mr": "अमोल प्रमोद राऊत",
+      "name_en": "Amol Pramod Raut"
+    },
+    {
+      "serial_number": 176,
+      "name_mr": "हर्षिद प्रमोद राऊत",
+      "name_en": "Harshid Pramod Raut"
+    },
+    {
+      "serial_number": 177,
+      "name_mr": "जयश्री अमोलराव राऊत",
+      "name_en": "Jayshree Amolrao Raut"
+    },
+    {
+      "serial_number": 178,
+      "name_mr": "महादेव गोपाळराव राऊत",
+      "name_en": "Mahadev Gopalrao Raut"
+    },
+    {
+      "serial_number": 179,
+      "name_mr": "विमल महादेव राऊत",
+      "name_en": "Vimal Mahadev Raut"
+    },
+    {
+      "serial_number": 180,
+      "name_mr": "प्रशांत महादेव राऊत",
+      "name_en": "Prashant Mahadev Raut"
+    },
+    {
+      "serial_number": 181,
+      "name_mr": "शेषराव सुहास राऊत",
+      "name_en": "Seshrao Suhas Raut"
+    },
+    {
+      "serial_number": 182,
+      "name_mr": "चंद्रभागा दौलत चाप्पेकर",
+      "name_en": "Chandrabhaga Daulat Chappekar"
+    },
+    {
+      "serial_number": 183,
+      "name_mr": "दयाराम दौलत चापेकर",
+      "name_en": "Dayaram Daulat Chapekar"
+    },
+    {
+      "serial_number": 184,
+      "name_mr": "विद्या दयाराम चाप्पेकर",
+      "name_en": "Vidya Dayaram Chappekar"
+    },
+    {
+      "serial_number": 185,
+      "name_mr": "शांताबाई कवडूजी डाबरकर",
+      "name_en": "Shantabai Kavaduji Daburkar"
+    },
+    {
+      "serial_number": 186,
+      "name_mr": "सुनीता ईश्वर डाबरकर",
+      "name_en": "Sunita Ishwar Daburkar"
+    },
+    {
+      "serial_number": 187,
+      "name_mr": "दिलीप कवडूजी डाबरकर",
+      "name_en": "Dilip Kavaduji Daburkar"
+    },
+    {
+      "serial_number": 188,
+      "name_mr": "विजय कवडूजी डाबरकर",
+      "name_en": "Vijay Kavaduji Daburkar"
+    },
+    {
+      "serial_number": 189,
+      "name_mr": "अविनाश ईश्वर डाबरकर",
+      "name_en": "Avinash Ishwar Daburkar"
+    },
+    {
+      "serial_number": 190,
+      "name_mr": "संदीप ईश्वर डाबरकर",
+      "name_en": "Sandeep Ishwar Daburkar"
+    },
+    {
+      "serial_number": 191,
+      "name_mr": "शालुताई अविनाश डाबरकर",
+      "name_en": "Shalutai Avinash Daburkar"
+    },
+    {
+      "serial_number": 192,
+      "name_mr": "सुरेश रमेशराव डाखोळे",
+      "name_en": "Suresh Rameshrao Dakhole"
+    },
+    {
+      "serial_number": 193,
+      "name_mr": "रामनारायण श्रवण अवचट",
+      "name_en": "Ramnarayan Shravan Avachat"
+    },
+    {
+      "serial_number": 194,
+      "name_mr": "वनिता रामनारायण अवचट",
+      "name_en": "Vanita Ramnarayan Awachat"
+    },
+    {
+      "serial_number": 195,
+      "name_mr": "माधुरी जितेंद्रराव कावळे",
+      "name_en": "Madhuri Jitendra Rao Kawle"
+    },
+    {
+      "serial_number": 196,
+      "name_mr": "राजू महादेव कावळे",
+      "name_en": "Raju Mahadev Kawle"
+    },
+    {
+      "serial_number": 197,
+      "name_mr": "पुजा दिला कावळे",
+      "name_en": "Puja Dila Kawle"
+    },
+    {
+      "serial_number": 198,
+      "name_mr": "ललिता ज्ञानेश्वर कातोरे",
+      "name_en": "Lalita Dnyaneshwar Katore"
+    },
+    {
+      "serial_number": 199,
+      "name_mr": "विनायक बाबाराव कावळे",
+      "name_en": "Vinayak Babarao Kawle"
+    },
+    {
+      "serial_number": 200,
+      "name_mr": "प्रेमा डाबरकर",
+      "name_en": "Prema Daburkar"
+    },
+    {
+      "serial_number": 201,
+      "name_mr": "प्रिती नितेश ठाकरे",
+      "name_en": "Priti Nitesh Thackeray"
+    },
+    {
+      "serial_number": 202,
+      "name_mr": "राहुल अरुण ठाकरे",
+      "name_en": "Rahul Arun Thackeray"
+    },
+    {
+      "serial_number": 203,
+      "name_mr": "अश्विनी मोरेश्वर चाप्पेकर",
+      "name_en": "Ashwini Moreshwar Chappekar"
+    },
+    {
+      "serial_number": 204,
+      "name_mr": "पांडुरंग गोविंदा डाबरकर",
+      "name_en": "Pandurang Govinda Daburkar"
+    },
+    {
+      "serial_number": 205,
+      "name_mr": "कांता पांडुरंग डाबरकर",
+      "name_en": "Kanta Pandurang Daburkar"
+    },
+    {
+      "serial_number": 206,
+      "name_mr": "नामदेव पांडुरंग डाबरकर",
+      "name_en": "Namdev Pandurang Daburkar"
+    },
+    {
+      "serial_number": 207,
+      "name_mr": "शांताबाई तुळशीराम डाबरकर",
+      "name_en": "Shantabai Tulshiram Daburkar"
+    },
+    {
+      "serial_number": 208,
+      "name_mr": "राजू तुळशीराम डाबरकर",
+      "name_en": "Raju Tulshiram Daburkar"
+    },
+    {
+      "serial_number": 209,
+      "name_mr": "सुनीता राजू डाबरकर",
+      "name_en": "Sunita Raju Daburkar"
+    },
+    {
+      "serial_number": 210,
+      "name_mr": "मनीषा कवडू कवळे",
+      "name_en": "Manisha Kavadu Kavale"
+    },
+    {
+      "serial_number": 211,
+      "name_mr": "निकिता भूषणजी अवचट",
+      "name_en": "Nikita Bhushanji Awachat"
+    },
+    {
+      "serial_number": 212,
+      "name_mr": "विठोबा फकिरा कावळे",
+      "name_en": "Vithoba Fakira Kawle"
+    },
+    {
+      "serial_number": 213,
+      "name_mr": "पद्माकर विठोबा कवळे",
+      "name_en": "Padmakar Vithoba Kavale"
+    },
+    {
+      "serial_number": 214,
+      "name_mr": "राजू ईश्वर कवळे",
+      "name_en": "Raju Ishwar Kavale"
+    },
+    {
+      "serial_number": 215,
+      "name_mr": "सुचिता राजू कावळे",
+      "name_en": "Suchita Raju Kawle"
+    },
+    {
+      "serial_number": 216,
+      "name_mr": "रोशना ईश्वरराव कावळे",
+      "name_en": "Roshana Eshwar Rao Kawle"
+    },
+    {
+      "serial_number": 217,
+      "name_mr": "माया पद्माकर कावळे",
+      "name_en": "Maya Padmakar Crow"
+    },
+    {
+      "serial_number": 218,
+      "name_mr": "जयश्री अनिल चौधरी",
+      "name_en": "Jayshree Anil Chaudhary"
+    },
+    {
+      "serial_number": 219,
+      "name_mr": "विनोद नारायण कावळे",
+      "name_en": "Vinod Narayan Kawle"
+    },
+    {
+      "serial_number": 220,
+      "name_mr": "कल्पना मारुतीराव कावळे",
+      "name_en": "Kalpana Maruti Rao Kawle"
+    },
+    {
+      "serial_number": 221,
+      "name_mr": "शांताबाई नारायण कावळे",
+      "name_en": "Shantabai Narayan Kawle"
+    },
+    {
+      "serial_number": 222,
+      "name_mr": "रमेश भोलानाथ नानवटकर",
+      "name_en": "Ramesh Bholanath Nanwatkar"
+    },
+    {
+      "serial_number": 223,
+      "name_mr": "राणी सतीश कोल्हे",
+      "name_en": "Rani Satish Kolhe"
+    },
+    {
+      "serial_number": 224,
+      "name_mr": "मेघा ज्ञानेश्वर घनचक्कर",
+      "name_en": "Megha Dnyaneshwar Ghanchakkar"
+    },
+    {
+      "serial_number": 225,
+      "name_mr": "सुमित्रा वसंत कावळे",
+      "name_en": "Sumitra Vasant Kavale"
+    },
+    {
+      "serial_number": 226,
+      "name_mr": "चंपतराव माधव कावळे",
+      "name_en": "Champatrao Madhav Kawle"
+    },
+    {
+      "serial_number": 227,
+      "name_mr": "विलास चंपतराव कावळे",
+      "name_en": "Vilas Champatrao Kawle"
+    },
+    {
+      "serial_number": 228,
+      "name_mr": "नंदा विलास कावळे",
+      "name_en": "Nanda Vilas Kawle"
+    },
+    {
+      "serial_number": 229,
+      "name_mr": "संगीता नीलकंठ कवळे",
+      "name_en": "Sangeeta Nilakantha Kavale"
+    },
+    {
+      "serial_number": 230,
+      "name_mr": "जयश्री नेमराज नारद",
+      "name_en": "Jaishree Nemraj Narad"
+    },
+    {
+      "serial_number": 231,
+      "name_mr": "प्रियंका दयारामजी चापेकर",
+      "name_en": "Priyanka Dayaramji Chapekar"
+    },
+    {
+      "serial_number": 232,
+      "name_mr": "पूजा आतिश कावळे",
+      "name_en": "Pooja Atish Kavle"
+    },
+    {
+      "serial_number": 233,
+      "name_mr": "अर्चना नंदकिशोर लाजुरकर",
+      "name_en": "Archana Nandkishor Lajurkar"
+    },
+    {
+      "serial_number": 234,
+      "name_mr": "तृप्ती विजय मडावी",
+      "name_en": "Tripti Vijay Madavi"
+    },
+    {
+      "serial_number": 235,
+      "name_mr": "प्रेमराज नीलकंठ मस्की",
+      "name_en": "Premraj Neelkanth Maski"
+    },
+    {
+      "serial_number": 236,
+      "name_mr": "नेमराज तुकाराम नारद",
+      "name_en": "Nemraj Tukaram Narad"
+    },
+    {
+      "serial_number": 237,
+      "name_mr": "सुमन नेमराज नारद",
+      "name_en": "Suman Nemraj Narad"
+    },
+    {
+      "serial_number": 238,
+      "name_mr": "नरेंद्र तुकाराम नारद",
+      "name_en": "Narendra Tukaram Narad"
+    },
+    {
+      "serial_number": 239,
+      "name_mr": "कुमुद विठ्ठल चापेकर",
+      "name_en": "Kumud Vitthal Chapekar"
+    },
+    {
+      "serial_number": 240,
+      "name_mr": "तनुज नरेंद्र नारद",
+      "name_en": "Tanuj Narendra Narad"
+    },
+    {
+      "serial_number": 241,
+      "name_mr": "मयुरी अरुण चापेकर",
+      "name_en": "Mayuri Arun Chapekar"
+    },
+    {
+      "serial_number": 242,
+      "name_mr": "मीरा शंकर कावळे",
+      "name_en": "Mira Shankar Kavle"
+    },
+    {
+      "serial_number": 243,
+      "name_mr": "मनोहर शंकर कावळे",
+      "name_en": "Manohar Shankar Kavle"
+    },
+    {
+      "serial_number": 244,
+      "name_mr": "कल्पना मनोहर कवळे",
+      "name_en": "Kalpana Manohar Kavale"
+    },
+    {
+      "serial_number": 245,
+      "name_mr": "प्रीती सतीश चापेकर",
+      "name_en": "Preeti Satish Chapekar"
+    },
+    {
+      "serial_number": 246,
+      "name_mr": "पाडुरंग तुकाराम घिये",
+      "name_en": "Padurang Tukaram Ghiye"
+    },
+    {
+      "serial_number": 247,
+      "name_mr": "कवडू पांडुरंग गावडे",
+      "name_en": "Kavadu Pandurang Gawade"
+    },
+    {
+      "serial_number": 248,
+      "name_mr": "सुनंदा कवडू गावडे",
+      "name_en": "Sunanda Kavadu Gawade"
+    },
+    {
+      "serial_number": 249,
+      "name_mr": "बरजा बिसन मसराम",
+      "name_en": "Barja Bisan Masram"
+    },
+    {
+      "serial_number": 250,
+      "name_mr": "सतीश वसंतराव डाखोळे",
+      "name_en": "Satish Vasant Rao Dakhole"
+    },
+    {
+      "serial_number": 251,
+      "name_mr": "सीताबाई रामकृष्ण डाबरकर",
+      "name_en": "Sitabai Ramakrishna Daburkar"
+    },
+    {
+      "serial_number": 252,
+      "name_mr": "शैलेश रामकृष्ण डाबरकर",
+      "name_en": "Shailesh Ramakrishna Daburkar"
+    },
+    {
+      "serial_number": 253,
+      "name_mr": "शैलजा शैलेश डाबरकर",
+      "name_en": "Shailaja Shailesh Daburkar"
+    },
+    {
+      "serial_number": 254,
+      "name_mr": "अभय रामकृष्ण डाबरकर",
+      "name_en": "Abhay Ramkrishna Dabarkar"
+    },
+    {
+      "serial_number": 255,
+      "name_mr": "सुनील रामकृष्ण डाबरकर",
+      "name_en": "Sunil Ramakrishna Daburkar"
+    },
+    {
+      "serial_number": 256,
+      "name_mr": "वाल्मिक रामा चापेकर",
+      "name_en": "Valmik Rama Chapekar"
+    },
+    {
+      "serial_number": 257,
+      "name_mr": "पुष्पा वाल्मिक चापेकर",
+      "name_en": "Pushpa Valmik Chapekar"
+    },
+    {
+      "serial_number": 258,
+      "name_mr": "नारायण रामा चापेकर",
+      "name_en": "Narayan Rama Chapekar"
+    },
+    {
+      "serial_number": 259,
+      "name_mr": "सुनंदा नारायण चापेकर",
+      "name_en": "Sunanda Narayan Chapekar"
+    },
+    {
+      "serial_number": 260,
+      "name_mr": "मनीषा अभयराव डाबरकर",
+      "name_en": "Manisha Abhayrao Daburkar"
+    },
+    {
+      "serial_number": 261,
+      "name_mr": "रामदासजी झिबळ चापेकर",
+      "name_en": "Ramdasji Jhibal Chapekar"
+    },
+    {
+      "serial_number": 262,
+      "name_mr": "राधाबाई रामदास चापेकर",
+      "name_en": "Radhabai Ramdas Chapekar"
+    },
+    {
+      "serial_number": 263,
+      "name_mr": "सुधाकर रामदास चापेकर",
+      "name_en": "Sudhakar Ramdas Chapekar"
+    },
+    {
+      "serial_number": 264,
+      "name_mr": "मीरा सुधाकर चापेकर",
+      "name_en": "Mira Sudhakar Chapekar"
+    },
+    {
+      "serial_number": 265,
+      "name_mr": "मुरलीधर रामदास चापेकर",
+      "name_en": "Muralidhar Ramdas Chapekar"
+    },
+    {
+      "serial_number": 266,
+      "name_mr": "सुशीला दिनकर मडाव",
+      "name_en": "Sushila Dinkar Madavah"
+    },
+    {
+      "serial_number": 267,
+      "name_mr": "दिनकर सखाराम मडावी",
+      "name_en": "Dinkar Sakharam Madavi"
+    },
+    {
+      "serial_number": 268,
+      "name_mr": "कमला महादेव वानखेडे",
+      "name_en": "Kamala Mahadev Wankhede"
+    },
+    {
+      "serial_number": 269,
+      "name_mr": "सुरेश महादेव वानखेडे",
+      "name_en": "Suresh Mahadev Wankhede"
+    },
+    {
+      "serial_number": 270,
+      "name_mr": "माधुरी सुरेश वानखेडे",
+      "name_en": "Madhuri Suresh Wankhede"
+    },
+    {
+      "serial_number": 271,
+      "name_mr": "राजू महादेव वानखेडे",
+      "name_en": "Raju Mahadev Wankhede"
+    },
+    {
+      "serial_number": 272,
+      "name_mr": "शालिक तानबा वानखेडे",
+      "name_en": "Shalik Tanba Wankhede"
+    },
+    {
+      "serial_number": 273,
+      "name_mr": "सुशीला शालिक वानखेडे",
+      "name_en": "Sushila Shalik Wankhede"
+    },
+    {
+      "serial_number": 274,
+      "name_mr": "संजय शालिक वानखेडे",
+      "name_en": "Sanjay Shalik Wankhede"
+    },
+    {
+      "serial_number": 275,
+      "name_mr": "विकास भय्याजी गवळी",
+      "name_en": "Vikas Bhayyaji Gawali"
+    },
+    {
+      "serial_number": 276,
+      "name_mr": "परबता रामा वानखेडे",
+      "name_en": "Parbata Rama Wankhede"
+    },
+    {
+      "serial_number": 277,
+      "name_mr": "रमेश रामा वानखेडे",
+      "name_en": "Ramesh Rama Wankhede"
+    },
+    {
+      "serial_number": 278,
+      "name_mr": "कल्पना रमेश वानखेडे",
+      "name_en": "Kalpana Ramesh Wankhede"
+    },
+    {
+      "serial_number": 279,
+      "name_mr": "लीलेश्वर रामा वानखेडे",
+      "name_en": "Lileshwar Rama Wankhede"
+    },
+    {
+      "serial_number": 280,
+      "name_mr": "चंद्रकला प्रभाकर कवळे",
+      "name_en": "Chandrakala Prabhakar Kavale"
+    },
+    {
+      "serial_number": 281,
+      "name_mr": "लंकेश प्रभाकर कावळे",
+      "name_en": "Lankesh Prabhakar Kawle"
+    },
+    {
+      "serial_number": 282,
+      "name_mr": "शुभम राजू चोपकर",
+      "name_en": "Shubham Raju Chopkar"
+    },
+    {
+      "serial_number": 283,
+      "name_mr": "चंपत तुकाराम नारद",
+      "name_en": "Champat Tukaram Narad"
+    },
+    {
+      "serial_number": 284,
+      "name_mr": "कृष्ण चंपत नरह",
+      "name_en": "Krishna Champat Narah"
+    },
+    {
+      "serial_number": 285,
+      "name_mr": "उन्हेल मारोती बजैत",
+      "name_en": "Unhel Maroti Bajait"
+    },
+    {
+      "serial_number": 286,
+      "name_mr": "अश्विनी गजानन कामडी",
+      "name_en": "Ashwini Gajanan Kamdi"
+    },
+    {
+      "serial_number": 287,
+      "name_mr": "नंद मारुती कावळे",
+      "name_en": "Nand Maruti Kawle"
+    },
+    {
+      "serial_number": 288,
+      "name_mr": "भास्कर रामदासजी बनकर",
+      "name_en": "Bhaskar Ramdasji Bankar"
+    },
+    {
+      "serial_number": 289,
+      "name_mr": "भैय्या नागो गवळी",
+      "name_en": "Bhaiyya Nago Gawli"
+    },
+    {
+      "serial_number": 290,
+      "name_mr": "गीता भैय्या गवळी",
+      "name_en": "Geeta Bhaiya Gawli"
+    },
+    {
+      "serial_number": 291,
+      "name_mr": "जगदीश भैय्या गवळी",
+      "name_en": "Jagdish Bhaiyya Gawli"
+    },
+    {
+      "serial_number": 292,
+      "name_mr": "बाबाराव दादा कावळे",
+      "name_en": "Babarao Dada Kawle"
+    },
+    {
+      "serial_number": 293,
+      "name_mr": "नंदा बाबाराव कावळे",
+      "name_en": "Nanda Babarao Kawle"
+    },
+    {
+      "serial_number": 294,
+      "name_mr": "सुनीता नंदकिशोर कुथे",
+      "name_en": "Sunita Nandkishore Kuthe"
+    },
+    {
+      "serial_number": 295,
+      "name_mr": "नंदकिशोर रामदास कुथे",
+      "name_en": "Nandkishore Ramdas Kuthe"
+    },
+    {
+      "serial_number": 296,
+      "name_mr": "अंजनाबाई माणिक वर्मे",
+      "name_en": "Anjanabai Manik Varme"
+    },
+    {
+      "serial_number": 297,
+      "name_mr": "चेतन अरुणराव ठाकरे",
+      "name_en": "Chetan Arunrao Thackeray"
+    },
+    {
+      "serial_number": 298,
+      "name_mr": "मनीषा दशरत डाखोळे",
+      "name_en": "Manisha Dashrat Dakhole"
+    },
+    {
+      "serial_number": 299,
+      "name_mr": "रमेश लक्ष्मण चाप्पेकर",
+      "name_en": "Ramesh Laxman Chappekar"
+    },
+    {
+      "serial_number": 300,
+      "name_mr": "पार्वती रमेश चाप्पेकर",
+      "name_en": "Parvati Ramesh Chappekar"
+    },
+    {
+      "serial_number": 301,
+      "name_mr": "शंकर भाऊराव चाप्पेकर",
+      "name_en": "Shankar Bhaurao Chappekar"
+    },
+    {
+      "serial_number": 302,
+      "name_mr": "शेवंता संपत चापेकर",
+      "name_en": "Shevanta Sampat Chapekar"
+    },
+    {
+      "serial_number": 303,
+      "name_mr": "मुकुंदा संपत चापेकर",
+      "name_en": "Mukunda Sampat Chapekar"
+    },
+    {
+      "serial_number": 304,
+      "name_mr": "बंडू मुकुंदा प्रिंटमेकर",
+      "name_en": "Bandu Mukunda Printmaker"
+    },
+    {
+      "serial_number": 305,
+      "name_mr": "सुधीर शंकर चाप्पेकर",
+      "name_en": "Sudhir Shankar Chappekar"
+    },
+    {
+      "serial_number": 306,
+      "name_mr": "अरुण शंकर चाप्पेकर",
+      "name_en": "Arun Shankar Chappekar"
+    },
+    {
+      "serial_number": 307,
+      "name_mr": "नारायण नागो कावळे",
+      "name_en": "Narayan Nago Kawle"
+    },
+    {
+      "serial_number": 308,
+      "name_mr": "लक्ष्मी नारायण कावळे",
+      "name_en": "Lakshmi Narayan Kawle"
+    },
+    {
+      "serial_number": 309,
+      "name_mr": "मारोती नारायण कावळे",
+      "name_en": "Maroti Narayan Kawle"
+    },
+    {
+      "serial_number": 310,
+      "name_mr": "धनराज मोतीराम डाखोळे",
+      "name_en": "Dhanraj Motiram Dakhole"
+    },
+    {
+      "serial_number": 311,
+      "name_mr": "तुळसाबाई धनराज डाखोळे",
+      "name_en": "Tulsabai Dhanraj Dakhole"
+    },
+    {
+      "serial_number": 312,
+      "name_mr": "अश्विनी शकरराव सांभारे",
+      "name_en": "Ashwini Shakarrao Sambhare"
+    },
+    {
+      "serial_number": 313,
+      "name_mr": "थिलाराम झितराम घनचकार",
+      "name_en": "Thilaram Zitram Ghanchakar"
+    },
+    {
+      "serial_number": 314,
+      "name_mr": "कांता मिलराम घनचक्कर",
+      "name_en": "Kanta Milram Ghanchakkar"
+    },
+    {
+      "serial_number": 315,
+      "name_mr": "ज्ञानेश्वर शित्रामण घनचकार",
+      "name_en": "Dnyaneshwar Shitraman Ghanchakar"
+    },
+    {
+      "serial_number": 316,
+      "name_mr": "प्रभा गंगाधर",
+      "name_en": "Prabha Gangadhar"
+    },
+    {
+      "serial_number": 317,
+      "name_mr": "जोश्ना गंगाधर कोल्हे",
+      "name_en": "Joshna Gangadhar Kolhe"
+    },
+    {
+      "serial_number": 318,
+      "name_mr": "कमला झितरामन कोल्हे",
+      "name_en": "Kamala Jhitraman Kolhe"
+    },
+    {
+      "serial_number": 319,
+      "name_mr": "सुभाष झितरामन कोल्हे",
+      "name_en": "Subhash Zitraman Kolhe"
+    },
+    {
+      "serial_number": 320,
+      "name_mr": "विकास मुरलीधर चांदे",
+      "name_en": "Vikas Murlidhar Chande"
+    },
+    {
+      "serial_number": 321,
+      "name_mr": "सुषमा ईश्वर काळे",
+      "name_en": "Sushma Ishwar Kale"
+    },
+    {
+      "serial_number": 322,
+      "name_mr": "संदिप सुखदेवजी काळे",
+      "name_en": "Sandip Sukhdevji Kale"
+    },
+    {
+      "serial_number": 323,
+      "name_mr": "मुरलीधर नामदेव कोल्हे",
+      "name_en": "Murlidhar Namdev Kolhe"
+    },
+    {
+      "serial_number": 324,
+      "name_mr": "अशोक उमाजी शेंडे",
+      "name_en": "Ashok Umaji Shende"
+    },
+    {
+      "serial_number": 325,
+      "name_mr": "बंडू उमाजी शेंडे",
+      "name_en": "Bandu Umaji Shende"
+    },
+    {
+      "serial_number": 326,
+      "name_mr": "ताई बंडू शेंडे",
+      "name_en": "Tai Bandu Shende"
+    },
+    {
+      "serial_number": 327,
+      "name_mr": "गोदावरी अशोक शेंडे",
+      "name_en": "Godavari Ashok Shende"
+    },
+    {
+      "serial_number": 328,
+      "name_mr": "शालिनी राजेश खडके",
+      "name_en": "Shalini Rajesh Khadke"
+    },
+    {
+      "serial_number": 329,
+      "name_mr": "सुचिता कावळे",
+      "name_en": "Suchita Kawle"
+    },
+    {
+      "serial_number": 330,
+      "name_mr": "श्रेया टेंभुरकर",
+      "name_en": "Shreya Tembhurkar"
+    },
+    {
+      "serial_number": 331,
+      "name_mr": "महादेवराव यादवराव ठाकूर",
+      "name_en": "Mahadevarao Yadavrao Thakur"
+    },
+    {
+      "serial_number": 332,
+      "name_mr": "मंगला महादेव ठाकूर",
+      "name_en": "Mangala Mahadev Thakur"
+    },
+    {
+      "serial_number": 333,
+      "name_mr": "गंगा महादेव ठाकूर",
+      "name_en": "Ganga Mahadev Thakur"
+    },
+    {
+      "serial_number": 334,
+      "name_mr": "शंकर सीताराम",
+      "name_en": "Shankar Sitaram"
+    },
+    {
+      "serial_number": 335,
+      "name_mr": "पार्वती शंकर वाळे",
+      "name_en": "Parvati Shankar Waze"
+    },
+    {
+      "serial_number": 336,
+      "name_mr": "गेंदलाल सीताराम वाळे",
+      "name_en": "Gendlal Sitaram Waze"
+    },
+    {
+      "serial_number": 337,
+      "name_mr": "शांता गेंदलाल वाळे",
+      "name_en": "Shanta Gendlal Waze"
+    },
+    {
+      "serial_number": 338,
+      "name_mr": "नंदकिशोर शंकर मेश्राम",
+      "name_en": "Nandkishore Shankar Meshram"
+    },
+    {
+      "serial_number": 339,
+      "name_mr": "ज्योत्सना नंदकिशोर मेश्राम",
+      "name_en": "Jyotsana Nandkishore Meshram"
+    },
+    {
+      "serial_number": 340,
+      "name_mr": "उमेश मारोती पुंड",
+      "name_en": "Umesh Maroti Pund"
+    },
+    {
+      "serial_number": 341,
+      "name_mr": "चंदा मारोती पुंड",
+      "name_en": "Chanda Maroti Pund"
+    },
+    {
+      "serial_number": 342,
+      "name_mr": "प्रीतम शंकरराव वसे",
+      "name_en": "Pritam Shankarao Vse"
+    },
+    {
+      "serial_number": 343,
+      "name_mr": "रामचंद्र पांडुरंग दाभेकर",
+      "name_en": "Ramchandra Pandurang Dabhekar"
+    },
+    {
+      "serial_number": 344,
+      "name_mr": "अनुसया रामचंद्र दाभेकर",
+      "name_en": "Anusaya Ramchandra Dabhekar"
+    },
+    {
+      "serial_number": 345,
+      "name_mr": "सदाशिव रामचंद्र दाभेकर",
+      "name_en": "Sadashiv Ramchandra Dabhekar"
+    },
+    {
+      "serial_number": 346,
+      "name_mr": "मंगला सदाशिव दाभेकर",
+      "name_en": "Mangala Sadashiv Dabhekar"
+    },
+    {
+      "serial_number": 347,
+      "name_mr": "प्रभाकर नत्थुजी कावळे",
+      "name_en": "Prabhakar Natthuji Kawle"
+    },
+    {
+      "serial_number": 348,
+      "name_mr": "विवेक प्रभाकर कावळे",
+      "name_en": "Vivek Prabhakar Kawle"
+    },
+    {
+      "serial_number": 349,
+      "name_mr": "गणेश प्रभाकर कावळे",
+      "name_en": "Ganesh Prabhakar Kawle"
+    },
+    {
+      "serial_number": 350,
+      "name_mr": "धीरज प्रभाकर कावळे",
+      "name_en": "Dheeraj Prabhakar Kawle"
+    },
+    {
+      "serial_number": 351,
+      "name_mr": "सोनाली गजानन कावळे",
+      "name_en": "Sonali Gajanan Kawle"
+    },
+    {
+      "serial_number": 352,
+      "name_mr": "शांताबाई कवडूजी गिरडे",
+      "name_en": "Shantabai Kavaduji Girde"
+    },
+    {
+      "serial_number": 353,
+      "name_mr": "श्रावण शिवराम कवळे",
+      "name_en": "Shravan Shivram Kavale"
+    },
+    {
+      "serial_number": 354,
+      "name_mr": "कमळ श्रवण कावळे",
+      "name_en": "Kamal Shravan crows"
+    },
+    {
+      "serial_number": 355,
+      "name_mr": "संजय श्रावण कावळे",
+      "name_en": "Sanjay Shravan Kawle"
+    },
+    {
+      "serial_number": 356,
+      "name_mr": "किशोर श्रावण कावळे",
+      "name_en": "Kishore Shravan Kawle"
+    },
+    {
+      "serial_number": 357,
+      "name_mr": "सरस्वती भोजराज कावळे",
+      "name_en": "Saraswati Bhojraj Kawle"
+    },
+    {
+      "serial_number": 358,
+      "name_mr": "रमेश पांडुरंग कावळे",
+      "name_en": "Ramesh Pandurang Kawle"
+    },
+    {
+      "serial_number": 359,
+      "name_mr": "आशा रमेश डाखोळे",
+      "name_en": "Asha Ramesh Dakhole"
+    },
+    {
+      "serial_number": 360,
+      "name_mr": "लीलेश्वर रमेशराव डाखोळे",
+      "name_en": "Lileshwar Rameshrao Dakhole"
+    },
+    {
+      "serial_number": 361,
+      "name_mr": "आशा रमेश कावळे",
+      "name_en": "Asha Ramesh Kawle"
+    },
+    {
+      "serial_number": 362,
+      "name_mr": "अमोल रमेश कावळे",
+      "name_en": "Amol Ramesh Kawle"
+    },
+    {
+      "serial_number": 363,
+      "name_mr": "रोशन रमेश कावळे",
+      "name_en": "Roshan Ramesh Kawle"
+    },
+    {
+      "serial_number": 364,
+      "name_mr": "सकळ गानबा मानकर",
+      "name_en": "Saku Ganba Mankar"
+    },
+    {
+      "serial_number": 365,
+      "name_mr": "दिनेश गानबा मानकर",
+      "name_en": "Dinesh Ganba Mankar"
+    },
+    {
+      "serial_number": 366,
+      "name_mr": "छाया दिनेश मानकर",
+      "name_en": "Chaya Dinesh Mankar"
+    },
+    {
+      "serial_number": 367,
+      "name_mr": "सरस्वती नारायण डाबरकर",
+      "name_en": "Saraswati Narayan Daburkar"
+    },
+    {
+      "serial_number": 368,
+      "name_mr": "शरद नारायण डाबरकर",
+      "name_en": "Sharad Narayan Daburkar"
+    },
+    {
+      "serial_number": 369,
+      "name_mr": "गजानन नारायण डाबरकर",
+      "name_en": "Gajanan Narayan Daburkar"
+    },
+    {
+      "serial_number": 370,
+      "name_mr": "शकुंतला नत्थू लाजुरकर",
+      "name_en": "Shakuntala Natthu Lajurkar"
+    },
+    {
+      "serial_number": 371,
+      "name_mr": "संजय नत्थू लाजुरकर",
+      "name_en": "Sanjay Natthu Lajurkar"
+    },
+    {
+      "serial_number": 372,
+      "name_mr": "नंदकिशोर नत्थुजी लाजुरकर",
+      "name_en": "Nandkishore Natthuji Lajurkar"
+    },
+    {
+      "serial_number": 373,
+      "name_mr": "कमला हरिभाऊ व्हटकर",
+      "name_en": "Kamala Haribhau Watkar"
+    },
+    {
+      "serial_number": 374,
+      "name_mr": "राजू हरिभाऊ व्हटकर",
+      "name_en": "Raju Haribhau Watkar"
+    },
+    {
+      "serial_number": 375,
+      "name_mr": "जितेंद्र हरिभाऊ व्हटकर",
+      "name_en": "Jitendra Haribhau Watkar"
+    },
+    {
+      "serial_number": 376,
+      "name_mr": "बंडू रामकृष्ण घाणेकर",
+      "name_en": "Bandu Ramakrishna Ghanekar"
+    },
+    {
+      "serial_number": 377,
+      "name_mr": "तुकाराम किसन घिये",
+      "name_en": "Tukaram Kisan Ghiye"
+    },
+    {
+      "serial_number": 378,
+      "name_mr": "इंदिरा किसन घिये",
+      "name_en": "Indira Kisan Ghiye"
+    },
+    {
+      "serial_number": 379,
+      "name_mr": "विठ्ठल तुकाराम घिये",
+      "name_en": "Vitthal Tukaram Ghiye"
+    },
+    {
+      "serial_number": 380,
+      "name_mr": "ज्योती विजयराव वरभे",
+      "name_en": "Jyoti Vijayrao Varabhe"
+    },
+    {
+      "serial_number": 381,
+      "name_mr": "कवडूजी श्रावण घिये",
+      "name_en": "kavaduji shravan Ghiye"
+    },
+    {
+      "serial_number": 382,
+      "name_mr": "इंदू कवडूजी घिये",
+      "name_en": "Indu Kavaduji Ghiye"
+    },
+    {
+      "serial_number": 383,
+      "name_mr": "दशरथ रामचंद्र डाखोळे",
+      "name_en": "Dashrath Ramchandra Dakhole"
+    },
+    {
+      "serial_number": 384,
+      "name_mr": "चंदा दशरथ डाखोळे",
+      "name_en": "Chanda Dashrath Dakhole"
+    },
+    {
+      "serial_number": 385,
+      "name_mr": "प्रभाताई सुभाष कावळे",
+      "name_en": "Prabhatai Subhash Kawle"
+    },
+    {
+      "serial_number": 386,
+      "name_mr": "सतीश सुभाष कावळे",
+      "name_en": "Satish Subhash Kawle"
+    },
+    {
+      "serial_number": 387,
+      "name_mr": "आतिश सुभाष कावळे",
+      "name_en": "Atish Subhash Kawle"
+    },
+    {
+      "serial_number": 388,
+      "name_mr": "किर्तीश सुभाषराव कावळे",
+      "name_en": "Kirtish Subhash Rao Kawle"
+    },
+    {
+      "serial_number": 389,
+      "name_mr": "बाळ डोमा कावळे",
+      "name_en": "Baby doma Kawle"
+    },
+    {
+      "serial_number": 390,
+      "name_mr": "भाऊराम पक्कन नेवरे",
+      "name_en": "Bhauram Packan Neware"
+    },
+    {
+      "serial_number": 391,
+      "name_mr": "उर्मिला भाऊराम नेवारे",
+      "name_en": "Urmila Bhauram Neware"
+    },
+    {
+      "serial_number": 392,
+      "name_mr": "सुभाष पांडुरंग वरभे",
+      "name_en": "Subhash Pandurang Varabhe"
+    },
+    {
+      "serial_number": 393,
+      "name_mr": "सुलोचना सुभाष वरभे",
+      "name_en": "Sulochana Subhash Varbhe"
+    },
+    {
+      "serial_number": 394,
+      "name_mr": "अरविंद विठ्ठल वरभे",
+      "name_en": "Arvind Vitthal Varbhe"
+    },
+    {
+      "serial_number": 395,
+      "name_mr": "विठ्ठल पांडुरंग वरभे",
+      "name_en": "Vitthal Pandurang Varbhe"
+    },
+    {
+      "serial_number": 396,
+      "name_mr": "नंदकिशोर सुभाष वरभे",
+      "name_en": "Nandkishore Subhash Varbhe"
+    },
+    {
+      "serial_number": 397,
+      "name_mr": "प्रवीण सुभाष वरभे",
+      "name_en": "Pravin Subhash Varbhe"
+    },
+    {
+      "serial_number": 398,
+      "name_mr": "सतीश देवराव चौधरी",
+      "name_en": "Satish Devrao Chaudhary"
+    },
+    {
+      "serial_number": 399,
+      "name_mr": "बापूराव गणपत वरभे",
+      "name_en": "Bapurao Ganpat Varbhe"
+    },
+    {
+      "serial_number": 400,
+      "name_mr": "तुकाराम बापूराव वरभे",
+      "name_en": "Tukaram Bapurao Varbhe"
+    },
+    {
+      "serial_number": 401,
+      "name_mr": "चेमू तुकाराम वरभे",
+      "name_en": "Cheemu Tukaram Varabhe"
+    },
+    {
+      "serial_number": 402,
+      "name_mr": "मधुकर नत्थुजी फुसे",
+      "name_en": "Madhukar Natthuji Phuse"
+    },
+    {
+      "serial_number": 403,
+      "name_mr": "आशा मधुकर फुसे",
+      "name_en": "Asha Madhukar Phuse"
+    },
+    {
+      "serial_number": 404,
+      "name_mr": "राजश्री सुभाषराव फुसे",
+      "name_en": "Rajshree Subhasrao Phuse"
+    },
+    {
+      "serial_number": 405,
+      "name_mr": "टाइमेश्वर काशिनाथ फुसे",
+      "name_en": "Timeshwar Kashinath Phuse"
+    },
+    {
+      "serial_number": 406,
+      "name_mr": "संदीप मुधुकर फुसे",
+      "name_en": "Sandeep Mudhukar Phuse"
+    },
+    {
+      "serial_number": 407,
+      "name_mr": "लक्ष्मी मधुकर फुसे",
+      "name_en": "Lakshmi Madhukar Phuse"
+    },
+    {
+      "serial_number": 408,
+      "name_mr": "शिल्पा सुभाष फुसे",
+      "name_en": "Shilpa Subhash Phuse"
+    },
+    {
+      "serial_number": 409,
+      "name_mr": "स्वप्नील सुभाष फुसे",
+      "name_en": "Swapnil Subhash Phuse"
+    },
+    {
+      "serial_number": 410,
+      "name_mr": "उषा ओमप्रकाश पालीवाल",
+      "name_en": "Usha Omprakash Paliwal"
+    },
+    {
+      "serial_number": 411,
+      "name_mr": "गजानन भीमराव बजैत",
+      "name_en": "Gajanan Bhimrao Bajait"
+    },
+    {
+      "serial_number": 412,
+      "name_mr": "दिलीप भीमराव बजैत",
+      "name_en": "Dilip Bhimrao Bajait"
+    },
+    {
+      "serial_number": 413,
+      "name_mr": "संजय नारायण झोडे",
+      "name_en": "Sanjay Narayan Zode"
+    },
+    {
+      "serial_number": 414,
+      "name_mr": "नारायण गणपती वरभे",
+      "name_en": "Narayan Ganapati Varabhe"
+    },
+    {
+      "serial_number": 415,
+      "name_mr": "कुसुम नारायण वरभे",
+      "name_en": "Kusum Narayan Varabhe"
+    },
+    {
+      "serial_number": 416,
+      "name_mr": "माधुरी विलास वरभे",
+      "name_en": "Madhuri Vilas Varabhe"
+    },
+    {
+      "serial_number": 417,
+      "name_mr": "विलास नारायण वरभे",
+      "name_en": "Vilas Narayan Varabhe"
+    },
+    {
+      "serial_number": 418,
+      "name_mr": "अनिल नारायण वरभे",
+      "name_en": "Anil Narayan Varabhe"
+    },
+    {
+      "serial_number": 419,
+      "name_mr": "सुनंदा नथुजी कावळे",
+      "name_en": "Sunanda Nathuji Kawle"
+    },
+    {
+      "serial_number": 420,
+      "name_mr": "मंगेश नथुजी कावळे",
+      "name_en": "Mangesh Nathuji Kawle"
+    },
+    {
+      "serial_number": 421,
+      "name_mr": "दिपक नत्थुजी कावळे",
+      "name_en": "Deepak Natthuji Kawle"
+    },
+    {
+      "serial_number": 422,
+      "name_mr": "सचिन नत्थुजी कावळे",
+      "name_en": "Sachin Natthuji Kawle"
+    },
+    {
+      "serial_number": 423,
+      "name_mr": "निलिमा मंगेश कावळे",
+      "name_en": "Nilima Mangesh Kawle"
+    },
+    {
+      "serial_number": 424,
+      "name_mr": "भास्कर बबनराव भोयर",
+      "name_en": "Bhaskar Babanrao Bhoyer"
+    },
+    {
+      "serial_number": 425,
+      "name_mr": "नंदा भास्कर भोयर",
+      "name_en": "Nanda Bhaskar Bhoyer"
+    },
+    {
+      "serial_number": 426,
+      "name_mr": "श्याम देविदास गोमासे",
+      "name_en": "Shyam Devidas Gomase"
+    },
+    {
+      "serial_number": 427,
+      "name_mr": "विद्याताई श्याम गोमासे",
+      "name_en": "Vidhyatai Shyam Gomase"
+    },
+    {
+      "serial_number": 428,
+      "name_mr": "प्रवीण श्याम गोमासे",
+      "name_en": "Pravin Shyam Gomase"
+    },
+    {
+      "serial_number": 429,
+      "name_mr": "ज्योत्स्ना प्रवीण गोमासे",
+      "name_en": "Jyotsna Pravin Gomase"
+    },
+    {
+      "serial_number": 430,
+      "name_mr": "सीता तुळशीराम आली",
+      "name_en": "Sita Tulshiram came"
+    },
+    {
+      "serial_number": 431,
+      "name_mr": "विजय तुळशीराम आले",
+      "name_en": "Vijay Tulshiram came"
+    },
+    {
+      "serial_number": 432,
+      "name_mr": "ज्ञानेश्वर मारोती पोहाणे",
+      "name_en": "Dnyaneshwar Maroti Pohane"
+    },
+    {
+      "serial_number": 433,
+      "name_mr": "लक्ष्मी ज्ञानेश्वर पोहाणे",
+      "name_en": "Lakshmi Dnyaneshwar Pohane"
+    },
+    {
+      "serial_number": 434,
+      "name_mr": "शिवाजी ज्ञानेश्वर पोहाणे",
+      "name_en": "Shivaji Dnyaneshwar Pohane"
+    },
+    {
+      "serial_number": 435,
+      "name_mr": "रामकृष्ण मारोती पोहाणे",
+      "name_en": "Ramakrishna Maroti Pohane"
+    },
+    {
+      "serial_number": 436,
+      "name_mr": "शकुंतला रामकृष्ण पोहाणे",
+      "name_en": "Shakuntala Ramakrishna Pohane"
+    },
+    {
+      "serial_number": 437,
+      "name_mr": "संगिता संजय पोहाणे",
+      "name_en": "Sangita Sanjay Pohane"
+    },
+    {
+      "serial_number": 438,
+      "name_mr": "विनोद रामकृष्ण पोहाणे",
+      "name_en": "Vinod Ramakrishna Pohane"
+    },
+    {
+      "serial_number": 439,
+      "name_mr": "माधव रामकृष्ण पोहाणे",
+      "name_en": "Madhav Ramakrishna Pohane"
+    },
+    {
+      "serial_number": 440,
+      "name_mr": "वासुदेव मारोती पोहाणे",
+      "name_en": "Vasudev Maroti Pohane"
+    },
+    {
+      "serial_number": 441,
+      "name_mr": "शशिकला वासुदेव पोहाणे",
+      "name_en": "Sasikala Vasudev Pohane"
+    },
+    {
+      "serial_number": 442,
+      "name_mr": "अतुल वासुदेवराव पोहाणे",
+      "name_en": "Atul Vasudevarao Pohane"
+    },
+    {
+      "serial_number": 443,
+      "name_mr": "रामदास भाऊराव पुंड",
+      "name_en": "Ramdas Bhaurao Pund"
+    },
+    {
+      "serial_number": 444,
+      "name_mr": "राजश्री रामदास पुंड",
+      "name_en": "Rajshree Ramdas Pund"
+    },
+    {
+      "serial_number": 445,
+      "name_mr": "मोती राम वडगु डाबरकर",
+      "name_en": "Moti Ram Vadgu Daburkar"
+    },
+    {
+      "serial_number": 446,
+      "name_mr": "शांता राघो चौधरी",
+      "name_en": "Shanta Ragho Chaudhary"
+    },
+    {
+      "serial_number": 447,
+      "name_mr": "अशोक राधो चौधरी",
+      "name_en": "Ashok Radho Chaudhary"
+    },
+    {
+      "serial_number": 448,
+      "name_mr": "रेखा अरुण चौधरी",
+      "name_en": "Rekha Arun Chaudhary"
+    },
+    {
+      "serial_number": 449,
+      "name_mr": "चंद्रभागा अशोक चौधरी",
+      "name_en": "Chandrabhaga Ashok Chaudhary"
+    },
+    {
+      "serial_number": 450,
+      "name_mr": "पुरुषोत्तम लक्ष्मण पुरी",
+      "name_en": "Purushottam Laxman Puri"
+    },
+    {
+      "serial_number": 451,
+      "name_mr": "तेजराम पुरुषोत्तम पुरी",
+      "name_en": "Tejram Purushottam Puri"
+    },
+    {
+      "serial_number": 452,
+      "name_mr": "ओमप्रकाश पुरुषोत्तम पुरी",
+      "name_en": "Omprakash Purushottam Puri"
+    },
+    {
+      "serial_number": 453,
+      "name_mr": "लता तेजराम पुरी",
+      "name_en": "Lata Tejram Puri"
+    },
+    {
+      "serial_number": 454,
+      "name_mr": "अनिता ओमप्रकाश पुरी",
+      "name_en": "Anita Omprakash Puri"
+    },
+    {
+      "serial_number": 455,
+      "name_mr": "देवराव मारोती पोहाणे",
+      "name_en": "Devrao Maroti Pohane"
+    },
+    {
+      "serial_number": 456,
+      "name_mr": "चंद्रकला देवराव पोहाणे",
+      "name_en": "Chandrakala Devrao Pohane"
+    },
+    {
+      "serial_number": 457,
+      "name_mr": "सुनील देवराव पोहाणे",
+      "name_en": "Sunil Devrao Pohane"
+    },
+    {
+      "serial_number": 458,
+      "name_mr": "रुखमाबाई भिकाजी तळे",
+      "name_en": "Rukhmabai Bhikaji Tale"
+    },
+    {
+      "serial_number": 459,
+      "name_mr": "शुभांगी झाडे",
+      "name_en": "Shubhangi Zade"
+    },
+    {
+      "serial_number": 460,
+      "name_mr": "शोभा तुकाराम भोयर",
+      "name_en": "Shobha Tukaram Bhoyer"
+    },
+    {
+      "serial_number": 461,
+      "name_mr": "भास्कर मुरलीधर चांदेकर",
+      "name_en": "Bhaskar Muralidhar Chandekar"
+    },
+    {
+      "serial_number": 462,
+      "name_mr": "माया गजानन रोकडे",
+      "name_en": "Maya Gajanan Rokde"
+    },
+    {
+      "serial_number": 463,
+      "name_mr": "सुमिता वाल्मिकी रोकडे",
+      "name_en": "Sumita Valmiki Rokde"
+    },
+    {
+      "serial_number": 464,
+      "name_mr": "जितेंद्र गजाननराव रोकडे",
+      "name_en": "Jitendra Gajananrao Rokde"
+    },
+    {
+      "serial_number": 465,
+      "name_mr": "रोशन गजाननराव रोकडे",
+      "name_en": "Roshan Gajananrao Rokde"
+    },
+    {
+      "serial_number": 466,
+      "name_mr": "वाल्मिकी विश्वासनाथ रोकडे",
+      "name_en": "Valmiki Vishawasnath Rokde"
+    },
+    {
+      "serial_number": 467,
+      "name_mr": "मधुकर वाल्मिकी रोकडे",
+      "name_en": "Madhukar Valmiki Rokde"
+    },
+    {
+      "serial_number": 468,
+      "name_mr": "सुधाकर वाल्मिकी रोकडे",
+      "name_en": "Sudhakar Valmiki Rokde"
+    },
+    {
+      "serial_number": 469,
+      "name_mr": "झुबेरखान मेहेर झका",
+      "name_en": "Zuberkhan Meher Zaka"
+    },
+    {
+      "serial_number": 470,
+      "name_mr": "शोभा तुकाराम भोयर",
+      "name_en": "Shobha Tukaram Bhoyer"
+    },
+    {
+      "serial_number": 471,
+      "name_mr": "दुर्गा मधुकर बिल",
+      "name_en": "Durga Madhukar Bill"
+    },
+    {
+      "serial_number": 472,
+      "name_mr": "हरिभाऊ किसन डाबरकर",
+      "name_en": "Haribhau Kisan Daburkar"
+    },
+    {
+      "serial_number": 473,
+      "name_mr": "रामचंद्र किसन डाबरकर",
+      "name_en": "Ramchandra Kisan Daburkar"
+    },
+    {
+      "serial_number": 474,
+      "name_mr": "ज्ञानेश्वर काशिनाथ डायरे",
+      "name_en": "Dnyaneshwar Kashinath Dire"
+    },
+    {
+      "serial_number": 475,
+      "name_mr": "शांता कवडू गिरडे",
+      "name_en": "Shanta Kavadu Girde"
+    },
+    {
+      "serial_number": 476,
+      "name_mr": "रमेश विनायक मांडवगणे",
+      "name_en": "Ramesh Vinayak Mandavagane"
+    },
+    {
+      "serial_number": 477,
+      "name_mr": "सुधाकर भैय्याजी मरडवार",
+      "name_en": "Sudhakar Bhaiyaji Maradwar"
+    },
+    {
+      "serial_number": 478,
+      "name_mr": "आशाताई सुधाकर मरडवार",
+      "name_en": "Ashatai Sudhakar Maradwar"
+    },
+    {
+      "serial_number": 479,
+      "name_mr": "वामन उमाजी शेंडे",
+      "name_en": "Vaman Umaji Shende"
+    },
+    {
+      "serial_number": 480,
+      "name_mr": "मंगेश वामन शेंडे",
+      "name_en": "Mangesh Vaman Shende"
+    },
+    {
+      "serial_number": 481,
+      "name_mr": "गुलाब गणपत शिवकर",
+      "name_en": "Gulab Ganpat Shivkar"
+    },
+    {
+      "serial_number": 482,
+      "name_mr": "लक्ष्मी गुलाब शिवरकर",
+      "name_en": "Lakshmi Gulab Shivarkar"
+    },
+    {
+      "serial_number": 483,
+      "name_mr": "ज्योती भरत टेंभुरकर",
+      "name_en": "Jyoti Bharat Tembhurkar"
+    },
+    {
+      "serial_number": 484,
+      "name_mr": "भरत चिंतामण टेंभुरकर",
+      "name_en": "Bharat Chintaman Tembhurkar"
+    },
+    {
+      "serial_number": 485,
+      "name_mr": "नामदेव वारलू वरभे",
+      "name_en": "Namdev Warlu Varbhe"
+    },
+    {
+      "serial_number": 486,
+      "name_mr": "विजय नामदेव वरभे",
+      "name_en": "Vijay Namdev Varabhe"
+    },
+    {
+      "serial_number": 487,
+      "name_mr": "ज्ञानेश्वर नामदेव वरभे",
+      "name_en": "Dnyaneshwar Namdev Varabhe"
+    },
+    {
+      "serial_number": 488,
+      "name_mr": "इंदूबाई सुखदे काळे",
+      "name_en": "Indubai Sukhde Kale"
+    },
+    {
+      "serial_number": 489,
+      "name_mr": "सुखदेव संपत काळे",
+      "name_en": "Sukhdev Sampat Kale"
+    },
+    {
+      "serial_number": 490,
+      "name_mr": "ईश्वर सुखदेव काळे",
+      "name_en": "Ishwar Sukhdev Kale"
+    },
+    {
+      "serial_number": 491,
+      "name_mr": "सरिता रमेश कुडे ठाकरे",
+      "name_en": "Sarita Ramesh Kude Thackeray"
+    },
+    {
+      "serial_number": 492,
+      "name_mr": "चंद्रभागा पांडुरंग ठाकरे",
+      "name_en": "Chandrabhaga Pandurang Thackeray"
+    },
+    {
+      "serial_number": 493,
+      "name_mr": "अरुण पांडुरंग ठाकरे",
+      "name_en": "Arun Pandurang Thackeray"
+    },
+    {
+      "serial_number": 494,
+      "name_mr": "शोभा अरुण ठाकरे",
+      "name_en": "Shobha Arun Thackeray"
+    },
+    {
+      "serial_number": 495,
+      "name_mr": "ईश्वर पांडुरंग ठाकरे",
+      "name_en": "Ishwar Pandurang Thackeray"
+    },
+    {
+      "serial_number": 496,
+      "name_mr": "प्रभा ईश्वर भाकेरे",
+      "name_en": "Prabha Ishwar Bhakere"
+    },
+    {
+      "serial_number": 497,
+      "name_mr": "रंजना ईश्वर ठाकरे",
+      "name_en": "Ranjana Ishwar Thackeray"
+    },
+    {
+      "serial_number": 498,
+      "name_mr": "अंजना बापूराव बजैत",
+      "name_en": "Anjana Bapurao Bajait"
+    },
+    {
+      "serial_number": 499,
+      "name_mr": "मारोती बापूराव बजाई",
+      "name_en": "Maroti Bapurao Bajai"
+    },
+    {
+      "serial_number": 500,
+      "name_mr": "चंदा मारोती बजाई",
+      "name_en": "Chanda Maroti Bajai"
+    },
+    {
+      "serial_number": 501,
+      "name_mr": "हरिदास बापूराव बजैत",
+      "name_en": "Haridas Bapurao Bajait"
+    },
+    {
+      "serial_number": 502,
+      "name_mr": "कल्पना हरिदास बजैत",
+      "name_en": "Kalpana Haridas Bajait"
+    },
+    {
+      "serial_number": 503,
+      "name_mr": "लक्ष्मी देवराव चौधरी",
+      "name_en": "Lakshmi Devrao Chaudhary"
+    },
+    {
+      "serial_number": 504,
+      "name_mr": "प्रमोद देवराव चौधरी",
+      "name_en": "Pramod Devrao Chaudhary"
+    },
+    {
+      "serial_number": 505,
+      "name_mr": "बाळ मारोती परत आला",
+      "name_en": "Baby Maroti is back"
+    },
+    {
+      "serial_number": 506,
+      "name_mr": "श्रीराम रामचंद्र बोबडे",
+      "name_en": "Sriram Ramchandra Bobde"
+    },
+    {
+      "serial_number": 507,
+      "name_mr": "शांताबाई श्रीराम बोबडे",
+      "name_en": "Shantabai Sriram Bobde"
+    },
+    {
+      "serial_number": 508,
+      "name_mr": "हरिभाऊ श्रीराम बोबडे",
+      "name_en": "Haribhau Shriram Bobde"
+    },
+    {
+      "serial_number": 509,
+      "name_mr": "मीनाक्षी हरिभाऊ बोबडे",
+      "name_en": "Meenakshi Haribhau Bobde"
+    },
+    {
+      "serial_number": 510,
+      "name_mr": "संतोष श्रीराम बोबडे",
+      "name_en": "Santosh Shriram Bobde"
+    },
+    {
+      "serial_number": 511,
+      "name_mr": "अण्णाजी दशरथ मानकर",
+      "name_en": "Annaji Dashrath Mankar"
+    },
+    {
+      "serial_number": 512,
+      "name_mr": "विमल अण्णाजी मानकर",
+      "name_en": "Vimal Annaji Mankar"
+    },
+    {
+      "serial_number": 513,
+      "name_mr": "मुकुंदा अण्णाजी मानकर",
+      "name_en": "Mukunda Annaji Mankar"
+    },
+    {
+      "serial_number": 514,
+      "name_mr": "देविदास अण्णाजी मानकर",
+      "name_en": "Devidas Annaji Mankar"
+    },
+    {
+      "serial_number": 515,
+      "name_mr": "उमाकांत भास्कर मानकर",
+      "name_en": "Umakant Bhaskar Mankar"
+    },
+    {
+      "serial_number": 516,
+      "name_mr": "आशा उमाकांत मानकर",
+      "name_en": "Asha Umakant Mankar"
+    },
+    {
+      "serial_number": 517,
+      "name_mr": "श्रीकांत भास्कर मानकर",
+      "name_en": "Shrikant Bhaskar Mankar"
+    },
+    {
+      "serial_number": 518,
+      "name_mr": "नरेश शंकर राऊत",
+      "name_en": "Naresh Shankar Raut"
+    },
+    {
+      "serial_number": 519,
+      "name_mr": "सुनीता नरेश राऊत",
+      "name_en": "Sunita Naresh Raut"
+    },
+    {
+      "serial_number": 520,
+      "name_mr": "शीला प्रकाश नारद",
+      "name_en": "Sheela Prakash Nard"
+    },
+    {
+      "serial_number": 521,
+      "name_mr": "प्रदिप हरिभाऊ नारद",
+      "name_en": "Pradip Haribhau Narad"
+    },
+    {
+      "serial_number": 522,
+      "name_mr": "निलिमा प्रदीपराव नारद",
+      "name_en": "Nilima Pradeeprao Narad"
+    },
+    {
+      "serial_number": 523,
+      "name_mr": "विठ्ठलराव भाऊराव पुंड",
+      "name_en": "Vitthalrao Bhaurao Pund"
+    },
+    {
+      "serial_number": 524,
+      "name_mr": "प्रमिला विठ्ठलराव पुंड",
+      "name_en": "Pramila Vitthalrao Pund"
+    },
+    {
+      "serial_number": 525,
+      "name_mr": "सविता कृष्णा मनघटे",
+      "name_en": "Savita Krishna Managhte"
+    },
+    {
+      "serial_number": 526,
+      "name_mr": "कृष्णा शालिकराम मानवते",
+      "name_en": "Krishna Shalikram Manwate"
+    },
+    {
+      "serial_number": 527,
+      "name_mr": "गुलाब सोनबा ठाकरे",
+      "name_en": "Gulab Sonba Thackeray"
+    },
+    {
+      "serial_number": 528,
+      "name_mr": "दामोधर मोतीराम भोयर",
+      "name_en": "Damodhar Motiram Bhoyer"
+    },
+    {
+      "serial_number": 529,
+      "name_mr": "भाग्यश्री बाळकृष्ण भोयर",
+      "name_en": "Bhagyashree Balkrishna Bhoyer"
+    },
+    {
+      "serial_number": 530,
+      "name_mr": "संतोष केशव भोयर",
+      "name_en": "Santosh Keshav Bhoyer"
+    },
+    {
+      "serial_number": 531,
+      "name_mr": "निर्मला संतोष भोयर",
+      "name_en": "Nirmala Santosh Bhoyer"
+    },
+    {
+      "serial_number": 532,
+      "name_mr": "मुक्ताबाई बालाजी वानखेडे",
+      "name_en": "Muktabai Balaji Wankhede"
+    },
+    {
+      "serial_number": 533,
+      "name_mr": "बागवान पांडुरंगजी कामडे",
+      "name_en": "Baghwan Pandurangji Kamde"
+    },
+    {
+      "serial_number": 534,
+      "name_mr": "सखुबाई बागवान कामदे",
+      "name_en": "Sakhubai Baghwan Kamde"
+    },
+    {
+      "serial_number": 535,
+      "name_mr": "नंदा राजू कामडे",
+      "name_en": "Nanda Raju Kamde"
+    },
+    {
+      "serial_number": 536,
+      "name_mr": "राजू गजानन कामडे",
+      "name_en": "Raju Gajanan Kamde"
+    },
+    {
+      "serial_number": 537,
+      "name_mr": "विजय भगवान कामडे",
+      "name_en": "Vijay Lord Kamde"
+    },
+    {
+      "serial_number": 538,
+      "name_mr": "कविता विजय कामडे",
+      "name_en": "Kavita Vijay Kamde"
+    },
+    {
+      "serial_number": 539,
+      "name_mr": "चिंधुजी सदाशिव कावळे",
+      "name_en": "Chindhuji Sadashiv Kawle"
+    },
+    {
+      "serial_number": 540,
+      "name_mr": "सुशीला चिंधुजी कावळे",
+      "name_en": "Sushila Chindhuji Kawle"
+    },
+    {
+      "serial_number": 541,
+      "name_mr": "लक्ष्मी मधुकर कवळे",
+      "name_en": "Lakshmi Madhukar Kavale"
+    },
+    {
+      "serial_number": 542,
+      "name_mr": "मारोती मधुकर कवळे",
+      "name_en": "Maroti Madhukar Kavale"
+    },
+    {
+      "serial_number": 543,
+      "name_mr": "श्रावण मधुकर कवळे",
+      "name_en": "Shravan Madhukar Kavale"
+    },
+    {
+      "serial_number": 544,
+      "name_mr": "मनीषा मारोती कावळे",
+      "name_en": "Manisha Maroti Kawle"
+    },
+    {
+      "serial_number": 545,
+      "name_mr": "वृंदा मेघश्याम नवघरे",
+      "name_en": "Brinda Meghshyam Navghare"
+    },
+    {
+      "serial_number": 546,
+      "name_mr": "कुंदा मेघश्याम नवघरे",
+      "name_en": "Kunda Meghshyam Navghare"
+    },
+    {
+      "serial_number": 547,
+      "name_mr": "सचिन मेघश्याम नवघरे",
+      "name_en": "Sachin Meghshyam Navghare"
+    },
+    {
+      "serial_number": 548,
+      "name_mr": "अनुराधा पंचम मेश्राम",
+      "name_en": "Anuradha Pancham Meshram"
+    },
+    {
+      "serial_number": 549,
+      "name_mr": "उषा संजय नवघरे",
+      "name_en": "Usha Sanjay Navghare"
+    },
+    {
+      "serial_number": 550,
+      "name_mr": "नरेश देवराव भोयर",
+      "name_en": "Naresh Devrao Bhoyer"
+    },
+    {
+      "serial_number": 551,
+      "name_mr": "गंगाधर देवराव भोयर",
+      "name_en": "Gangadhar Devrao Bhoyer"
+    },
+    {
+      "serial_number": 552,
+      "name_mr": "संगीता नरेश भोयर",
+      "name_en": "Sangeeta Naresh Bhoyer"
+    },
+    {
+      "serial_number": 553,
+      "name_mr": "बालाजी विठोबा काकडे",
+      "name_en": "Balaji Vithoba Kakade"
+    },
+    {
+      "serial_number": 554,
+      "name_mr": "चंद्रभागा बालाजी काकडे",
+      "name_en": "Chandrabhaga Balaji Kakade"
+    },
+    {
+      "serial_number": 555,
+      "name_mr": "शांता रामभाऊ टेंभुरकर",
+      "name_en": "Shanta Rambhau Tembhurkar"
+    },
+    {
+      "serial_number": 556,
+      "name_mr": "कवडू रामभाऊ टेंभुरकर",
+      "name_en": "Kavadu Rambhau Tembhurkar"
+    },
+    {
+      "serial_number": 557,
+      "name_mr": "मंगला बाबा टेंभुरकर",
+      "name_en": "Mangala Baba Tembhurkar"
+    },
+    {
+      "serial_number": 558,
+      "name_mr": "बाबा रामभाऊ टेंभुरकर",
+      "name_en": "Baba Rambhau Tembhurkar"
+    },
+    {
+      "serial_number": 559,
+      "name_mr": "शुभांगी कवडू टेंभुरकर",
+      "name_en": "Shubhangi Kavadu Tembhurkar"
+    },
+    {
+      "serial_number": 560,
+      "name_mr": "भरत गुलाबराव भोयर",
+      "name_en": "Bharat Gulabrao Bhoyer"
+    },
+    {
+      "serial_number": 561,
+      "name_mr": "राधा भारत भोयर",
+      "name_en": "Radha Bharat Bhoyer"
+    },
+    {
+      "serial_number": 562,
+      "name_mr": "सत्यभामा पुंडलिक डाबरकर",
+      "name_en": "Satyabhama Pundalik Daburkar"
+    },
+    {
+      "serial_number": 563,
+      "name_mr": "किशोर पुंडलिक डाबरकर",
+      "name_en": "Kishore Pundalik Daburkar"
+    },
+    {
+      "serial_number": 564,
+      "name_mr": "कीर्ती किशोर डाबरकर",
+      "name_en": "Kirti Kishore Daburkar"
+    },
+    {
+      "serial_number": 565,
+      "name_mr": "वामन उरकुडा भोंडगे",
+      "name_en": "Vaman Urkuda Bhondge"
+    },
+    {
+      "serial_number": 566,
+      "name_mr": "निर्मला वामन भोंडगे",
+      "name_en": "Nirmala Vaman Bhondge"
+    },
+    {
+      "serial_number": 567,
+      "name_mr": "सतीश वामन भोंडगे",
+      "name_en": "Satish Vaman Bhondge"
+    },
+    {
+      "serial_number": 568,
+      "name_mr": "सुनील वामनराव भोंडगे",
+      "name_en": "Sunil Vamanrao Bhondge"
+    },
+    {
+      "serial_number": 569,
+      "name_mr": "शकुंतला महादेव येगडे",
+      "name_en": "Shakuntala Mahadev Yegade"
+    },
+    {
+      "serial_number": 570,
+      "name_mr": "दशरथ एकनाथ नगरले",
+      "name_en": "Dasharath Eknath Nagarle"
+    },
+    {
+      "serial_number": 571,
+      "name_mr": "विष्णू राघोबा फुसे",
+      "name_en": "Vishnu Raghoba Phuse"
+    },
+    {
+      "serial_number": 572,
+      "name_mr": "सखुबाई विष्णू फुसे",
+      "name_en": "Sakhubai Vishnu Phuse"
+    },
+    {
+      "serial_number": 573,
+      "name_mr": "गणेश किसन घंगारे",
+      "name_en": "Ganesh Kisan Ghangare"
+    },
+    {
+      "serial_number": 574,
+      "name_mr": "किसन लक्ष्मण घंगारे",
+      "name_en": "Kisan Laxman Ghangare"
+    },
+    {
+      "serial_number": 575,
+      "name_mr": "कुसुम किसन घंगारे",
+      "name_en": "Kusum Kisan Ghangare"
+    },
+    {
+      "serial_number": 576,
+      "name_mr": "शंकर चिंतामण टेंभुरकर",
+      "name_en": "Shankar Chintaman Tembhurkar"
+    },
+    {
+      "serial_number": 577,
+      "name_mr": "निर्मला शंकर टेंभुरकर",
+      "name_en": "Nirmala Shankar Tembhurkar"
+    },
+    {
+      "serial_number": 578,
+      "name_mr": "मीरा वामनराव खडके",
+      "name_en": "Mira Vamanrao Khadke"
+    },
+    {
+      "serial_number": 579,
+      "name_mr": "राजेश वामन खडके",
+      "name_en": "Rajesh Vaman Khadke"
+    },
+    {
+      "serial_number": 580,
+      "name_mr": "दिनकर शेषराव वानखेडे",
+      "name_en": "Dinkar Seshrao Wankhede"
+    },
+    {
+      "serial_number": 581,
+      "name_mr": "अनिल विठ्ठल वैद्य",
+      "name_en": "Anil Vitthal Vaidya"
+    },
+    {
+      "serial_number": 582,
+      "name_mr": "हरिभाऊ दादा गिरडे",
+      "name_en": "Haribhau Dada Girde"
+    },
+    {
+      "serial_number": 583,
+      "name_mr": "कुसुम हरिभाऊ गिरडे",
+      "name_en": "Kusum Haribhau Girde"
+    },
+    {
+      "serial_number": 584,
+      "name_mr": "मधुकर लक्ष्मण कुरडकर",
+      "name_en": "Madhukar Laxman Kurdkar"
+    },
+    {
+      "serial_number": 585,
+      "name_mr": "मंदा मधुकर कुर्डकर",
+      "name_en": "Manda Madhukar Kurdkar"
+    },
+    {
+      "serial_number": 586,
+      "name_mr": "युवराज मधुकर कुर्डकर",
+      "name_en": "Yuvraj Madhukar Kurdkar"
+    },
+    {
+      "serial_number": 587,
+      "name_mr": "अरुणा वानखेडे",
+      "name_en": "Aruna Wankhede"
+    },
+    {
+      "serial_number": 588,
+      "name_mr": "विजय वामन खडके",
+      "name_en": "Vijay Vaman Khadke"
+    },
+    {
+      "serial_number": 589,
+      "name_mr": "रशीद मस्जिद खान",
+      "name_en": "Rashid Masjid Khan"
+    },
+    {
+      "serial_number": 590,
+      "name_mr": "रवीणा रामदासजी पुंड",
+      "name_en": "Raveena Ramdasji Pund"
+    },
+    {
+      "serial_number": 591,
+      "name_mr": "मीना संजय भाटे",
+      "name_en": "Meena Sanjay Bhate"
+    },
+    {
+      "serial_number": 592,
+      "name_mr": "धीरज संजय भाटे",
+      "name_en": "Dheeraj Sanjay Bhate"
+    },
+    {
+      "serial_number": 593,
+      "name_mr": "सुनंदा रमेश नानवटकर",
+      "name_en": "Sunanda Ramesh Nanwatkar"
+    },
+    {
+      "serial_number": 594,
+      "name_mr": "रुचिता सुधाकर चाप्पेकर",
+      "name_en": "Ruchita Sudhakar Chappekar"
+    },
+    {
+      "serial_number": 595,
+      "name_mr": "प्रिया सुधाकर चाप्पेकर",
+      "name_en": "Priya Sudhakar Chappekar"
+    },
+    {
+      "serial_number": 596,
+      "name_mr": "रंजिता गजानन माधवी",
+      "name_en": "Ranjita Gajanan Madhavi"
+    },
+    {
+      "serial_number": 597,
+      "name_mr": "गजानन दिनकर मडावी",
+      "name_en": "Gajanan Dinkar Madavi"
+    },
+    {
+      "serial_number": 598,
+      "name_mr": "शुभम पद्माकर कावळे",
+      "name_en": "Shubham Padmakar Kawle"
+    },
+    {
+      "serial_number": 599,
+      "name_mr": "उदय भरत टेंभुरकर",
+      "name_en": "Uday Bharat Tembhurkar"
+    },
+    {
+      "serial_number": 600,
+      "name_mr": "श्वेता नरेंद्रजी नारद",
+      "name_en": "Shweta Narendraji Narad"
+    },
+    {
+      "serial_number": 601,
+      "name_mr": "शेषराव ईश्वर कावळे",
+      "name_en": "Seshrao Ishwar Kawle"
+    },
+    {
+      "serial_number": 602,
+      "name_mr": "सुमती विवेक कावळे",
+      "name_en": "Sumati Vivek Kawle"
+    },
+    {
+      "serial_number": 603,
+      "name_mr": "वैशाली शेषराव कावळे",
+      "name_en": "Vaishali Sesha Rao Kawle"
+    },
+    {
+      "serial_number": 604,
+      "name_mr": "अक्षय गजानन बजैत",
+      "name_en": "Akshay Gajanan Bajait"
+    },
+    {
+      "serial_number": 605,
+      "name_mr": "उज्वला राजेंद्र झपाटे",
+      "name_en": "Ujwala Rajendra Zapate"
+    },
+    {
+      "serial_number": 606,
+      "name_mr": "दिनेश नत्थुजी नारद",
+      "name_en": "Dinesh Natthuji Narad"
+    },
+    {
+      "serial_number": 607,
+      "name_mr": "सुरेश लक्ष्मण नारद",
+      "name_en": "Suresh Laxman Narad"
+    },
+    {
+      "serial_number": 608,
+      "name_mr": "मोनली सुरेश नारद",
+      "name_en": "Monli Suresh Narad"
+    },
+    {
+      "serial_number": 609,
+      "name_mr": "प्रणाली सतीश भोंगळे",
+      "name_en": "Pranali Satish Bhongle"
+    },
+    {
+      "serial_number": 610,
+      "name_mr": "सचिन शंकरजी चाप्पेकर",
+      "name_en": "Sachin Shankarji Chappekar"
+    },
+    {
+      "serial_number": 611,
+      "name_mr": "प्रविण प्रभाकर मेसेकर",
+      "name_en": "Pravin Prabhakar Mesekar"
+    },
+    {
+      "serial_number": 612,
+      "name_mr": "वंदना मुरलीधर चाप्पेकर",
+      "name_en": "Vandana Muralidhar Chappekar"
+    },
+    {
+      "serial_number": 613,
+      "name_mr": "गीता रवी उईके",
+      "name_en": "Gita Ravi Uike"
+    },
+    {
+      "serial_number": 614,
+      "name_mr": "पायल संदीप डाबरकर",
+      "name_en": "Payal Sandeep Daburkar"
+    },
+    {
+      "serial_number": 615,
+      "name_mr": "प्रशांत शंकर संतापले",
+      "name_en": "Prashant Shankar angry"
+    },
+    {
+      "serial_number": 616,
+      "name_mr": "निलेश शंकर राव रागीट",
+      "name_en": "Nilesh Shankar Rao Ragit"
+    },
+    {
+      "serial_number": 617,
+      "name_mr": "संतोष श्रीराम बोरकर",
+      "name_en": "Santosh Shriram Borkar"
+    },
+    {
+      "serial_number": 618,
+      "name_mr": "सुरेखा संतोष बोरकर",
+      "name_en": "Surekha Santosh Borkar"
+    },
+    {
+      "serial_number": 619,
+      "name_mr": "बाळूजी शंशराव सांभारे",
+      "name_en": "Baluji Shanshrao Sambhare"
+    },
+    {
+      "serial_number": 620,
+      "name_mr": "संकु शेषराव सांभारे",
+      "name_en": "Sanku Seshrao Sambhare"
+    },
+    {
+      "serial_number": 621,
+      "name_mr": "शोभा बाळुजी सांभारे",
+      "name_en": "Shobha Baluji Sambhare"
+    },
+    {
+      "serial_number": 622,
+      "name_mr": "आकाश बाळुजी सांभारे",
+      "name_en": "Akash Baluji Sambhare"
+    },
+    {
+      "serial_number": 623,
+      "name_mr": "भाग्यश्री शंकर वसे",
+      "name_en": "Bhagyashree Shankar Vase"
+    },
+    {
+      "serial_number": 624,
+      "name_mr": "राजेंद्र तुकाराम वसे",
+      "name_en": "Rajendra Tukaram Vase"
+    },
+    {
+      "serial_number": 625,
+      "name_mr": "अर्चना राजेंद्र वसे",
+      "name_en": "Archana Rajendra Vase"
+    },
+    {
+      "serial_number": 626,
+      "name_mr": "शंकर रामदास बनकर",
+      "name_en": "Shankar Ramdas Bunkar"
+    },
+    {
+      "serial_number": 627,
+      "name_mr": "जीवंधरा शंकर बनकर",
+      "name_en": "Jivandhara Shankar Bankar"
+    },
+    {
+      "serial_number": 628,
+      "name_mr": "ज्योती भास्कर बनकर",
+      "name_en": "Jyoti Bhaskar Bunkar"
+    },
+    {
+      "serial_number": 629,
+      "name_mr": "संगीता कवडूजी कोल्हे",
+      "name_en": "Sangeeta Kavaduji Kolhe"
+    },
+    {
+      "serial_number": 630,
+      "name_mr": "सविता संजय कावळे",
+      "name_en": "Savita Sanjay Kawle"
+    },
+    {
+      "serial_number": 631,
+      "name_mr": "शालिनी विजय पुंड",
+      "name_en": "Shalini Vijay Pund"
+    },
+    {
+      "serial_number": 632,
+      "name_mr": "प्रेरणा उमेश पुंड",
+      "name_en": "Prerna Umesh Pund"
+    },
+    {
+      "serial_number": 633,
+      "name_mr": "सोनू मुरलीधर कोल्हे",
+      "name_en": "Sonu Muralidhar Kolhe"
+    },
+    {
+      "serial_number": 634,
+      "name_mr": "वनिता हरिदास सोनटके",
+      "name_en": "Vanita Haridas Sontke"
+    },
+    {
+      "serial_number": 635,
+      "name_mr": "यमुना दाभेकर",
+      "name_en": "Yamuna Dabhekar"
+    },
+    {
+      "serial_number": 636,
+      "name_mr": "अक्षय नारायण पुंड",
+      "name_en": "Akshay Narayan Pund"
+    },
+    {
+      "serial_number": 637,
+      "name_mr": "मंदा नारायण पुंड",
+      "name_en": "Manda Narayan Pund"
+    },
+    {
+      "serial_number": 638,
+      "name_mr": "नारायण दामा पुंड",
+      "name_en": "Narayan Dama Pund"
+    },
+    {
+      "serial_number": 639,
+      "name_mr": "योगिता अरविंद वरभे",
+      "name_en": "Yogita Arvind Varbhe"
+    },
+    {
+      "serial_number": 640,
+      "name_mr": "श्रुती शंकरराव डाकोळे",
+      "name_en": "Shruti Shankarao Dakole"
+    },
+    {
+      "serial_number": 641,
+      "name_mr": "अविनाश अंबादास भोयर",
+      "name_en": "Avinash Ambadas Bhoyer"
+    },
+    {
+      "serial_number": 642,
+      "name_mr": "ईश्वर भोयर",
+      "name_en": "Ishwar Bhoyar"
+    },
+    {
+      "serial_number": 643,
+      "name_mr": "नीलम अतुल पोहाणे",
+      "name_en": "Neelam Atul Pohane"
+    },
+    {
+      "serial_number": 644,
+      "name_mr": "चंद्रशेखर ज्ञानेश्वर पोहाणे",
+      "name_en": "Chandrasekhan Dnyaneshwar Pohane"
+    },
+    {
+      "serial_number": 645,
+      "name_mr": "सारिका चंद्रशेखर पोहाणे",
+      "name_en": "Sarika Chandrasekhar Pohane"
+    },
+    {
+      "serial_number": 646,
+      "name_mr": "पुष्पा अंबादासजी भोयर",
+      "name_en": "Pushpa Ambadasji Bhoyer"
+    },
+    {
+      "serial_number": 647,
+      "name_mr": "आरती मंगेश भोयर",
+      "name_en": "Aarti Mangesh Bhoyer"
+    },
+    {
+      "serial_number": 648,
+      "name_mr": "ईश्वर भोयर",
+      "name_en": "Ishwar Bhoyar"
+    },
+    {
+      "serial_number": 649,
+      "name_mr": "तन्वी भोयर",
+      "name_en": "Tanvi Bhoyer"
+    },
+    {
+      "serial_number": 650,
+      "name_mr": "प्रियांका घुमे",
+      "name_en": "Priyanka Ghume"
+    },
+    {
+      "serial_number": 651,
+      "name_mr": "लक्ष्मण गानबा मानकर",
+      "name_en": "Lakshman Ganba Mankar"
+    },
+    {
+      "serial_number": 652,
+      "name_mr": "उन्नती बजाईत",
+      "name_en": "Unnati Bajait"
+    },
+    {
+      "serial_number": 653,
+      "name_mr": "राजश्री वरभे",
+      "name_en": "Rajshree Varabhe"
+    },
+    {
+      "serial_number": 654,
+      "name_mr": "सीमा देविरस घांग्रे सीमा",
+      "name_en": "Seema Deviras Ghangre Seema"
+    },
+    {
+      "serial_number": 655,
+      "name_mr": "नरेश देवराव भोयर भोयर",
+      "name_en": "Naresh Devrao Bhoyer Bhoyer"
+    },
+    {
+      "serial_number": 656,
+      "name_mr": "सिमा गंगाधर भोयर",
+      "name_en": "Sima Gangadhar Bhoyer"
+    },
+    {
+      "serial_number": 657,
+      "name_mr": "दिगंबर माधवराव काव",
+      "name_en": "Digambar Madhavrao Kav"
+    },
+    {
+      "serial_number": 658,
+      "name_mr": "यज्ञ इंगोले",
+      "name_en": "Yagya Ingole"
+    },
+    {
+      "serial_number": 659,
+      "name_mr": "सुरेश मधुकर कुर्तकर",
+      "name_en": "Suresh Madhukar Kurtkar"
+    },
+    {
+      "serial_number": 660,
+      "name_mr": "अश्विनी कार्लुके",
+      "name_en": "Ashwini Karluke"
+    },
+    {
+      "serial_number": 661,
+      "name_mr": "राजेंद्र ज्ञानेश्वर कावळे",
+      "name_en": "Rajendra Dnyaneshwar Kawle"
+    },
+    {
+      "serial_number": 662,
+      "name_mr": "रंजना मधुकर रोकडे",
+      "name_en": "Ranjana Madhukar Rokde"
+    },
+    {
+      "serial_number": 663,
+      "name_mr": "संध्या राजेश मानकर",
+      "name_en": "Sandhya Rajesh Mankar"
+    },
+    {
+      "serial_number": 664,
+      "name_mr": "सुनीता अनिल वैद्य",
+      "name_en": "Sunita Anil Vaidya"
+    },
+    {
+      "serial_number": 665,
+      "name_mr": "मनीषा दिनकर भानखेडे",
+      "name_en": "Manisha Dinkar Bhankhede"
+    },
+    {
+      "serial_number": 666,
+      "name_mr": "राहुल गुलाब ठाकरे",
+      "name_en": "Rahul Gulab Thackeray"
+    },
+    {
+      "serial_number": 667,
+      "name_mr": "रोशन गुलाब ठाकरे",
+      "name_en": "Roshan Gulab Thackeray"
+    },
+    {
+      "serial_number": 668,
+      "name_mr": "वर्षा विठ्ठल दाभेकर",
+      "name_en": "Varsha Vitthal Dabhekar"
+    },
+    {
+      "serial_number": 669,
+      "name_mr": "प्रशांत रामभाऊ दाभेकर",
+      "name_en": "Prashant Rambhau Dabhekar"
+    },
+    {
+      "serial_number": 670,
+      "name_mr": "नरेंद्र हरिभाऊ गिरडे",
+      "name_en": "Narendra Haribhau Girde"
+    },
+    {
+      "serial_number": 671,
+      "name_mr": "दिनेश सुरेश घुमे",
+      "name_en": "Dinesh Suresh Ghume"
+    },
+    {
+      "serial_number": 672,
+      "name_mr": "अंबादास शंकर भोयर",
+      "name_en": "Ambadas Shankar Bhoyer"
+    },
+    {
+      "serial_number": 673,
+      "name_mr": "माधवराव सीताराम कावळे",
+      "name_en": "Madhavrao Sitaram Kawle"
+    },
+    {
+      "serial_number": 674,
+      "name_mr": "निर्मला माधवराव कवळे",
+      "name_en": "Nirmala Madhavrao Kavale"
+    },
+    {
+      "serial_number": 675,
+      "name_mr": "चेतन कावळे",
+      "name_en": "Chetan Kawale"
+    },
+    {
+      "serial_number": 676,
+      "name_mr": "मंदा भास्कर चांदेकर",
+      "name_en": "Manda Bhaskar Chandekar"
+    },
+    {
+      "serial_number": 677,
+      "name_mr": "सुहास भास्कर चांदेकर",
+      "name_en": "Suhas Bhaskar Chandekar"
+    },
+    {
+      "serial_number": 678,
+      "name_mr": "दर्शना सुभाष कावळे",
+      "name_en": "Darshana Subhash Kawle"
+    },
+    {
+      "serial_number": 679,
+      "name_mr": "धर्मराज गोविंदा दाभेकर",
+      "name_en": "Dharmaraj Govinda Dabhekar"
+    },
+    {
+      "serial_number": 680,
+      "name_mr": "प्रतिप उमाकांत मानकर",
+      "name_en": "Pratip Umakant Mankar"
+    },
+    {
+      "serial_number": 681,
+      "name_mr": "मयूर बजैत",
+      "name_en": "Mayur Bajait"
+    },
+    {
+      "serial_number": 682,
+      "name_mr": "पंकज विजय खडके",
+      "name_en": "Pankaj Vijay Khadke"
+    },
+    {
+      "serial_number": 683,
+      "name_mr": "भैलंकेश्वर दिनेश सोनटक्के",
+      "name_en": "Bhailankeshwar Dinesh Sontakke"
+    },
+    {
+      "serial_number": 684,
+      "name_mr": "अमित सुनील कुबडे",
+      "name_en": "Amit Sunil Kubde"
+    },
+    {
+      "serial_number": 685,
+      "name_mr": "शुभांगी संजय पारधी",
+      "name_en": "Shubhangi Sanjay Pardhi"
+    },
+    {
+      "serial_number": 686,
+      "name_mr": "दर्शिका प्रमोद भगत",
+      "name_en": "Darshika Pramod Bhagat"
+    },
+    {
+      "serial_number": 687,
+      "name_mr": "प्रणाली दिनेश सोनटक्के",
+      "name_en": "Pranali Dinesh Sontakke"
+    },
+    {
+      "serial_number": 688,
+      "name_mr": "पूजा कातोरे",
+      "name_en": "Pooja Katore"
+    },
+    {
+      "serial_number": 689,
+      "name_mr": "कांता दादाराव नंदकडे",
+      "name_en": "Kanta Dadarao Nandakade"
+    },
+    {
+      "serial_number": 690,
+      "name_mr": "दादाराव महादेव नंदकडे",
+      "name_en": "Dadarao Mahadev Nandakade"
+    },
+    {
+      "serial_number": 691,
+      "name_mr": "सुनील मधुकर चौधरी",
+      "name_en": "Sunil Madhukar Chaudhary"
+    },
+    {
+      "serial_number": 692,
+      "name_mr": "उज्वला राजकुमार धोपेत",
+      "name_en": "Ujwala Rajkumar Dhopet"
+    },
+    {
+      "serial_number": 693,
+      "name_mr": "मंदाबाई मधुकर ढोरे",
+      "name_en": "Mandabai Madhukar Dhore"
+    },
+    {
+      "serial_number": 694,
+      "name_mr": "मोहन बापूराव प्रँक",
+      "name_en": "Mohan Bapurao Prank"
+    },
+    {
+      "serial_number": 695,
+      "name_mr": "प्रेमचंद विठोबा कोल्हे",
+      "name_en": "Premchand Vithoba Kolhe"
+    },
+    {
+      "serial_number": 696,
+      "name_mr": "साहिल बोबडे",
+      "name_en": "Sahil Bobde"
+    },
+    {
+      "serial_number": 697,
+      "name_mr": "रत्नमाला मोरेश्वर चाप्पेकर",
+      "name_en": "Ratnamala Moreshwar Chappekar"
+    },
+    {
+      "serial_number": 698,
+      "name_mr": "आकाश चिंचोलकर",
+      "name_en": "Akash Chincholkar"
+    },
+    {
+      "serial_number": 699,
+      "name_mr": "अचल पाटील",
+      "name_en": "Achal Patil"
+    },
+    {
+      "serial_number": 700,
+      "name_mr": "अनिकेत पुरी",
+      "name_en": "Aniket Puri"
+    },
+    {
+      "serial_number": 701,
+      "name_mr": "गौरी रागावली",
+      "name_en": "Gauri angry"
+    },
+    {
+      "serial_number": 702,
+      "name_mr": "शकुंतला उईके",
+      "name_en": "Shakuntala Uike"
+    },
+    {
+      "serial_number": 703,
+      "name_mr": "प्रमोद वानखेडे",
+      "name_en": "Pramod Wankhede"
+    },
+    {
+      "serial_number": 704,
+      "name_mr": "वैशाली राजू धिये",
+      "name_en": "Vaishali Raju Dhiye"
+    },
+    {
+      "serial_number": 705,
+      "name_mr": "राजेश्वर देविदास गोमासे",
+      "name_en": "Rajeshwar Devidas Gomase"
+    },
+    {
+      "serial_number": 706,
+      "name_mr": "रेखा राजेश्वर गोमासे",
+      "name_en": "Rekha Rajeshwar Gomase"
+    },
+    {
+      "serial_number": 707,
+      "name_mr": "अमित रमेश पालीवाल",
+      "name_en": "Amit Ramesh Paliwal"
+    },
+    {
+      "serial_number": 708,
+      "name_mr": "निकिता अमित पालीवाल",
+      "name_en": "Nikita Amit Paliwal"
+    },
+    {
+      "serial_number": 709,
+      "name_mr": "जितेंद्र लखन रायकर",
+      "name_en": "Jitendra Lakhan Raikar"
+    },
+    {
+      "serial_number": 710,
+      "name_mr": "सुशील बबनरावांनी भोगले",
+      "name_en": "Sushil Babanrao suffered"
+    },
+    {
+      "serial_number": 711,
+      "name_mr": "राघव डाबरकर",
+      "name_en": "Raghav Daburkar"
+    },
+    {
+      "serial_number": 712,
+      "name_mr": "सुनील धनराजजी चाप्पेकर",
+      "name_en": "Sunil Dhanrajji Chappekar"
+    },
+    {
+      "serial_number": 713,
+      "name_mr": "सचिन मारेश्वर चाप्पेकर",
+      "name_en": "Sachin Mareshwar Chappekar"
+    },
+    {
+      "serial_number": 714,
+      "name_mr": "निखिल प्रभाकर डाखोळे",
+      "name_en": "Nikhil Prabhakar Dakhole"
+    },
+    {
+      "serial_number": 715,
+      "name_mr": "जयाती गौरीशंकर ढेगे",
+      "name_en": "Jyati Gaurishankar Dhege"
+    },
+    {
+      "serial_number": 716,
+      "name_mr": "गणेश माधवराव दोनाडकर",
+      "name_en": "Ganesh Madhavrao Donadkar"
+    },
+    {
+      "serial_number": 717,
+      "name_mr": "लोकेश दशरथ गव्हाळे",
+      "name_en": "Lokesh Dashrath Gawhale"
+    },
+    {
+      "serial_number": 718,
+      "name_mr": "कैबुस चंद्रभान नागपुरे",
+      "name_en": "Kaibus Chandrabhan Nagpure"
+    },
+    {
+      "serial_number": 719,
+      "name_mr": "विकास दिगंबर साखरकर",
+      "name_en": "Vikas Digambar Sakharkar"
+    },
+    {
+      "serial_number": 720,
+      "name_mr": "मोनाली विकास साखरकर",
+      "name_en": "Monali Vikas Sakharkar"
+    },
+    {
+      "serial_number": 721,
+      "name_mr": "अमर केवलजी ताजने",
+      "name_en": "Amar Kewalji Tajne"
+    },
+    {
+      "serial_number": 722,
+      "name_mr": "सपना सुदेश भावे",
+      "name_en": "Sapna Sudesh Bhavane"
+    },
+    {
+      "serial_number": 723,
+      "name_mr": "सुदेश सूर्यभान झाला",
+      "name_en": "Sudesh becomes Suryabhaan"
+    },
+    {
+      "serial_number": 724,
+      "name_mr": "अक्षय धनराज खंदारे",
+      "name_en": "Akshay Dhanraj Khandare"
+    },
+    {
+      "serial_number": 725,
+      "name_mr": "बिबेनखॉ मदार पठाण",
+      "name_en": "Bibenkhaw Madar Pathan"
+    },
+    {
+      "serial_number": 726,
+      "name_mr": "सुषमा प्रदीप शेंडे",
+      "name_en": "Sushma Pradeep Shende"
+    },
+    {
+      "serial_number": 727,
+      "name_mr": "सागर घनश्याम गजुंडे",
+      "name_en": "Sagar Ghanshyam Gajunde"
+    },
+    {
+      "serial_number": 728,
+      "name_mr": "रेखा अशोक खडके",
+      "name_en": "Rekha Ashok Khadke"
+    },
+    {
+      "serial_number": 729,
+      "name_mr": "साधना घनश्याम गजुंडे",
+      "name_en": "Sadhana Ghanshyam Gajunde"
+    },
+    {
+      "serial_number": 730,
+      "name_mr": "सचिन अशोकराव खडके",
+      "name_en": "Sachin Ashokrao Khadke"
+    },
+    {
+      "serial_number": 731,
+      "name_mr": "दुर्गा हरिभाऊ डाबरकर",
+      "name_en": "Durga Haribhau Daburkar"
+    },
+    {
+      "serial_number": 732,
+      "name_mr": "अशोक शेंडे",
+      "name_en": "Ashok Shende"
+    },
+    {
+      "serial_number": 733,
+      "name_mr": "प्रविण महादेव शेंडे",
+      "name_en": "Pravin Mahadev Shende"
+    },
+    {
+      "serial_number": 734,
+      "name_mr": "अनिल चौधरी",
+      "name_en": "Anil Chaudhary"
+    },
+    {
+      "serial_number": 735,
+      "name_mr": "दिनेश रामकृष्ण बजईस",
+      "name_en": "Dinesh Ramakrishna Bajais"
+    },
+    {
+      "serial_number": 736,
+      "name_mr": "उत्कर्षा शंकरराव डाखोळे",
+      "name_en": "Utkarsha Shankarao Dakhole"
+    },
+    {
+      "serial_number": 737,
+      "name_mr": "साक्षी रवींद्र बिबेकर",
+      "name_en": "sakshi Ravindra Bibekar"
+    },
+    {
+      "serial_number": 738,
+      "name_mr": "सुचिता सुभाष दरंबे",
+      "name_en": "Suchita Subhash Darmbe"
+    },
+    {
+      "serial_number": 739,
+      "name_mr": "फकीरचंद बापूराव पाटील",
+      "name_en": "Fakirchand Bapurao Patil"
+    },
+    {
+      "serial_number": 740,
+      "name_mr": "ज्योती जयपाल मेश्राम",
+      "name_en": "Jyoti Jaipal Meshram"
+    },
+    {
+      "serial_number": 741,
+      "name_mr": "सुनील चंपतराव चाफले",
+      "name_en": "Sunil Champatrao Chafle"
+    },
+    {
+      "serial_number": 742,
+      "name_mr": "पुष्पा सुनील चाफले",
+      "name_en": "Pushpa Sunil Chafle"
+    },
+    {
+      "serial_number": 743,
+      "name_mr": "ज्योती जयप्रकाश राय",
+      "name_en": "Jyoti Jayaprakash Rai"
+    },
+    {
+      "serial_number": 744,
+      "name_mr": "मंगला मधुकर चौधरी",
+      "name_en": "Mangala Madhukar Chaudhary"
+    },
+    {
+      "serial_number": 745,
+      "name_mr": "रूपलाल शामलाल धुर्वे",
+      "name_en": "Rooplal Shamlal Dhurve"
+    },
+    {
+      "serial_number": 746,
+      "name_mr": "कविता रूपलाल धुर्वे",
+      "name_en": "Kavita Rooplal Dhurve"
+    },
+    {
+      "serial_number": 747,
+      "name_mr": "केशव हरी गांजुडे",
+      "name_en": "Keshav Hari Ganjude"
+    },
+    {
+      "serial_number": 748,
+      "name_mr": "जनाबाई केशव गांजुडे",
+      "name_en": "Janabai Keshav Ganjude"
+    },
+    {
+      "serial_number": 749,
+      "name_mr": "विकास केशव गांजुडे",
+      "name_en": "Vikas Keshav Ganjude"
+    },
+    {
+      "serial_number": 750,
+      "name_mr": "गजानन भाऊराव थावरे",
+      "name_en": "Gajanan Bhaurao Thawre"
+    },
+    {
+      "serial_number": 751,
+      "name_mr": "पुष्पा गजानन ठवरे",
+      "name_en": "Pushpa Gajanan Thaware"
+    },
+    {
+      "serial_number": 752,
+      "name_mr": "लक्ष्मण बुधन करालुके",
+      "name_en": "Laxman Budhan Karaluke"
+    },
+    {
+      "serial_number": 753,
+      "name_mr": "शवंता जंगलू कार्लूके",
+      "name_en": "Shwanta Janglu Karlooke"
+    },
+    {
+      "serial_number": 754,
+      "name_mr": "जंगलू लक्ष्मण कार्लूके",
+      "name_en": "Janglu Laxman Karlooke"
+    },
+    {
+      "serial_number": 755,
+      "name_mr": "संजय मधुकर कार्लुके",
+      "name_en": "Sanjay Madhukar Karluke"
+    },
+    {
+      "serial_number": 756,
+      "name_mr": "दामोधर मारोती चौधरी",
+      "name_en": "Damodhar Maroti Chaudhary"
+    },
+    {
+      "serial_number": 757,
+      "name_mr": "कौशल्या दामोधर चौधरी",
+      "name_en": "Kaushalya Damodhar Chaudhary"
+    },
+    {
+      "serial_number": 758,
+      "name_mr": "अरुण दामोधर चौधरी",
+      "name_en": "Arun Damodhar Chaudhary"
+    },
+    {
+      "serial_number": 759,
+      "name_mr": "केशव उपासराव चिंचुलकर",
+      "name_en": "Keshav Upasrao Chinchulkar"
+    },
+    {
+      "serial_number": 760,
+      "name_mr": "वाचला केशव चिंचुलकर",
+      "name_en": "Vacchla Keshav Chinchulkar"
+    },
+    {
+      "serial_number": 761,
+      "name_mr": "अशोक केशव चिंचुलकर",
+      "name_en": "Ashok Keshav Chinchulkar"
+    },
+    {
+      "serial_number": 762,
+      "name_mr": "मंजुळा अशोक चिंचुलकर",
+      "name_en": "Manjula Ashok Chinchulkar"
+    },
+    {
+      "serial_number": 763,
+      "name_mr": "गौतम सुनील सूर्यवंशी",
+      "name_en": "Gautama Sunil Suryavanshi"
+    },
+    {
+      "serial_number": 764,
+      "name_mr": "शांता भाऊराव वासद",
+      "name_en": "Shanta Bhaurao Vasad"
+    },
+    {
+      "serial_number": 765,
+      "name_mr": "वासुदेव भाऊराव वासद",
+      "name_en": "Vasudev Bhaurao Vasad"
+    },
+    {
+      "serial_number": 766,
+      "name_mr": "कमला वासुदेव वासद",
+      "name_en": "Kamala Vasudeva Vasad"
+    },
+    {
+      "serial_number": 767,
+      "name_mr": "रमेश भाऊराव वासद",
+      "name_en": "Ramesh Bhaurao Vasad"
+    },
+    {
+      "serial_number": 768,
+      "name_mr": "भिकू देवश्या मडावी",
+      "name_en": "Bhiku Devshya Madavi"
+    },
+    {
+      "serial_number": 769,
+      "name_mr": "रुखमा भिकू मडावी",
+      "name_en": "Rukhma Bhiku Madavi"
+    },
+    {
+      "serial_number": 770,
+      "name_mr": "विजय भिकू मडावी",
+      "name_en": "Vijay Bhiku Madavi"
+    },
+    {
+      "serial_number": 771,
+      "name_mr": "शामराव भाऊराव अवचट",
+      "name_en": "Shamrao Bhaurao Awachat"
+    },
+    {
+      "serial_number": 772,
+      "name_mr": "कमला शामराव अवचट",
+      "name_en": "Kamala Shamrao Awachat"
+    },
+    {
+      "serial_number": 773,
+      "name_mr": "चंद्रकांत शामराव अवचट",
+      "name_en": "Chandrakant Shamrao Awachat"
+    },
+    {
+      "serial_number": 774,
+      "name_mr": "सुभाष शामराव अवचट",
+      "name_en": "Subhash Shamrao Awachat"
+    },
+    {
+      "serial_number": 775,
+      "name_mr": "वसंता महादेवा ढोरे",
+      "name_en": "Vasantha Mahadeva Dhore"
+    },
+    {
+      "serial_number": 776,
+      "name_mr": "सुशीला वसंता ढोरे",
+      "name_en": "Sushila Vasantha Dhore"
+    },
+    {
+      "serial_number": 777,
+      "name_mr": "चिघुजी रामा घिये",
+      "name_en": "Chighuji Rama Ghiye"
+    },
+    {
+      "serial_number": 778,
+      "name_mr": "चंदा ज्ञानेश्वर घिये",
+      "name_en": "Chanda Dnyaneshwar Ghiye"
+    },
+    {
+      "serial_number": 779,
+      "name_mr": "ज्ञानेश्वर रामा घिये",
+      "name_en": "Dnyaneshwar Rama Ghiye"
+    },
+    {
+      "serial_number": 780,
+      "name_mr": "सरस्वती मारोती डायरे",
+      "name_en": "Saraswati Maroti Dire"
+    },
+    {
+      "serial_number": 781,
+      "name_mr": "भीमराव मारोती डायरी",
+      "name_en": "Bhimrao Maroti Diary"
+    },
+    {
+      "serial_number": 782,
+      "name_mr": "गुणाबाई गोविंदा मांडरे",
+      "name_en": "Gunabai Govinda Mandhare"
+    },
+    {
+      "serial_number": 783,
+      "name_mr": "बारुबाई चंद्रभान नागपुरे",
+      "name_en": "Barubai Chandrabhan Nagpure"
+    },
+    {
+      "serial_number": 784,
+      "name_mr": "दुगर जित्रामण सोनवणे",
+      "name_en": "Dugar Zitraman Sonavane"
+    },
+    {
+      "serial_number": 785,
+      "name_mr": "आनंदराव मारोती सोनवणे",
+      "name_en": "Anandrao Maroti Sonwane"
+    },
+    {
+      "serial_number": 786,
+      "name_mr": "वनिता ज्ञानेश्वर खोब्रागडे",
+      "name_en": "Vanita Dnyaneshwar Khobragade"
+    },
+    {
+      "serial_number": 787,
+      "name_mr": "पुष्पा संजय खोब्रागडे",
+      "name_en": "Pushpa Sanjay Khobragade"
+    },
+    {
+      "serial_number": 788,
+      "name_mr": "लैना हरिभाऊ डाबरकर",
+      "name_en": "Laina Haribhau Daburkar"
+    },
+    {
+      "serial_number": 789,
+      "name_mr": "गोपीचंद बी उईके",
+      "name_en": "Gopichand B Uike"
+    },
+    {
+      "serial_number": 790,
+      "name_mr": "आकाश रामदास खेडकर",
+      "name_en": "Akash Ramdas Khedkar"
+    },
+    {
+      "serial_number": 791,
+      "name_mr": "मंगेश संतोषराव भोयर",
+      "name_en": "Mangesh Santoshrao Bhoyer"
+    },
+    {
+      "serial_number": 792,
+      "name_mr": "अजय वसंत मानकर",
+      "name_en": "Ajay Vasant Mankar"
+    },
+    {
+      "serial_number": 793,
+      "name_mr": "अमोल भीमराव काळे",
+      "name_en": "Amol Bhimrao Kale"
+    },
+    {
+      "serial_number": 794,
+      "name_mr": "मंदा महादेव कावळे",
+      "name_en": "Manda Mahadev Crows"
+    },
+    {
+      "serial_number": 795,
+      "name_mr": "दामिनी प्रमोद खैरकर",
+      "name_en": "Damini Pramod Khairkar"
+    },
+    {
+      "serial_number": 796,
+      "name_mr": "मंगेश संभाजी निकोडे",
+      "name_en": "Mangesh Sambhaji Nicode"
+    },
+    {
+      "serial_number": 797,
+      "name_mr": "प्रथम वरभे",
+      "name_en": "Pratham Varbhe"
+    },
+    {
+      "serial_number": 798,
+      "name_mr": "शितल मंगेश अवचट",
+      "name_en": "Shital Mangesh Awachat"
+    },
+    {
+      "serial_number": 799,
+      "name_mr": "अरुण विठ्ठल धोपटे",
+      "name_en": "Arun Vitthal Dhopte"
+    },
+    {
+      "serial_number": 800,
+      "name_mr": "मीराबाई अरुण धोपटे",
+      "name_en": "Mirabai Arun Dhopte"
+    },
+    {
+      "serial_number": 801,
+      "name_mr": "अभिषेक हरिप्रसाद सिंग",
+      "name_en": "Abhishek Hariprasad Singh"
+    },
+    {
+      "serial_number": 802,
+      "name_mr": "सरोज विकास ढोरे",
+      "name_en": "Saroj Vikas Dhore"
+    },
+    {
+      "serial_number": 803,
+      "name_mr": "सुगंधा चंपतराव कवळे",
+      "name_en": "Sugandha Champatrao Kavale"
+    },
+    {
+      "serial_number": 804,
+      "name_mr": "विनोद चंपत कावळे",
+      "name_en": "Vinod Champat Kawle"
+    },
+    {
+      "serial_number": 805,
+      "name_mr": "हेमलता महादेवा राऊत",
+      "name_en": "Hemlata Mahadeva Raut"
+    },
+    {
+      "serial_number": 806,
+      "name_mr": "प्रशांत शंकरराव दौलतकर",
+      "name_en": "Prashant Shankarao Daulatkar"
+    },
+    {
+      "serial_number": 807,
+      "name_mr": "भूषण राम नारायण अवचटे",
+      "name_en": "Bhushan Ram Narayan Awachte"
+    },
+    {
+      "serial_number": 808,
+      "name_mr": "स्वीटी रामनारायण अवचटे",
+      "name_en": "Sweety Ramnarayan Awachte"
+    },
+    {
+      "serial_number": 809,
+      "name_mr": "भावना राजू गिरडे",
+      "name_en": "Bhavna Raju Girde"
+    },
+    {
+      "serial_number": 810,
+      "name_mr": "स्वप्नील संजय लोटणे",
+      "name_en": "Swapnil Sanjay Lotane"
+    },
+    {
+      "serial_number": 811,
+      "name_mr": "मंदाकिनी विनोद कवाडे",
+      "name_en": "Mandakini Vinod Kawade"
+    },
+    {
+      "serial_number": 812,
+      "name_mr": "मनोज नारायण कावळे",
+      "name_en": "Manoj Naraya Kawle"
+    },
+    {
+      "serial_number": 813,
+      "name_mr": "शुभांगी मनोज कावळे",
+      "name_en": "Shubhangi Manoj Kawle"
+    },
+    {
+      "serial_number": 814,
+      "name_mr": "किशारे नारायण कावळे",
+      "name_en": "Kishare Narayan Kawle"
+    },
+    {
+      "serial_number": 815,
+      "name_mr": "उर्वशी ईश्वर भद्रे",
+      "name_en": "Urvashi Ishwar Bhadre"
+    },
+    {
+      "serial_number": 816,
+      "name_mr": "सुधा किशोर कावळे",
+      "name_en": "Sudha Kishore Kawle"
+    },
+    {
+      "serial_number": 817,
+      "name_mr": "कांता केशव कवळे",
+      "name_en": "Kanta Keshav Kavale"
+    },
+    {
+      "serial_number": 818,
+      "name_mr": "कल्पना विजय महास्कोल्हे",
+      "name_en": "kalpana Vijay Mahaskolhe"
+    },
+    {
+      "serial_number": 819,
+      "name_mr": "निखिल चाप्पेकर",
+      "name_en": "Nikhil Chappekar"
+    },
+    {
+      "serial_number": 820,
+      "name_mr": "अनिल दौलत द्राक्षे",
+      "name_en": "Anil Daulat Drakshe"
+    },
+    {
+      "serial_number": 821,
+      "name_mr": "मंगला राजू वांढारे",
+      "name_en": "Mangala Raju Wandhare"
+    },
+    {
+      "serial_number": 822,
+      "name_mr": "अविनाथ रामाजी वांढारे",
+      "name_en": "Avinath Ramaji Wandhare"
+    },
+    {
+      "serial_number": 823,
+      "name_mr": "खुशाल वसंतराव डाखोळे",
+      "name_en": "Khushal Vasantrao Dakhole"
+    },
+    {
+      "serial_number": 824,
+      "name_mr": "निरंजन ज्ञानेश्वर घनचक्कर",
+      "name_en": "Niranjan Dnyaneshwar Ghanchakkar"
+    },
+    {
+      "serial_number": 825,
+      "name_mr": "रमेश शामराव मडावी",
+      "name_en": "Ramesh Shamrao Madavi"
+    },
+    {
+      "serial_number": 826,
+      "name_mr": "राजेंद्र नत्थू पाटील",
+      "name_en": "Rajendra Natthu Patil"
+    },
+    {
+      "serial_number": 827,
+      "name_mr": "योगेश बालाजी वानखेडे",
+      "name_en": "Yogesh Balaji Wankhede"
+    },
+    {
+      "serial_number": 828,
+      "name_mr": "जिमल शेख",
+      "name_en": "Jimal Shaikh"
+    },
+    {
+      "serial_number": 829,
+      "name_mr": "राजू कवडू गिरडे",
+      "name_en": "Raju Kavadu Girde"
+    },
+    {
+      "serial_number": 830,
+      "name_mr": "नारायण शामरावजी वंजारी",
+      "name_en": "Narayan Shamraoji Vanjari"
+    },
+    {
+      "serial_number": 831,
+      "name_mr": "किशोर ज्ञानेश्वर काळे",
+      "name_en": "Kishore Dnyaneshwar Kale"
+    },
+    {
+      "serial_number": 832,
+      "name_mr": "विद्या किशोर काळे",
+      "name_en": "Vidya Kishore Kale"
+    },
+    {
+      "serial_number": 833,
+      "name_mr": "गीता बंडू शिंगणापरे",
+      "name_en": "Geeta Bandu Shingnapare"
+    },
+    {
+      "serial_number": 834,
+      "name_mr": "छाया धनराज चाप्पेकर",
+      "name_en": "Chhaya Dhanraj Chappekar"
+    },
+    {
+      "serial_number": 835,
+      "name_mr": "धनराज लक्ष्मण चाप्पेकर",
+      "name_en": "Dhanraj Laxman Chappekar"
+    },
+    {
+      "serial_number": 836,
+      "name_mr": "पिंकी धनराज चाप्पेकर",
+      "name_en": "Pinky Dhanraj Chappekar"
+    },
+    {
+      "serial_number": 837,
+      "name_mr": "प्रज्ञा प्रभाकर चौधरी",
+      "name_en": "Pragya Prabhakar Chaudhary"
+    },
+    {
+      "serial_number": 838,
+      "name_mr": "प्रगती प्रभाकर चौधरी",
+      "name_en": "Pragati Prabhakar Chaudhary"
+    },
+    {
+      "serial_number": 839,
+      "name_mr": "पल्लवी प्रभाकर चौधरी",
+      "name_en": "Pallavi Prabhakar Chaudhary"
+    },
+    {
+      "serial_number": 840,
+      "name_mr": "गीता विजय चाप्पेकर",
+      "name_en": "Geeta Vijay Chappekar"
+    },
+    {
+      "serial_number": 841,
+      "name_mr": "सुमन गणपत चाप्पेकर",
+      "name_en": "Suman Ganpat Chappekar"
+    },
+    {
+      "serial_number": 842,
+      "name_mr": "बेबीताई मारोती चाप्पेकर",
+      "name_en": "Babytai Maroti Chappekar"
+    },
+    {
+      "serial_number": 843,
+      "name_mr": "विजय गणपत चाप्पेकर",
+      "name_en": "Vijay Ganpat Chappekar"
+    },
+    {
+      "serial_number": 844,
+      "name_mr": "शोभा रामदास वासद",
+      "name_en": "Shobha Ramdas Vasad"
+    },
+    {
+      "serial_number": 845,
+      "name_mr": "आशा रामकृष्ण उईके",
+      "name_en": "Asha Ramakrishna Uike"
+    },
+    {
+      "serial_number": 846,
+      "name_mr": "सखुबाई नारायणराव वर्मे",
+      "name_en": "Sakhubai Narayanarao Varme"
+    },
+    {
+      "serial_number": 847,
+      "name_mr": "दिलीप देवराव पोहाणे",
+      "name_en": "Dilip Devrao Pohane"
+    },
+    {
+      "serial_number": 848,
+      "name_mr": "नितीन देवराव पोहाणे",
+      "name_en": "Nitin Devrao Pohane"
+    },
+    {
+      "serial_number": 849,
+      "name_mr": "श्रीकांत चोरमाडे",
+      "name_en": "Shrikant Chormade"
+    },
+    {
+      "serial_number": 850,
+      "name_mr": "वसंत श्यामराव डाकोडे",
+      "name_en": "Vasant Shyamrao Dakode"
+    },
+    {
+      "serial_number": 851,
+      "name_mr": "विमल वसंत डकोडे",
+      "name_en": "Vimal vasant Dakode"
+    },
+    {
+      "serial_number": 852,
+      "name_mr": "शुभम डाकोडे",
+      "name_en": "Shubham Dakode"
+    },
+    {
+      "serial_number": 853,
+      "name_mr": "देवराव श्यामराव डाकोडे",
+      "name_en": "Devrao Shyamrao Dakode"
+    },
+    {
+      "serial_number": 854,
+      "name_mr": "वनिता देवराव डाखोळे",
+      "name_en": "Vanita Devrao Dakhole"
+    },
+    {
+      "serial_number": 855,
+      "name_mr": "प्रभाकर केशव डाखोळे",
+      "name_en": "Prabhakar Keshav Dakhole"
+    },
+    {
+      "serial_number": 856,
+      "name_mr": "कांता प्रभाकर डाखोळे",
+      "name_en": "Kanta Prabhakar Dakhole"
+    },
+    {
+      "serial_number": 857,
+      "name_mr": "शंकर केशव डाखोळे",
+      "name_en": "Shankar Keshav Dakhole"
+    },
+    {
+      "serial_number": 858,
+      "name_mr": "शशिकला शंकर डाखोळे",
+      "name_en": "Sasikala Shankar Dakhole"
+    },
+    {
+      "serial_number": 859,
+      "name_mr": "बाळ गोविंदा कोल्हे",
+      "name_en": "Baby Govinda Kolhe"
+    },
+    {
+      "serial_number": 860,
+      "name_mr": "शामराव विठोबा कोल्हे",
+      "name_en": "Shamrao Vithoba Kolhe"
+    },
+    {
+      "serial_number": 861,
+      "name_mr": "सरस्वती शामराव कोल्हे",
+      "name_en": "Saraswati Shamrao Kolhe"
+    },
+    {
+      "serial_number": 862,
+      "name_mr": "दुर्गा नारायण कोल्हे",
+      "name_en": "Durga Narayan Kolhe"
+    },
+    {
+      "serial_number": 863,
+      "name_mr": "माधवी संजय गोस्वामी",
+      "name_en": "Madhavi Sanjay Goswami"
+    },
+    {
+      "serial_number": 864,
+      "name_mr": "गंगाबाई तुळशीदास खुरसंगे",
+      "name_en": "Gangabai Tulsidas Khursange"
+    },
+    {
+      "serial_number": 865,
+      "name_mr": "सुनील तुळशीदास खुरसंगे",
+      "name_en": "Sunil Tulshidas Khursange"
+    },
+    {
+      "serial_number": 866,
+      "name_mr": "अनिल तुळशीदास खुरसंगे",
+      "name_en": "Anil Tulsidas Khursange"
+    },
+    {
+      "serial_number": 867,
+      "name_mr": "रामदास गुलाब खेडकर",
+      "name_en": "Ramdas Gulab Khedkar"
+    },
+    {
+      "serial_number": 868,
+      "name_mr": "आशा रामदास खेडकर",
+      "name_en": "Asha Ramdas Khedkar"
+    },
+    {
+      "serial_number": 869,
+      "name_mr": "दिनसे वासुदेव वासद",
+      "name_en": "Dinase Vasudev Vasad"
+    },
+    {
+      "serial_number": 870,
+      "name_mr": "निरंजन पत्रीजी फुसे",
+      "name_en": "Niranjan Patriji Phuse"
+    },
+    {
+      "serial_number": 871,
+      "name_mr": "जोत्सना चिघूजी तूप",
+      "name_en": "Jotsana Chighuji Ghee"
+    },
+    {
+      "serial_number": 872,
+      "name_mr": "राजू रामा तूप",
+      "name_en": "Raju Rama Ghee"
+    },
+    {
+      "serial_number": 873,
+      "name_mr": "कांचन शुभाश तायडे",
+      "name_en": "Kanchan Shubash Taide"
+    },
+    {
+      "serial_number": 874,
+      "name_mr": "कृष्णा सुभाष तायडे",
+      "name_en": "Krishna Subhash Taide"
+    },
+    {
+      "serial_number": 875,
+      "name_mr": "शाम बापूराव प्रँक",
+      "name_en": "Sham Bapurao Prank"
+    },
+    {
+      "serial_number": 876,
+      "name_mr": "चंद्रकला दशरथ गव्हाळे",
+      "name_en": "Chandrakala Dashrath Gawhale"
+    },
+    {
+      "serial_number": 877,
+      "name_mr": "शेख शेरू शेख जरिफ कनोजे",
+      "name_en": "Sheikh Sheru Sheikh Zarif Kanoje"
+    },
+    {
+      "serial_number": 878,
+      "name_mr": "सुमय्याबी शेख शेर कनोजे",
+      "name_en": "Sumayyabi Sheikh Sher Kanoje"
+    },
+    {
+      "serial_number": 879,
+      "name_mr": "सुगरबी शेख",
+      "name_en": "Sugarabi Sheikh"
+    },
+    {
+      "serial_number": 880,
+      "name_mr": "सैदाबी शेख",
+      "name_en": "Saidabi Sheikh"
+    },
+    {
+      "serial_number": 881,
+      "name_mr": "कृष्णा दत्तुजी भोयर",
+      "name_en": "Krishna Dattuji Bhoyer"
+    },
+    {
+      "serial_number": 882,
+      "name_mr": "गोपीचंद रामचंद्र पाटील",
+      "name_en": "Gopichand Ramchandra Patil"
+    },
+    {
+      "serial_number": 883,
+      "name_mr": "गोपीचंद पंढरी पाटील",
+      "name_en": "Gopichand Pandhari Patil"
+    },
+    {
+      "serial_number": 884,
+      "name_mr": "सुचिता गोपीचंद पाटील",
+      "name_en": "Suchita Gopichand Patil"
+    },
+    {
+      "serial_number": 885,
+      "name_mr": "आयुष मधुकर कारभोर",
+      "name_en": "Ayush Madhukar Karbhore"
+    },
+    {
+      "serial_number": 886,
+      "name_mr": "शारदा तुळशीराम पाटील",
+      "name_en": "Sarada Tulshiram Patil"
+    },
+    {
+      "serial_number": 887,
+      "name_mr": "नीलम रवींद्र राजभर",
+      "name_en": "Neelam Ravindra Rajbhar"
+    },
+    {
+      "serial_number": 888,
+      "name_mr": "मोहन आनंदराव कापरकर",
+      "name_en": "Mohan Anandrao Kaparkar"
+    },
+    {
+      "serial_number": 889,
+      "name_mr": "मधुकर देवाजी कारेमोरे",
+      "name_en": "Madhukar Devaji Karemore"
+    },
+    {
+      "serial_number": 890,
+      "name_mr": "माला मधुकर कारेमोरे",
+      "name_en": "Mala Madhukar Karemore"
+    },
+    {
+      "serial_number": 891,
+      "name_mr": "प्यारेलाल मन्साराम पारधी",
+      "name_en": "Pyarelal Mansaram Pardhi"
+    },
+    {
+      "serial_number": 892,
+      "name_mr": "धुरपता प्यारेलाल पारधी",
+      "name_en": "Dhurpata Pyarelal Pardhi"
+    },
+    {
+      "serial_number": 893,
+      "name_mr": "संतोष प्यारेलाल पारधी",
+      "name_en": "Santosh Pyarelal Pardhi"
+    },
+    {
+      "serial_number": 894,
+      "name_mr": "वसंता बापूराव शेळके",
+      "name_en": "Vasantha Bapurao Shelke"
+    },
+    {
+      "serial_number": 895,
+      "name_mr": "चंद्रकला वसंता शेळके",
+      "name_en": "Chandrakala Vasantha Shelke"
+    },
+    {
+      "serial_number": 896,
+      "name_mr": "कैवल्य महेंद्र पर्वत",
+      "name_en": "Kaivalya Mahedra Hills"
+    },
+    {
+      "serial_number": 897,
+      "name_mr": "किरण अशोक राऊत",
+      "name_en": "Kiran Ashok Raut"
+    },
+    {
+      "serial_number": 898,
+      "name_mr": "गणेश एकनाथ जिभकाटे",
+      "name_en": "Ganesh Eknath Jibhkate"
+    },
+    {
+      "serial_number": 899,
+      "name_mr": "वेणू मोहन कापरकर",
+      "name_en": "Venu Mohan Kaparkar"
+    },
+    {
+      "serial_number": 900,
+      "name_mr": "शोभा एकनाथ जिभकाटे",
+      "name_en": "Shobha Eknath Jibhkate"
+    },
+    {
+      "serial_number": 901,
+      "name_mr": "भगवान दादाजी ढोले",
+      "name_en": "Bhagwan Dadaji Dhole"
+    },
+    {
+      "serial_number": 902,
+      "name_mr": "बाबी भागायन ढोले",
+      "name_en": "Babi Bhagayan Dhole"
+    },
+    {
+      "serial_number": 903,
+      "name_mr": "सिमा राकेश मेश्राम",
+      "name_en": "Sima Rakesh Meshram"
+    },
+    {
+      "serial_number": 904,
+      "name_mr": "हिरालाल जालंधर मंडप",
+      "name_en": "Hiralal Jalandhar Pavilion"
+    },
+    {
+      "serial_number": 905,
+      "name_mr": "छाया हिरालाल मंडप",
+      "name_en": "Chhaya Hiralal Pavilion"
+    },
+    {
+      "serial_number": 906,
+      "name_mr": "गौतम सुदाम राव मुरार",
+      "name_en": "Gautam Sudam Rao Murar"
+    },
+    {
+      "serial_number": 907,
+      "name_mr": "राजकुमार नीलकंठ धोपटे",
+      "name_en": "Rajkumar Nilakanth Dhopete"
+    },
+    {
+      "serial_number": 908,
+      "name_mr": "प्रकाश नीलकांत धोपटे",
+      "name_en": "Prakash Nilakant Dhopete"
+    },
+    {
+      "serial_number": 909,
+      "name_mr": "मीना राजकुमार धोपेत",
+      "name_en": "Meena Rajkumar Dhopet"
+    },
+    {
+      "serial_number": 910,
+      "name_mr": "सविता प्रकाश धोपटे",
+      "name_en": "Savita Prakash Dhopete"
+    },
+    {
+      "serial_number": 911,
+      "name_mr": "अनिता सुरेखा मोहुर्ले",
+      "name_en": "Anita Surekha Mohurle"
+    },
+    {
+      "serial_number": 912,
+      "name_mr": "दिलीप विठोबा चावडे",
+      "name_en": "Dilip Vithoba Chawde"
+    },
+    {
+      "serial_number": 913,
+      "name_mr": "प्रभा दिलीप चावडे",
+      "name_en": "Prabha Dilip Chawde"
+    },
+    {
+      "serial_number": 914,
+      "name_mr": "वासुदेव सुग्रभान घोगडे",
+      "name_en": "Vasudev Sugrabhan Ghogde"
+    },
+    {
+      "serial_number": 915,
+      "name_mr": "राजेश भीमरावजी मानकर",
+      "name_en": "Rajesh Bhimraoji Mankar"
+    },
+    {
+      "serial_number": 916,
+      "name_mr": "प्रशांत दिगंबर साखरकर",
+      "name_en": "Prashant Digambar Sakharkar"
+    },
+    {
+      "serial_number": 917,
+      "name_mr": "आरती सुभाष इंगळे",
+      "name_en": "Aarti Subhash Ingle"
+    },
+    {
+      "serial_number": 918,
+      "name_mr": "दिवाकर फागोजी कावरकर",
+      "name_en": "Diwakar Fagoji Kavarkar"
+    },
+    {
+      "serial_number": 919,
+      "name_mr": "सुनीता फकीरचंद पाटील",
+      "name_en": "Sunita Fakirchand Patil"
+    },
+    {
+      "serial_number": 920,
+      "name_mr": "प्रभाकर नारायणजी शिवरकर",
+      "name_en": "Prabhakar Narayanji Shivarkar"
+    },
+    {
+      "serial_number": 921,
+      "name_mr": "सुखदेव नारायणजी शिवरकर",
+      "name_en": "Sukhdev Narayanji Shivarkar"
+    },
+    {
+      "serial_number": 922,
+      "name_mr": "सजना नारायण शिवरकर",
+      "name_en": "Sajna Narayan Shivarkar"
+    },
+    {
+      "serial_number": 923,
+      "name_mr": "इंदूबाई रामाजी शिवरकर",
+      "name_en": "Indubai Ramaji Shivarkar"
+    },
+    {
+      "serial_number": 924,
+      "name_mr": "नारायण गणपतजी शिवरकर",
+      "name_en": "Narayan Ganpatji Shivarkar"
+    },
+    {
+      "serial_number": 925,
+      "name_mr": "रक्षा रामदास खेडकर",
+      "name_en": "Raksha Ramdas Khedkar"
+    },
+    {
+      "serial_number": 926,
+      "name_mr": "यशोदा रत्नाकर पारेकर",
+      "name_en": "Yashoda Ratnakar Parekar"
+    },
+    {
+      "serial_number": 927,
+      "name_mr": "राकेश रमेश मडावी",
+      "name_en": "Rakesh Ramesh Madavi"
+    },
+    {
+      "serial_number": 928,
+      "name_mr": "करिष्मा किशोरजी काळे",
+      "name_en": "Karisma Kishoreji Kale"
+    },
+    {
+      "serial_number": 929,
+      "name_mr": "काजल रोशन काळे",
+      "name_en": "Kajal Roshan Kale"
+    },
+    {
+      "serial_number": 930,
+      "name_mr": "सुरेश चुन्नीलाल यांनी मानले",
+      "name_en": "Suresh Chunnilal agreed"
+    },
+    {
+      "serial_number": 931,
+      "name_mr": "शोभा सुरेश यांना पटले",
+      "name_en": "Shobha Suresh was convinced"
+    },
+    {
+      "serial_number": 932,
+      "name_mr": "कौशल्याबाई वामन कोल्हे",
+      "name_en": "Kaushalyabai Vaman Kolhe"
+    },
+    {
+      "serial_number": 933,
+      "name_mr": "कैलास राधेश्याम शेंडे",
+      "name_en": "Kailash Radheshyam Shende"
+    },
+    {
+      "serial_number": 934,
+      "name_mr": "गुलाब राधेश्याम शेंडे",
+      "name_en": "Gulab Radheshyam Shende"
+    },
+    {
+      "serial_number": 935,
+      "name_mr": "शंकर नागोराव शिदाम",
+      "name_en": "Shankar Nagorao Shidam"
+    },
+    {
+      "serial_number": 936,
+      "name_mr": "अन्नपूर्णा शंकर शिदम",
+      "name_en": "Annapurna Shankar Shidam"
+    },
+    {
+      "serial_number": 937,
+      "name_mr": "रवींद्र शंकर शिदम",
+      "name_en": "Ravindra Shankar Shidam"
+    },
+    {
+      "serial_number": 938,
+      "name_mr": "संजय प्यारेलाल पार्थी",
+      "name_en": "Sanjay Pyarelal Parthy"
+    },
+    {
+      "serial_number": 939,
+      "name_mr": "रंजिता महादेव नंदनवार",
+      "name_en": "Ranjita Mahadev Nandanwar"
+    },
+    {
+      "serial_number": 940,
+      "name_mr": "भोजराज हिरालाल मंडप",
+      "name_en": "Bhojraj Hiralal Pavilion"
+    },
+    {
+      "serial_number": 941,
+      "name_mr": "राकेश राजकुमार धोपेत",
+      "name_en": "Rakesh Rajkumar Dhopet"
+    },
+    {
+      "serial_number": 942,
+      "name_mr": "शिवानी प्रकाशराव डफरे",
+      "name_en": "Shivani Prakashrao Duffre"
+    },
+    {
+      "serial_number": 943,
+      "name_mr": "नलिनी ईश्वर भद्रे",
+      "name_en": "Nalini Ishwar Bhadre"
+    },
+    {
+      "serial_number": 944,
+      "name_mr": "प्रभाकर गाविंदा मालीवार",
+      "name_en": "Prabhakar Gavinda Maliwar"
+    },
+    {
+      "serial_number": 945,
+      "name_mr": "अंकित ज्ञानेश्वर घनचक्कर",
+      "name_en": "Ankit Dnyaneshwar Ghanchakkar"
+    },
+    {
+      "serial_number": 946,
+      "name_mr": "छगन ठाकरे",
+      "name_en": "Chhagan Thackeray"
+    },
+    {
+      "serial_number": 947,
+      "name_mr": "बंडू राघोबाजी शिंगणापुरे",
+      "name_en": "Bandu Raghobaji Shingnapure"
+    },
+    {
+      "serial_number": 948,
+      "name_mr": "मोनाली विठ्ठल पुंड",
+      "name_en": "Monali Vitthal Pund"
+    },
+    {
+      "serial_number": 949,
+      "name_mr": "शशिकला घनश्याम कोल्हे",
+      "name_en": "Sasikala Ghanshyam Kolhe"
+    },
+    {
+      "serial_number": 950,
+      "name_mr": "प्रदीप नामदेव जीवतोडे",
+      "name_en": "Pradeep Namdev Jivtode"
+    },
+    {
+      "serial_number": 951,
+      "name_mr": "वैभव चंदूजी घिये",
+      "name_en": "Vaibhav Chanduji Ghiye"
+    },
+    {
+      "serial_number": 952,
+      "name_mr": "रवींद्र कवडूजी डाखोळे",
+      "name_en": "Ravindra Kavaduji Dakhole"
+    },
+    {
+      "serial_number": 953,
+      "name_mr": "खुशाली श्याम आमनेरकर",
+      "name_en": "Khushali Shyam Amnerkar"
+    },
+    {
+      "serial_number": 954,
+      "name_mr": "गजानन भाऊराव थावरे",
+      "name_en": "Gajanan Bhaurao Thawre"
+    },
+    {
+      "serial_number": 955,
+      "name_mr": "सिद्धी बोबडे",
+      "name_en": "Siddhi Bobde"
+    },
+    {
+      "serial_number": 956,
+      "name_mr": "प्रमोद हिरामणजी चौधरी",
+      "name_en": "Pramod Hiramanji Chaudhary"
+    },
+    {
+      "serial_number": 957,
+      "name_mr": "गोपाळ केशवराव अस्वले",
+      "name_en": "Gopal Keshavrao Aswale"
+    },
+    {
+      "serial_number": 958,
+      "name_mr": "गुफा चंद्रकांत अवचट",
+      "name_en": "Gufa Chandrakant Avachat"
+    },
+    {
+      "serial_number": 959,
+      "name_mr": "मंगेश रामकृष्ण बजैत",
+      "name_en": "Mangesh Ramakrishna Bajait"
+    },
+    {
+      "serial_number": 960,
+      "name_mr": "सुरेखा सुधाकर बालपांडे",
+      "name_en": "Surekha Sudhakar Balpande"
+    },
+    {
+      "serial_number": 961,
+      "name_mr": "वामन उरकुडा भोंडगे",
+      "name_en": "Vaman Urkuda Bhondge"
+    },
+    {
+      "serial_number": 962,
+      "name_mr": "निर्मला वामनराव भोंडगे",
+      "name_en": "Nirmala Vamanrao Bhondge"
+    },
+    {
+      "serial_number": 963,
+      "name_mr": "स्वप्नील वामनराव भोयर",
+      "name_en": "Swapnil Vamanrao Bhoyer"
+    },
+    {
+      "serial_number": 964,
+      "name_mr": "श्रीकांत मुरलीधर चांदेकर",
+      "name_en": "Shrikant Muralidhar Chandekar"
+    },
+    {
+      "serial_number": 965,
+      "name_mr": "शोभा प्रभाकर चौधरी",
+      "name_en": "Shobha Prabhakar Chaudhary"
+    },
+    {
+      "serial_number": 966,
+      "name_mr": "शिवाजी प्रकाश डफरे",
+      "name_en": "Shivaji Prakash Dafre"
+    },
+    {
+      "serial_number": 967,
+      "name_mr": "नंदा प्रकाश डफरे",
+      "name_en": "Nanda Prakash Dafre"
+    },
+    {
+      "serial_number": 968,
+      "name_mr": "योगेश रमेश डाखोळे",
+      "name_en": "Yogesh Ramesh Dakhole"
+    },
+    {
+      "serial_number": 969,
+      "name_mr": "अश्विनी अनिल देशमुख",
+      "name_en": "Ashwini Anil Deshmukh"
+    },
+    {
+      "serial_number": 970,
+      "name_mr": "आशिष वामन ढोले",
+      "name_en": "Ashish Vaman Dhole"
+    },
+    {
+      "serial_number": 971,
+      "name_mr": "मनीषा पांडुरंग घिये",
+      "name_en": "Manisha Pandurang Ghiye"
+    },
+    {
+      "serial_number": 972,
+      "name_mr": "शितल चंद्रशेखर गिरडे",
+      "name_en": "Shital Chandrasekhar Girde"
+    },
+    {
+      "serial_number": 973,
+      "name_mr": "पुष्पा मधुकर गुडरे",
+      "name_en": "Pushpa Madhukar Goodre"
+    },
+    {
+      "serial_number": 974,
+      "name_mr": "विठ्ठल नथु हटवार",
+      "name_en": "Vitthal Natthu Hatwar"
+    },
+    {
+      "serial_number": 975,
+      "name_mr": "नितीन रामचंद्र इंगळे",
+      "name_en": "Nitin Ramchandra Ingle"
+    },
+    {
+      "serial_number": 976,
+      "name_mr": "दीपमाला दामोधर जौजळ",
+      "name_en": "Deepmala Damodhar Joujal"
+    },
+    {
+      "serial_number": 977,
+      "name_mr": "दुर्गेश प्रकाश जावरकर",
+      "name_en": "Durgesh Prakash Javarkar"
+    },
+    {
+      "serial_number": 978,
+      "name_mr": "कपिल देविदास कावळे",
+      "name_en": "Kapil Devidas Kawle"
+    },
+    {
+      "serial_number": 979,
+      "name_mr": "रवी दत्तुजी कामडी",
+      "name_en": "Ravi Dattuji Kamdi"
+    },
+    {
+      "serial_number": 980,
+      "name_mr": "मनोहर विठ्ठल कांबळे",
+      "name_en": "Manohar Vitthal Kamble"
+    },
+    {
+      "serial_number": 981,
+      "name_mr": "पुंडलिक तातोबा कांबळे",
+      "name_en": "Pundalik Tatoba Kamble"
+    },
+    {
+      "serial_number": 982,
+      "name_mr": "जीवन आनंद कापतकर",
+      "name_en": "Jiwan Anand Kapatkar"
+    },
+    {
+      "serial_number": 983,
+      "name_mr": "विलास जंगले करालुके",
+      "name_en": "Vilas Jungle Karaluke"
+    },
+    {
+      "serial_number": 984,
+      "name_mr": "नलू विजय खडके",
+      "name_en": "Nalu Vijay Khadke"
+    },
+    {
+      "serial_number": 985,
+      "name_mr": "अश्विनी अरुण खैरकर",
+      "name_en": "Ashwini Arun Khairkar"
+    },
+    {
+      "serial_number": 986,
+      "name_mr": "नूतन रवींद्र खोंडे",
+      "name_en": "Nutan Ravindra Khonde"
+    },
+    {
+      "serial_number": 987,
+      "name_mr": "अमोल जानलुजी कार्लुके",
+      "name_en": "Amol Janluji Karluke"
+    },
+    {
+      "serial_number": 988,
+      "name_mr": "राम प्रताप जगत कुशवाहा",
+      "name_en": "Ram Pratap Jagat Kushwaha"
+    },
+    {
+      "serial_number": 989,
+      "name_mr": "विद्यावती रामप्रताप कुशवाह",
+      "name_en": "Vidyavati Rampratap Kushwaha"
+    },
+    {
+      "serial_number": 990,
+      "name_mr": "अनिता सुनील लाख",
+      "name_en": "Anita Sunil Lakh"
+    },
+    {
+      "serial_number": 991,
+      "name_mr": "पंजाब गणपत मल्ल्या",
+      "name_en": "Punjab Ganpat Malliye"
+    },
+    {
+      "serial_number": 992,
+      "name_mr": "शशिकला पंजाबच्या",
+      "name_en": "Sasikala from Punjab"
+    },
+    {
+      "serial_number": 993,
+      "name_mr": "संजय पंजाब मालीये",
+      "name_en": "Sanjay Punjab Maliye"
+    },
+    {
+      "serial_number": 994,
+      "name_mr": "वैशाली श्रीकांत मानकर",
+      "name_en": "Vaishali Srikanth Mankar"
+    },
+    {
+      "serial_number": 995,
+      "name_mr": "केशवराव सीताराम मानकर",
+      "name_en": "Keshavrao Sitaram Mankar"
+    },
+    {
+      "serial_number": 996,
+      "name_mr": "कविता महादेव मसुरकर",
+      "name_en": "Kavita Mahadev Masurkar"
+    },
+    {
+      "serial_number": 997,
+      "name_mr": "मीना लालमन पटेल",
+      "name_en": "Meena Lalman Patel"
+    },
+    {
+      "serial_number": 998,
+      "name_mr": "सिमा राजू पाटील",
+      "name_en": "Sima Raju Patil"
+    },
+    {
+      "serial_number": 999,
+      "name_mr": "रजनी तुळशीराम पाटील",
+      "name_en": "Rajni Tulshiram Patil"
+    },
+    {
+      "serial_number": 1000,
+      "name_mr": "रजनी तुळशीदास पाटील",
+      "name_en": "Rajni Tulshidas Patil"
+    },
+    {
+      "serial_number": 1001,
+      "name_mr": "संगीता शिवाजी पोहाणे",
+      "name_en": "Sangeeta Shivaji Pohane"
+    },
+    {
+      "serial_number": 1002,
+      "name_mr": "वेणूबाई दुलीचंद रायकर",
+      "name_en": "Venubai Dulichand Raikar"
+    },
+    {
+      "serial_number": 1003,
+      "name_mr": "स्मिता फलीचंद रायकर",
+      "name_en": "Smita Falichand Raikar"
+    },
+    {
+      "serial_number": 1004,
+      "name_mr": "शैलेश दुलीचंद रायकर",
+      "name_en": "Shailesh Dulichand Raikar"
+    },
+    {
+      "serial_number": 1005,
+      "name_mr": "सोनम दुलीचंद रायकर",
+      "name_en": "Sonam Dulichand Raikar"
+    },
+    {
+      "serial_number": 1006,
+      "name_mr": "प्रदीप देविदास शेंडे",
+      "name_en": "Pradeep Devidas Shende"
+    },
+    {
+      "serial_number": 1007,
+      "name_mr": "अमोल रामदास सूर्यवंशी",
+      "name_en": "Amol Ramdas Suryavanshi"
+    },
+    {
+      "serial_number": 1008,
+      "name_mr": "सुभाष मधुकर ढोरे",
+      "name_en": "Subhash Madhukar Dhore"
+    },
+    {
+      "serial_number": 1009,
+      "name_mr": "प्रभा काशिनाथ अडकले",
+      "name_en": "Prabha Kashinath Trapped"
+    },
+    {
+      "serial_number": 1010,
+      "name_mr": "शारदा नारायण वंजारी",
+      "name_en": "Sarada Narayan Vanjari"
+    },
+    {
+      "serial_number": 1011,
+      "name_mr": "वर्षा लीलेश्वर वानखेडे",
+      "name_en": "Varsha Lileshwar Wankhede"
+    },
+    {
+      "serial_number": 1012,
+      "name_mr": "आरती भानारकर",
+      "name_en": "Aarti Bhanarkar"
+    },
+    {
+      "serial_number": 1013,
+      "name_mr": "मिलिंद भानारकर",
+      "name_en": "Milind Bhanarkar"
+    },
+    {
+      "serial_number": 1014,
+      "name_mr": "आरती खोडे",
+      "name_en": "Aarti Khode"
+    },
+    {
+      "serial_number": 1015,
+      "name_mr": "मंदा नरनवरा",
+      "name_en": "Manda Narnavara"
+    },
+    {
+      "serial_number": 1016,
+      "name_mr": "पलक शाहू",
+      "name_en": "Palak Shahu"
+    },
+    {
+      "serial_number": 1017,
+      "name_mr": "पायल शाहू",
+      "name_en": "Payal Shahu"
+    },
+    {
+      "serial_number": 1018,
+      "name_mr": "शाहरुख शेख",
+      "name_en": "Shah Rukh Sheikh"
+    },
+    {
+      "serial_number": 1019,
+      "name_mr": "शुभम तिजारे",
+      "name_en": "Shubham Tijare"
+    },
+    {
+      "serial_number": 1020,
+      "name_mr": "अरुणा वानखेडे",
+      "name_en": "Aruna Wankhede"
+    },
+    {
+      "serial_number": 1021,
+      "name_mr": "अनन्या वानखेडे",
+      "name_en": "Ananya Wankhede"
+    },
+    {
+      "serial_number": 1022,
+      "name_mr": "गजानन वासद",
+      "name_en": "Gajanan Vasad"
+    },
+    {
+      "serial_number": 1023,
+      "name_mr": "अतुल वासद",
+      "name_en": "Atul Vasad"
+    },
+    {
+      "serial_number": 1024,
+      "name_mr": "दामोधर बाळकृष्ण जैजल",
+      "name_en": "Damodhar Balkrishna Jaijal"
+    },
+    {
+      "serial_number": 1025,
+      "name_mr": "सुपेश पुंडलिकराव कांबळे",
+      "name_en": "Supesh Pundalikrao Kamble"
+    },
+    {
+      "serial_number": 1026,
+      "name_mr": "वहिदा रहमान शेख",
+      "name_en": "Waheeda Rehman Shaikh"
+    },
+    {
+      "serial_number": 1027,
+      "name_mr": "मेघा सुभाष लोटणे",
+      "name_en": "Megha Subhash Lotane"
+    },
+    {
+      "serial_number": 1028,
+      "name_mr": "चंद्रशेखर बलदेव मेश्राम",
+      "name_en": "Chandrasekhar Baldev Meshram"
+    },
+    {
+      "serial_number": 1029,
+      "name_mr": "प्रिया भावराव नेवरे",
+      "name_en": "Priya Bhavrao Neware"
+    },
+    {
+      "serial_number": 1030,
+      "name_mr": "मुझम्मिल अब्दुल शेख",
+      "name_en": "Muzammil Abdul Shaikh"
+    },
+    {
+      "serial_number": 1031,
+      "name_mr": "संजय गोविंदा ठाकर",
+      "name_en": "Sanjay Govinda Thacker"
+    },
+    {
+      "serial_number": 1032,
+      "name_mr": "नलू रामाजी वैरागे",
+      "name_en": "Nalu Ramaji Vairage"
+    },
+    {
+      "serial_number": 1033,
+      "name_mr": "कविता विनोद दयारे",
+      "name_en": "Kavita Vinod Dayare"
+    },
+    {
+      "serial_number": 1034,
+      "name_mr": "संजय आनंद दुरुगवार",
+      "name_en": "Sanjay Anand Durugwar"
+    },
+    {
+      "serial_number": 1035,
+      "name_mr": "तनु देविदास मानकर",
+      "name_en": "Tanu Devidas Mankar"
+    },
+    {
+      "serial_number": 1036,
+      "name_mr": "ओशन रामदास मेसेकर",
+      "name_en": "Oshan Ramdas Mesekar"
+    },
+    {
+      "serial_number": 1037,
+      "name_mr": "संजय विठोबाजी नवघरे",
+      "name_en": "Sanjay Vithobaji Navghare"
+    },
+    {
+      "serial_number": 1038,
+      "name_mr": "विमान ज्ञानेश्वर डायरी",
+      "name_en": "Viman Dnyaneshwar Diary"
+    },
+    {
+      "serial_number": 1039,
+      "name_mr": "प्रियांका स्वप्रील गोटेकर",
+      "name_en": "Priyanka Swapreel Gotekar"
+    },
+    {
+      "serial_number": 1040,
+      "name_mr": "जानरावजी तुळशीराम कावळे",
+      "name_en": "Janraoji Tulshiram Kawle"
+    },
+    {
+      "serial_number": 1041,
+      "name_mr": "करिष्मा जानरावजी कावळे",
+      "name_en": "Karisma Janraoji Kawle"
+    },
+    {
+      "serial_number": 1042,
+      "name_mr": "गौरव संजय ढेंगळे",
+      "name_en": "Gaurav Sanjay Dhengle"
+    },
+    {
+      "serial_number": 1043,
+      "name_mr": "मंगला सुभाष काकडे",
+      "name_en": "Mangala Subhash Kakade"
+    },
+    {
+      "serial_number": 1044,
+      "name_mr": "रिंकू सुभाष काकडे",
+      "name_en": "Rinku Subhash Kakade"
+    },
+    {
+      "serial_number": 1045,
+      "name_mr": "तुषार मुरलीधर कोल्हे",
+      "name_en": "Tushar Muralidhar Kolhe"
+    },
+    {
+      "serial_number": 1046,
+      "name_mr": "राजू प्रेमलाल कुडे",
+      "name_en": "Raju Premlal Kude"
+    },
+    {
+      "serial_number": 1047,
+      "name_mr": "मनोरमा राजू कुडे",
+      "name_en": "Manorama Raju Kude"
+    },
+    {
+      "serial_number": 1048,
+      "name_mr": "राणी राजू कुडे",
+      "name_en": "Rani Raju Kude"
+    },
+    {
+      "serial_number": 1049,
+      "name_mr": "छाया रमेश मेसेकर",
+      "name_en": "Chhaya Ramesh Mesekar"
+    },
+    {
+      "serial_number": 1050,
+      "name_mr": "साक्षी आकाश खेडकर",
+      "name_en": "Sakshi Akash Khedkar"
+    },
+    {
+      "serial_number": 1051,
+      "name_mr": "निवेदिता मधुकर भोयर",
+      "name_en": "Nivedita Madhukar Bhoyer"
+    },
+    {
+      "serial_number": 1052,
+      "name_mr": "मोनाली धनराज खंडारे",
+      "name_en": "Monali Dhanraj Khandare"
+    },
+    {
+      "serial_number": 1053,
+      "name_mr": "भावना धनराज खंदारे",
+      "name_en": "Bhavna Dhanraj Khandare"
+    },
+    {
+      "serial_number": 1054,
+      "name_mr": "आकाश सुनील मलिक",
+      "name_en": "Akash Sunil Malik"
+    },
+    {
+      "serial_number": 1055,
+      "name_mr": "शशिकला हरिदास डम्मल",
+      "name_en": "Sasikala Haridas Dammal"
+    },
+    {
+      "serial_number": 1056,
+      "name_mr": "श्रीनंद डाबरकर",
+      "name_en": "Srinand Daburkar"
+    },
+    {
+      "serial_number": 1057,
+      "name_mr": "भाग्यश्री देविदास कवळे",
+      "name_en": "Bhagyashree Devidas Kavale"
+    },
+    {
+      "serial_number": 1058,
+      "name_mr": "मयुरी बंडू शिंगणापुरे",
+      "name_en": "Mayuri Bandu Shingnapure"
+    },
+    {
+      "serial_number": 1059,
+      "name_mr": "रहमत जुबेर खान",
+      "name_en": "Rehmat Zubair Khan"
+    },
+    {
+      "serial_number": 1060,
+      "name_mr": "अतुल रामभाऊ दाभेकर",
+      "name_en": "Atul Rambhau Dabhekar"
+    },
+    {
+      "serial_number": 1061,
+      "name_mr": "विनोद नामदेव डायरी",
+      "name_en": "Vinod Namdev Diary"
+    },
+    {
+      "serial_number": 1062,
+      "name_mr": "संजय कचरू मुनघाटे",
+      "name_en": "Sanjay Kachru Munghate"
+    },
+    {
+      "serial_number": 1063,
+      "name_mr": "विजय बंडू शिंगणापुरे",
+      "name_en": "Vijay Bandu Shingnapure"
+    },
+    {
+      "serial_number": 1064,
+      "name_mr": "वासुदेवजी शेषराव भानखेडे",
+      "name_en": "Vasudevji Seshrao Bhankhede"
+    },
+    {
+      "serial_number": 1065,
+      "name_mr": "गोविंदा महादेव चौधरी",
+      "name_en": "Govinda Mahadev Chaudhary"
+    },
+    {
+      "serial_number": 1066,
+      "name_mr": "प्रफुल्ल दिलीप पारसे",
+      "name_en": "Praful Dilip Parse"
+    },
+    {
+      "serial_number": 1067,
+      "name_mr": "किरण विजय वानखेडे",
+      "name_en": "Kiran Vijay Wankhede"
+    },
+    {
+      "serial_number": 1068,
+      "name_mr": "विकास भास्कर चांदेकर",
+      "name_en": "Vikas Bhaskar Chandekar"
+    },
+    {
+      "serial_number": 1069,
+      "name_mr": "चिंधू भादुजी भोयर",
+      "name_en": "Chindhu Bhaduji Bhoyer"
+    },
+    {
+      "serial_number": 1070,
+      "name_mr": "कुसुम दत्तूजी भोयर",
+      "name_en": "Kusum Dattuji Bhoyer"
+    },
+    {
+      "serial_number": 1071,
+      "name_mr": "मयुरी दातजी भोयर",
+      "name_en": "Mayuri Datji Bhoyer"
+    },
+    {
+      "serial_number": 1072,
+      "name_mr": "मोरेश्वर महादेव करणके",
+      "name_en": "Moreshwar Mahadev Karanake"
+    },
+    {
+      "serial_number": 1073,
+      "name_mr": "सविता मोरेश्वर करणके",
+      "name_en": "Savita Moreshwar karanake"
+    },
+    {
+      "serial_number": 1074,
+      "name_mr": "कवडू परसराम कोल्हा",
+      "name_en": "Kavadu Parasram Fox"
+    },
+    {
+      "serial_number": 1075,
+      "name_mr": "मनोहर पांडुरंग फुसे",
+      "name_en": "Manohar Pandurang Phuse"
+    },
+    {
+      "serial_number": 1076,
+      "name_mr": "अनिता मनोहर फुसे",
+      "name_en": "Anita Manohar Phuse"
+    },
+    {
+      "serial_number": 1077,
+      "name_mr": "वृषभ भाटे",
+      "name_en": "Vrushabh Bhate"
+    },
+    {
+      "serial_number": 1078,
+      "name_mr": "घनश्याम केशवराव गांजुडे",
+      "name_en": "Ghanshyam Keshavrao Ganjude"
+    },
+    {
+      "serial_number": 1079,
+      "name_mr": "गंगा संदीप डायरी",
+      "name_en": "Ganga Sandeep Diary"
+    },
+    {
+      "serial_number": 1080,
+      "name_mr": "विलास केशव गांजुडे",
+      "name_en": "Vilas Keshav Ganjude"
+    },
+    {
+      "serial_number": 1081,
+      "name_mr": "गुफा चंद्रकांत अवचट",
+      "name_en": "Gufa Chandrakant Avachat"
+    },
+    {
+      "serial_number": 1082,
+      "name_mr": "ज्ञानेश्वर निंबाजी खोब्रागडे",
+      "name_en": "Dnyaneshwar Nimbaji Khobragade"
+    },
+    {
+      "serial_number": 1083,
+      "name_mr": "नितीन वानखेडे",
+      "name_en": "Nitin Wankhede"
+    },
+    {
+      "serial_number": 1084,
+      "name_mr": "नितीन नागोजी वानखेडे",
+      "name_en": "Nitin Nagoji Wankhede"
+    },
+    {
+      "serial_number": 1085,
+      "name_mr": "मीराबाई प्रवीण गौतम",
+      "name_en": "Mirabai Praveen Gautam"
+    },
+    {
+      "serial_number": 1086,
+      "name_mr": "सुधाकर कवडूजी बालपांडे",
+      "name_en": "Sudhakar Kavaduji Balpande"
+    },
+    {
+      "serial_number": 1087,
+      "name_mr": "गंगाबाई दिनेश नेवारे",
+      "name_en": "Gangabai Dinesh Neware"
+    },
+    {
+      "serial_number": 1088,
+      "name_mr": "दत्तू रामभाऊ दाभेकर",
+      "name_en": "Dattu Rambhau Dabhekar"
+    },
+    {
+      "serial_number": 1089,
+      "name_mr": "इशान ईश्वर भद्रे",
+      "name_en": "Ishan Ishwar Bhadre"
+    },
+    {
+      "serial_number": 1090,
+      "name_mr": "स्नेहा ईश्वर भद्रे",
+      "name_en": "Sneha Ishwar Bhadre"
+    },
+    {
+      "serial_number": 1091,
+      "name_mr": "वंदना मारलीधर कोल्हे",
+      "name_en": "Vandana Marlidhar Kolhe"
+    },
+    {
+      "serial_number": 1092,
+      "name_mr": "प्रभाकर गोविंद चौधरी",
+      "name_en": "Prabhakar Govind Chaudhary"
+    },
+    {
+      "serial_number": 1093,
+      "name_mr": "प्रवीण प्रभाकर चौधरी",
+      "name_en": "Praveen Prabhakar Chaudhary"
+    },
+    {
+      "serial_number": 1094,
+      "name_mr": "गीता विठ्ठल चौधरी",
+      "name_en": "Geeta Vitthal Chaudhary"
+    },
+    {
+      "serial_number": 1095,
+      "name_mr": "विठ्ठल नथुजी हटवार",
+      "name_en": "Vitthal Nathuji Hatwar"
+    },
+    {
+      "serial_number": 1096,
+      "name_mr": "सुनीता खडके",
+      "name_en": "Sunita Khadke"
+    },
+    {
+      "serial_number": 1097,
+      "name_mr": "हेमंत जानरावजी कावळे",
+      "name_en": "Hemant Janraoji Kawle"
+    },
+    {
+      "serial_number": 1098,
+      "name_mr": "सुभाष बालाजी काकडे",
+      "name_en": "Subhash Balaji Kakade"
+    },
+    {
+      "serial_number": 1099,
+      "name_mr": "अक्षय संजय पोहाणे",
+      "name_en": "Akshay Sanjay Pohane"
+    },
+    {
+      "serial_number": 1100,
+      "name_mr": "संगीता संजय कारलुके",
+      "name_en": "Sangeeta Sanjay Karluke"
+    },
+    {
+      "serial_number": 1101,
+      "name_mr": "संध्या कृष्णा तायडे",
+      "name_en": "Sandhya Krishna Taide"
+    },
+    {
+      "serial_number": 1102,
+      "name_mr": "कोमल ज्ञानेश्वर डायरे",
+      "name_en": "Komal Dnyaneshwar Dire"
+    },
+    {
+      "serial_number": 1103,
+      "name_mr": "चंद्रभान ज्ञानेश्वर डायरे",
+      "name_en": "Chandrabhan Dnyaneshwar Dire"
+    },
+    {
+      "serial_number": 1104,
+      "name_mr": "सागर बापूराव बडोदेकर",
+      "name_en": "Sagar Bapurao Badodekar"
+    },
+    {
+      "serial_number": 1105,
+      "name_mr": "जिजाबाई वासुदेव घोंगडे",
+      "name_en": "Jijabai Vasudev Ghongde"
+    },
+    {
+      "serial_number": 1106,
+      "name_mr": "लालमन बिशेश्वर पटेल",
+      "name_en": "Lalman Bisheshwar Patel"
+    },
+    {
+      "serial_number": 1107,
+      "name_mr": "निर्मला लालमन पटेल",
+      "name_en": "Nirmala Lalman Patel"
+    },
+    {
+      "serial_number": 1108,
+      "name_mr": "अनुराधा लालमन पटेल",
+      "name_en": "Anuradha Lalman Patel"
+    },
+    {
+      "serial_number": 1109,
+      "name_mr": "दशरथ महादेव बहादूर",
+      "name_en": "Dasaratha Mahadev Bahadur"
+    },
+    {
+      "serial_number": 1110,
+      "name_mr": "नितेश दिनेश सोनी",
+      "name_en": "Nitesh Dinesh Soni"
+    },
+    {
+      "serial_number": 1111,
+      "name_mr": "दुर्गा केशवराव मानकर",
+      "name_en": "Durga Keshavrao Mankar"
+    },
+    {
+      "serial_number": 1112,
+      "name_mr": "तामेंद्र कपूरचंद मेश्राम",
+      "name_en": "Tamendra Kapoorchand Meshram"
+    },
+    {
+      "serial_number": 1113,
+      "name_mr": "राम सुमेरा मलिक",
+      "name_en": "Ram Sumera Malik"
+    },
+    {
+      "serial_number": 1114,
+      "name_mr": "ललिता सुनील मलिक",
+      "name_en": "Lalita Sunil Malik"
+    },
+    {
+      "serial_number": 1115,
+      "name_mr": "प्रकाश रंगोबा जावरकर",
+      "name_en": "Prakash Rangoba Javarkar"
+    },
+    {
+      "serial_number": 1116,
+      "name_mr": "वत्सला प्रकाश जावरकर",
+      "name_en": "Vatsala Prakash Javarkar"
+    },
+    {
+      "serial_number": 1117,
+      "name_mr": "किसनाबाई चैनाला जवरकर",
+      "name_en": "Kisnabai Chainala Jawarkar"
+    },
+    {
+      "serial_number": 1118,
+      "name_mr": "कमला मदनलाल जावरकर",
+      "name_en": "Kamala Madanlal Javarkar"
+    },
+    {
+      "serial_number": 1119,
+      "name_mr": "रामभाऊ केशवराव गोडे",
+      "name_en": "Rambhau Keshavrao Gode"
+    },
+    {
+      "serial_number": 1120,
+      "name_mr": "लक्ष्मी रामभाऊ गोडे",
+      "name_en": "Lakshmi Rambhau Gode"
+    },
+    {
+      "serial_number": 1121,
+      "name_mr": "नंदा गजानन ठाकरे",
+      "name_en": "Nanda Gajanan Thackeray"
+    },
+    {
+      "serial_number": 1122,
+      "name_mr": "मंगेश गजानन ठाकरे",
+      "name_en": "Mangesh Gajanan Thackeray"
+    },
+    {
+      "serial_number": 1123,
+      "name_mr": "गंगाधर रामा भडके",
+      "name_en": "Gangadhar Rama Bhadke"
+    },
+    {
+      "serial_number": 1124,
+      "name_mr": "अर्चना गंगाधर भडके",
+      "name_en": "Archana Gangadhar Bhadke"
+    },
+    {
+      "serial_number": 1125,
+      "name_mr": "सरू अशोक मोहिजे",
+      "name_en": "Saru Ashok Mohije"
+    },
+    {
+      "serial_number": 1126,
+      "name_mr": "नंदा दिगंबर साखरकर",
+      "name_en": "Nanda Digambar Sakharkar"
+    },
+    {
+      "serial_number": 1127,
+      "name_mr": "गंगाबाई दलुजी कामडी",
+      "name_en": "Gangabai Daluji Kamdi"
+    },
+    {
+      "serial_number": 1128,
+      "name_mr": "राजेश कामडी",
+      "name_en": "Rajesh Kamdi"
+    },
+    {
+      "serial_number": 1129,
+      "name_mr": "ब्रह्मदेव राजाराम दरेकर",
+      "name_en": "Brahmadev Rajaram Darekar"
+    },
+    {
+      "serial_number": 1130,
+      "name_mr": "वर्षा ब्रह्मदेव दरेकर",
+      "name_en": "Varsha Brahmadev Darekar"
+    },
+    {
+      "serial_number": 1131,
+      "name_mr": "दादूलाल बैसाखू राऊत",
+      "name_en": "Dadulal Baisakhu Raut"
+    },
+    {
+      "serial_number": 1132,
+      "name_mr": "लक्ष्मी दादूलाल राऊत",
+      "name_en": "Lakshmi Dadulal Raut"
+    },
+    {
+      "serial_number": 1133,
+      "name_mr": "ग्यानचंद दादूलाल राऊत",
+      "name_en": "Gianchand Dadulal Raut"
+    },
+    {
+      "serial_number": 1134,
+      "name_mr": "गीता दादूलाल राऊत",
+      "name_en": "Geeta Dadulal Raut"
+    },
+    {
+      "serial_number": 1135,
+      "name_mr": "लेखनाबाई छगन बिसेन",
+      "name_en": "Lekhnabai Chhagan Bisen"
+    },
+    {
+      "serial_number": 1136,
+      "name_mr": "सुशीला छगन बिसेन",
+      "name_en": "Sushila Chhagan Bisen"
+    },
+    {
+      "serial_number": 1137,
+      "name_mr": "संतोष छगनलाल बिसेन",
+      "name_en": "Santosh Chhaganlal Bisen"
+    },
+    {
+      "serial_number": 1138,
+      "name_mr": "त्रिवेणी संतोष बिसेन",
+      "name_en": "Triveni Santosh Bisen"
+    },
+    {
+      "serial_number": 1139,
+      "name_mr": "प्रवीण वासुदेव कोल्हे",
+      "name_en": "Praveen Vasudev Kolhe"
+    },
+    {
+      "serial_number": 1140,
+      "name_mr": "जगन्नाथ शास्त्री पवार",
+      "name_en": "Jagannath Shastri Pawar"
+    },
+    {
+      "serial_number": 1141,
+      "name_mr": "आशा जगन्नाथ पवार",
+      "name_en": "Asha Jagannath Pawar"
+    },
+    {
+      "serial_number": 1142,
+      "name_mr": "गोविंदा अनंतराव ठाकरे",
+      "name_en": "Govinda Anantrao Thackeray"
+    },
+    {
+      "serial_number": 1143,
+      "name_mr": "गौतम श्रीराम वासनिक",
+      "name_en": "Gautam Shriram Wasnik"
+    },
+    {
+      "serial_number": 1144,
+      "name_mr": "नमिता गौतम वासनिक",
+      "name_en": "Namita Gautam Wasnik"
+    },
+    {
+      "serial_number": 1145,
+      "name_mr": "गीता गोविंदा ठाकरे",
+      "name_en": "Geeta Govinda Thackeray"
+    },
+    {
+      "serial_number": 1146,
+      "name_mr": "धनवंत किशोर जेवत नाहीत",
+      "name_en": "Dhanwant Kishore does not eat"
+    },
+    {
+      "serial_number": 1147,
+      "name_mr": "किशोर तेजराम जेवत नाहीत",
+      "name_en": "Kishore Tejram does not eat"
+    },
+    {
+      "serial_number": 1148,
+      "name_mr": "प्रशांत सोमाजी जांभुळे",
+      "name_en": "Prashant Somaji Jambhule"
+    },
+    {
+      "serial_number": 1149,
+      "name_mr": "ज्योती प्रशांत जांभुळे",
+      "name_en": "Jyoti Prashant Jambule"
+    },
+    {
+      "serial_number": 1150,
+      "name_mr": "भूषण पंढरी जांभुळे",
+      "name_en": "Bhushan Pandhari Jambhule"
+    },
+    {
+      "serial_number": 1151,
+      "name_mr": "रामचंद्र सदाशिव इंगळे",
+      "name_en": "Ramchandra Sadashiv Ingle"
+    },
+    {
+      "serial_number": 1152,
+      "name_mr": "सुभाष रामचंद्र इंगळे",
+      "name_en": "Subhash Ramachandra Ingle"
+    },
+    {
+      "serial_number": 1153,
+      "name_mr": "बापूराव धनाजी बडोदे",
+      "name_en": "Bapurao Dhanaji Barode"
+    },
+    {
+      "serial_number": 1154,
+      "name_mr": "सुमित्रा बापूराव बडोदे",
+      "name_en": "Sumitra Bapurao Barode"
+    },
+    {
+      "serial_number": 1155,
+      "name_mr": "वासुदेव भिकू कोल्हे",
+      "name_en": "Vasudeva Bhiku Kolhe"
+    },
+    {
+      "serial_number": 1156,
+      "name_mr": "अनुसया वासुदेव कोल्हे",
+      "name_en": "Anusaya Vasudev Kolhe"
+    },
+    {
+      "serial_number": 1157,
+      "name_mr": "नारायण मारोतराव काळे",
+      "name_en": "Narayan Marotrao Kale"
+    },
+    {
+      "serial_number": 1158,
+      "name_mr": "शांता नारायण काळे",
+      "name_en": "Shanta Narayan Kale"
+    },
+    {
+      "serial_number": 1159,
+      "name_mr": "तेजस नारायण काळे",
+      "name_en": "Tejas Narayan Kale"
+    },
+    {
+      "serial_number": 1160,
+      "name_mr": "परसराम भिकू कोल्हे",
+      "name_en": "Parasram Bhiku Kolhe"
+    },
+    {
+      "serial_number": 1161,
+      "name_mr": "राधा परसराम कोल्हे",
+      "name_en": "Radha Parasram Kolhe"
+    },
+    {
+      "serial_number": 1162,
+      "name_mr": "चंद्रशेखर भाऊराव भानारकर",
+      "name_en": "Chandrasekhar Bhaurao Bhanarkar"
+    },
+    {
+      "serial_number": 1163,
+      "name_mr": "संगीता चंद्रशेखर भानारकर",
+      "name_en": "Sangeeta Chandrasekhar Bhanarkar"
+    },
+    {
+      "serial_number": 1164,
+      "name_mr": "शालिक चिरकूट नान्हे",
+      "name_en": "Shalik Chirkoot Nanhe"
+    },
+    {
+      "serial_number": 1165,
+      "name_mr": "यशोदा शालिक नन्हे",
+      "name_en": "Yashoda Shalik Nanhe"
+    },
+    {
+      "serial_number": 1166,
+      "name_mr": "अरुण संभाजी नारद",
+      "name_en": "Arun Sambhaji Narad"
+    },
+    {
+      "serial_number": 1167,
+      "name_mr": "अन्नपूर्णा अरुण नारद",
+      "name_en": "Annapurna Arun Narad"
+    },
+    {
+      "serial_number": 1168,
+      "name_mr": "विनोद अरुण नारद",
+      "name_en": "Vinod Arun Narad"
+    },
+    {
+      "serial_number": 1169,
+      "name_mr": "सुमन हरिभाऊ चपले",
+      "name_en": "Suman Haribhau Chaple"
+    },
+    {
+      "serial_number": 1170,
+      "name_mr": "सुधाकर हरिभाऊ चपले",
+      "name_en": "Sudhakar Haribhau Chaple"
+    },
+    {
+      "serial_number": 1171,
+      "name_mr": "उषा सुधाकर चपले",
+      "name_en": "Usha Sudhakar Chaple"
+    },
+    {
+      "serial_number": 1172,
+      "name_mr": "विलास वामनराव देठे",
+      "name_en": "Vilas Vamanrao Dethe"
+    },
+    {
+      "serial_number": 1173,
+      "name_mr": "चया विकास देठे",
+      "name_en": "Chaya Vikas Dethe"
+    },
+    {
+      "serial_number": 1174,
+      "name_mr": "नीलकंठ गंगाराम निकोडे",
+      "name_en": "Nilakantha Gangaram Nicode"
+    },
+    {
+      "serial_number": 1175,
+      "name_mr": "ताई नीलकांत निकोडे",
+      "name_en": "Tai Nilakant Nicode"
+    },
+    {
+      "serial_number": 1176,
+      "name_mr": "श्रवण नीलकांत निकोडे",
+      "name_en": "Shravan Nilakant Nicode"
+    },
+    {
+      "serial_number": 1177,
+      "name_mr": "भीमराव जागोबा गजभिये",
+      "name_en": "Bhimrao Jagoba Gajbhiye"
+    },
+    {
+      "serial_number": 1178,
+      "name_mr": "निंबाजी मंगरूजी खोब्रागडे",
+      "name_en": "Nimbaji Mangrooji Khobragade"
+    },
+    {
+      "serial_number": 1179,
+      "name_mr": "वत्सला निंबाजी खोब्रागडे",
+      "name_en": "Vatsala Nimbaji Khobragade"
+    },
+    {
+      "serial_number": 1180,
+      "name_mr": "संजय निंबाजी खोब्रागडे",
+      "name_en": "Sanjay Nimbaji Khobragade"
+    },
+    {
+      "serial_number": 1181,
+      "name_mr": "प्रवीण रामचंद्र गौतम",
+      "name_en": "Praveen Ramachandra Gautam"
+    },
+    {
+      "serial_number": 1182,
+      "name_mr": "उषा प्रवीण गौतम",
+      "name_en": "Usha Praveen Gautam"
+    },
+    {
+      "serial_number": 1183,
+      "name_mr": "वनिता खंदारे",
+      "name_en": "Vanita Khandare"
+    },
+    {
+      "serial_number": 1184,
+      "name_mr": "वनिता धनराज खंदारे",
+      "name_en": "Vanita Dhanraj Khandare"
+    },
+    {
+      "serial_number": 1185,
+      "name_mr": "संजय किसना लोटणे",
+      "name_en": "Sanjay Kisna Lotane"
+    },
+    {
+      "serial_number": 1186,
+      "name_mr": "रेखा रमेश मडावी",
+      "name_en": "Rekha Ramesh Madavi"
+    },
+    {
+      "serial_number": 1187,
+      "name_mr": "सारंग महादेव चिंचुलकर",
+      "name_en": "Sarang Mahadev Chinchulkar"
+    },
+    {
+      "serial_number": 1188,
+      "name_mr": "वनिता सारंगधर चिंचुलकर",
+      "name_en": "Vanita Sarangdhar Chinchulkar"
+    },
+    {
+      "serial_number": 1189,
+      "name_mr": "वासुदेव गणपत भुगता",
+      "name_en": "Vasudev Ganapat Bhugata"
+    },
+    {
+      "serial_number": 1190,
+      "name_mr": "इंदू गुलाब ठाकरे",
+      "name_en": "Indu Gulab Thackeray"
+    },
+    {
+      "serial_number": 1191,
+      "name_mr": "देवका रमेश मांडवगणे",
+      "name_en": "Devka Ramesh Mandavagane"
+    },
+    {
+      "serial_number": 1192,
+      "name_mr": "कमला गोविंदा दाभेकर",
+      "name_en": "Kamala Govinda Dabhekar"
+    },
+    {
+      "serial_number": 1193,
+      "name_mr": "विठ्ठल गोविंदा दाभेकर",
+      "name_en": "Vitthal Govinda Dabhekar"
+    },
+    {
+      "serial_number": 1194,
+      "name_mr": "रामभाऊ शिवराम दाभेकर",
+      "name_en": "Rambhau Shivram Dabhekar"
+    },
+    {
+      "serial_number": 1195,
+      "name_mr": "यमुना रामभाऊ दाभेकर",
+      "name_en": "Yamuna Rambhau Dabhekar"
+    },
+    {
+      "serial_number": 1196,
+      "name_mr": "महिंद्र शंकर सिडाम",
+      "name_en": "Mahindra Shankar Sidam"
+    },
+    {
+      "serial_number": 1197,
+      "name_mr": "मनीषा धनराज भांगे",
+      "name_en": "Manisha Dhanraj Bhange"
+    },
+    {
+      "serial_number": 1198,
+      "name_mr": "सुरेश बापूराव भणगे",
+      "name_en": "Suresh Bapurao Bhange"
+    },
+    {
+      "serial_number": 1199,
+      "name_mr": "इसाक इस्माईल शेख",
+      "name_en": "Isaak Ismail Shaikh"
+    },
+    {
+      "serial_number": 1200,
+      "name_mr": "अजुन इसाक शेख",
+      "name_en": "Ajun Isaac Sheikh"
+    },
+    {
+      "serial_number": 1201,
+      "name_mr": "उपासराव गणपत घिये",
+      "name_en": "upasrao ganpat Ghiye"
+    },
+    {
+      "serial_number": 1202,
+      "name_mr": "माया उपासराव घिये",
+      "name_en": "Maya Upasarao Ghiye"
+    },
+    {
+      "serial_number": 1203,
+      "name_mr": "बाबा रामभाऊ घिमे",
+      "name_en": "Baba Rambhau Ghime"
+    },
+    {
+      "serial_number": 1204,
+      "name_mr": "नारायण वदगु वरभे",
+      "name_en": "Narayan Vadgu Varbhe"
+    },
+    {
+      "serial_number": 1205,
+      "name_mr": "नरेश नारायण वरभे",
+      "name_en": "Naresh Narayan Varabhe"
+    },
+    {
+      "serial_number": 1206,
+      "name_mr": "प्रकाश अण्णाजी दुफरे",
+      "name_en": "Prakash Annaji Dufre"
+    },
+    {
+      "serial_number": 1207,
+      "name_mr": "सुरेश चुन्नीलाल घुमे",
+      "name_en": "Suresh Chunnilal Ghume"
+    },
+    {
+      "serial_number": 1208,
+      "name_mr": "राजू चुन्नीलाल घुमे",
+      "name_en": "Raju Chunnilal Ghume"
+    },
+    {
+      "serial_number": 1209,
+      "name_mr": "पांडुरंग चिमणीलाल घुमे",
+      "name_en": "Pandurang Chimanilal Ghume"
+    },
+    {
+      "serial_number": 1210,
+      "name_mr": "संगिता सुरेश घुमे",
+      "name_en": "Sangita Suresh Ghume"
+    },
+    {
+      "serial_number": 1211,
+      "name_mr": "मनीषा पांडुरंग घुमे",
+      "name_en": "Manisha Pandurang Ghume"
+    },
+    {
+      "serial_number": 1212,
+      "name_mr": "दर्शना राजू घुमे",
+      "name_en": "Darshana Raju Ghume"
+    },
+    {
+      "serial_number": 1213,
+      "name_mr": "विजयराव भास्कर मारावर",
+      "name_en": "Vijayrao Bhaskar Marawar"
+    },
+    {
+      "serial_number": 1214,
+      "name_mr": "चेतना विजयराव मारावर",
+      "name_en": "Chetna Vijayrao Marawar"
+    },
+    {
+      "serial_number": 1215,
+      "name_mr": "शालिनी नारायण मारावर",
+      "name_en": "Shalini Narayan Marawar"
+    },
+    {
+      "serial_number": 1216,
+      "name_mr": "श्रीकांत नारायण मारावर",
+      "name_en": "Shrikant Narayan Marawar"
+    },
+    {
+      "serial_number": 1217,
+      "name_mr": "भारतीय नारायण मारावर",
+      "name_en": "Bhartiya Narayan Marawar"
+    },
+    {
+      "serial_number": 1218,
+      "name_mr": "राजू मधुकर मरडवार",
+      "name_en": "Raju Madhukar Maradwar"
+    },
+    {
+      "serial_number": 1219,
+      "name_mr": "अतुल रमेश मार्डवार",
+      "name_en": "Atul Ramesh Mardwar"
+    },
+    {
+      "serial_number": 1220,
+      "name_mr": "सुनंदा रमेश मरडवार",
+      "name_en": "Sunanda Ramesh Maradwar"
+    },
+    {
+      "serial_number": 1221,
+      "name_mr": "अतुल रमेशराव मरडवार",
+      "name_en": "Atul Rameshrao Maradwar"
+    },
+    {
+      "serial_number": 1222,
+      "name_mr": "विठ्ठल सीताराम बजैत",
+      "name_en": "Vitthal Sitaram Bajait"
+    },
+    {
+      "serial_number": 1223,
+      "name_mr": "मंदा विठ्ठल बजैत",
+      "name_en": "Manda Vitthal Bajait"
+    },
+    {
+      "serial_number": 1224,
+      "name_mr": "रामकृष्ण सीताराम बजैत",
+      "name_en": "Ramakrishna Sitaram Bajait"
+    },
+    {
+      "serial_number": 1225,
+      "name_mr": "वनिता रामकृष्ण बजैत",
+      "name_en": "Vanita Ramakrishna Bajait"
+    },
+    {
+      "serial_number": 1226,
+      "name_mr": "सुनील महादेव लाख",
+      "name_en": "Sunil Mahadev lakhs"
+    },
+    {
+      "serial_number": 1227,
+      "name_mr": "महादेव नामदेव लाख",
+      "name_en": "Mahadev Namdev lakhs"
+    },
+    {
+      "serial_number": 1228,
+      "name_mr": "चंपा सहदेव लाख",
+      "name_en": "Champa Sahadev Lakhs"
+    },
+    {
+      "serial_number": 1229,
+      "name_mr": "शशिला महादेव खैरकर",
+      "name_en": "Sashila Mahadev Khairkar"
+    },
+    {
+      "serial_number": 1230,
+      "name_mr": "नीलू प्रमोद खैरकर",
+      "name_en": "Neelu Pramod Khairkar"
+    },
+    {
+      "serial_number": 1231,
+      "name_mr": "अरुण महादेव खैरकर",
+      "name_en": "Arun Mahadev Khairkar"
+    },
+    {
+      "serial_number": 1232,
+      "name_mr": "शीला अरुण खैरकर",
+      "name_en": "Sheela Arun Khairkar"
+    },
+    {
+      "serial_number": 1233,
+      "name_mr": "वामन पुंडलिक भोयर",
+      "name_en": "Vaman Pundalik Bhoyer"
+    },
+    {
+      "serial_number": 1234,
+      "name_mr": "मधुकर रामभाऊ भोयर",
+      "name_en": "Madhukar Rambhau Bhoyer"
+    },
+    {
+      "serial_number": 1235,
+      "name_mr": "लता मधुकर भोयर",
+      "name_en": "Lata Madhukar Bhoyer"
+    },
+    {
+      "serial_number": 1236,
+      "name_mr": "अश्विनी मधुकर भोयर",
+      "name_en": "Ashwini Madhukar Bhoyer"
+    },
+    {
+      "serial_number": 1237,
+      "name_mr": "उषा अशोक जाधव",
+      "name_en": "Usha Ashok Jadhav"
+    },
+    {
+      "serial_number": 1238,
+      "name_mr": "प्रतिभा ओंकारराव मिसाळ",
+      "name_en": "Pratibha Omkar Rao Misal"
+    },
+    {
+      "serial_number": 1239,
+      "name_mr": "पुष्पा शरद काकडे",
+      "name_en": "Pushpa Sharad Kakade"
+    },
+    {
+      "serial_number": 1240,
+      "name_mr": "राजेंद्र नथुजी काकडे",
+      "name_en": "Rajendra Nathuji Kakade"
+    },
+    {
+      "serial_number": 1241,
+      "name_mr": "शरद नथुजी काकडे",
+      "name_en": "Sharad Nathuji Kakade"
+    },
+    {
+      "serial_number": 1242,
+      "name_mr": "कांता सुरेश टेंभुरकर",
+      "name_en": "Kanta Suresh Tembhurkar"
+    },
+    {
+      "serial_number": 1243,
+      "name_mr": "किसन गोमा डायरे",
+      "name_en": "Kisan Goma Dire"
+    },
+    {
+      "serial_number": 1244,
+      "name_mr": "सुमन किसना डायरे",
+      "name_en": "Suman Kisna Dire"
+    },
+    {
+      "serial_number": 1245,
+      "name_mr": "वेलचंद कृष्ण डायरे",
+      "name_en": "Velchand Krishna Dire"
+    },
+    {
+      "serial_number": 1246,
+      "name_mr": "बाळ हरिभाऊ पारसे",
+      "name_en": "Baby Haribhau Parse"
+    },
+    {
+      "serial_number": 1247,
+      "name_mr": "कांता परसराम डायरे",
+      "name_en": "Kanta Parasram Dire"
+    },
+    {
+      "serial_number": 1248,
+      "name_mr": "श्याम चिरकुट आमनेरकर",
+      "name_en": "Shyam Chirkut Amnerkar"
+    },
+    {
+      "serial_number": 1249,
+      "name_mr": "नितेश गजानन ठाकरे",
+      "name_en": "Nitesh Gajanan Thackeray"
+    },
+    {
+      "serial_number": 1250,
+      "name_mr": "चिंटू श्रावण ठाकरे",
+      "name_en": "Chintu Shravan Thackeray"
+    },
+    {
+      "serial_number": 1251,
+      "name_mr": "विजय परसराम कोल्हे",
+      "name_en": "Vijay Parasram Kolhe"
+    },
+    {
+      "serial_number": 1252,
+      "name_mr": "गणेश विठ्ठलराव खेळले",
+      "name_en": "Ganesh Vitthalrao played"
+    },
+    {
+      "serial_number": 1253,
+      "name_mr": "मनीषा दत्तजी दाभेकर",
+      "name_en": "Manisha Duttji Dabhekar"
+    },
+    {
+      "serial_number": 1254,
+      "name_mr": "विकास रमेश राव मरडवार \"मरद्वार\"",
+      "name_en": "Vikas Ramesh Rao Maradwar \"Maradwar\""
+    },
+    {
+      "serial_number": 1255,
+      "name_mr": "प्रशांत रमेश मरडवार",
+      "name_en": "Prashant Ramesh Maradwar"
+    },
+    {
+      "serial_number": 1256,
+      "name_mr": "जगन ब्रिजलाल मेश्राम",
+      "name_en": "Jagan Brijlal Meshram"
+    },
+    {
+      "serial_number": 1257,
+      "name_mr": "गुणवंता जगन मेश्राम",
+      "name_en": "Gunwanta Jagan Meshram"
+    },
+    {
+      "serial_number": 1258,
+      "name_mr": "दिलीप सीताराम पारसे",
+      "name_en": "Dilip Sitaram Parse"
+    },
+    {
+      "serial_number": 1259,
+      "name_mr": "दुर्गा दिलीप पारसे",
+      "name_en": "Durga Dilip Parse"
+    },
+    {
+      "serial_number": 1260,
+      "name_mr": "प्रवीण गुलाब शिवरकर",
+      "name_en": "Praveen Gulab Shivarkar"
+    },
+    {
+      "serial_number": 1261,
+      "name_mr": "हेमंत ज्ञानचंद राऊत",
+      "name_en": "Hemant Gnanchand Raut"
+    },
+    {
+      "serial_number": 1262,
+      "name_mr": "सीताबाई वाल्मिक रोकडे",
+      "name_en": "Sitabai Valmik Rokde"
+    },
+    {
+      "serial_number": 1263,
+      "name_mr": "अंकित अनिल नंदेश्वर",
+      "name_en": "Ankit Anil Nandeshwar"
+    },
+    {
+      "serial_number": 1264,
+      "name_mr": "अक्षय धनराज खंदारे",
+      "name_en": "Akshay Dhanraj Khandare"
+    },
+    {
+      "serial_number": 1265,
+      "name_mr": "अस्मिता अमोल मोहिते",
+      "name_en": "Asmita Amol Mohite"
+    },
+    {
+      "serial_number": 1266,
+      "name_mr": "अमोल अशोकराव मोहिजे",
+      "name_en": "Amol Ashokrao Mohije"
+    },
+    {
+      "serial_number": 1267,
+      "name_mr": "अजय गोविंदा ठाकरे",
+      "name_en": "Ajay Govinda Thackeray"
+    },
+    {
+      "serial_number": 1268,
+      "name_mr": "सुनीता संजय मल्ल्या",
+      "name_en": "Sunita Sanjay Malliye"
+    },
+    {
+      "serial_number": 1269,
+      "name_mr": "सनिता नितीन राऊत",
+      "name_en": "Sanita Nitin Raut"
+    },
+    {
+      "serial_number": 1270,
+      "name_mr": "गीता गोविंदा ठाकरे",
+      "name_en": "Geeta Govinda Thackeray"
+    },
+    {
+      "serial_number": 1271,
+      "name_mr": "कौशल्या नथू भगत",
+      "name_en": "Kaushalya Nathu Bhagat"
+    },
+    {
+      "serial_number": 1272,
+      "name_mr": "गौरव हरिभाऊ बोबडे",
+      "name_en": "Gaurav Haribhau Bobde"
+    },
+    {
+      "serial_number": 1273,
+      "name_mr": "सचिन वसंतराव ढोरे",
+      "name_en": "Sachin Vasantrao Dhore"
+    },
+    {
+      "serial_number": 1274,
+      "name_mr": "खुशाल संभाजी हत्तीची हत्या",
+      "name_en": "Khushal Sambhaji Elephant Killing"
+    },
+    {
+      "serial_number": 1275,
+      "name_mr": "मनोज सखाराम काळे",
+      "name_en": "Manoj Sakharam Kale"
+    },
+    {
+      "serial_number": 1276,
+      "name_mr": "वर्षा मनोहर कावळे",
+      "name_en": "Varsha Manohar Kawle"
+    },
+    {
+      "serial_number": 1277,
+      "name_mr": "माया राजकुमार केवट",
+      "name_en": "Maya Rajkumar Kevat"
+    },
+    {
+      "serial_number": 1278,
+      "name_mr": "सतीश धर्माजी दरेकर",
+      "name_en": "Satish Dharmaji Darekar"
+    },
+    {
+      "serial_number": 1279,
+      "name_mr": "प्रतीक्षा बाबाराव टेंभुरकर",
+      "name_en": "Pratiksha Babarao Tembhurkar"
+    },
+    {
+      "serial_number": 1280,
+      "name_mr": "मनीषा विलास गांजुडे",
+      "name_en": "Manisha Vilas Ganjude"
+    },
+    {
+      "serial_number": 1281,
+      "name_mr": "कोमल अशोकराव चिंचुलकर",
+      "name_en": "Komal Ashokrao Chinchulkar"
+    },
+    {
+      "serial_number": 1282,
+      "name_mr": "सतीश राजू वानखेडे",
+      "name_en": "Satish Raju Wankhede"
+    },
+    {
+      "serial_number": 1283,
+      "name_mr": "प्रज्ञा शाम आमनेरकर",
+      "name_en": "Pragya Sham Amnerkar"
+    },
+    {
+      "serial_number": 1284,
+      "name_mr": "कांता शंकर चाप्पेकर",
+      "name_en": "Kanta Shankar Chappekar"
+    },
+    {
+      "serial_number": 1285,
+      "name_mr": "मेघश्याम विठोबा नवघरे",
+      "name_en": "Meghshyam Vithoba Navghare"
+    },
+    {
+      "serial_number": 1286,
+      "name_mr": "सतीश मेघश्याम नवघरे",
+      "name_en": "Satish Meghshyam Navghare"
+    },
+    {
+      "serial_number": 1287,
+      "name_mr": "उमेश राधेश्याम पालीवाल",
+      "name_en": "Umesh Radheshyam Paliwal"
+    },
+    {
+      "serial_number": 1288,
+      "name_mr": "वैशाली मनोज कावळे",
+      "name_en": "Vaishali Manoj Kawle"
+    },
+    {
+      "serial_number": 1289,
+      "name_mr": "सतीश गंगाधर कोल्हे",
+      "name_en": "Satish Gangadhar Kolhe"
+    },
+    {
+      "serial_number": 1290,
+      "name_mr": "मंगला संजय दुरगवार",
+      "name_en": "Mangala Sanjay Durugwar"
+    },
+    {
+      "serial_number": 1291,
+      "name_mr": "नत्थू विठोबाजी गिरडे",
+      "name_en": "Natthu Vithobaji Girde"
+    },
+    {
+      "serial_number": 1292,
+      "name_mr": "महादेव गणपत येजगडे",
+      "name_en": "Mahadev Ganpat Yezgade"
+    },
+    {
+      "serial_number": 1293,
+      "name_mr": "राणी महादेवजी येंगडे",
+      "name_en": "Rani Mahadevji Yengde"
+    },
+    {
+      "serial_number": 1294,
+      "name_mr": "सुनीता प्रवीण खडके",
+      "name_en": "Sunita Pravin Khadke"
+    },
+    {
+      "serial_number": 1295,
+      "name_mr": "सीमा देविदास घंगारे",
+      "name_en": "Seema Devidas Ghangare"
+    },
+    {
+      "serial_number": 1296,
+      "name_mr": "देविदास किसन घंगारे देविदास",
+      "name_en": "Devidas Kisan Ghangare Devidas"
+    },
+    {
+      "serial_number": 1297,
+      "name_mr": "योगेश उपासराव घिये",
+      "name_en": "Yogesh Upasrao Ghiye"
+    },
+    {
+      "serial_number": 1298,
+      "name_mr": "पूनम योगेशराव घिये",
+      "name_en": "Poonam Yogeshrao Ghiye"
+    },
+    {
+      "serial_number": 1299,
+      "name_mr": "दीक्षा धनराज खंदारे",
+      "name_en": "Diksha Dhanraj Khandare"
+    },
+    {
+      "serial_number": 1300,
+      "name_mr": "संजय ढंगाळे",
+      "name_en": "Sanjay Dhangle"
+    },
+    {
+      "serial_number": 1301,
+      "name_mr": "रेखा ढेगळे",
+      "name_en": "Rekha Dhegle"
+    },
+    {
+      "serial_number": 1302,
+      "name_mr": "प्रयाग खुशाल हत्तीमारे",
+      "name_en": "Prayag Khushal Hattimare"
+    },
+    {
+      "serial_number": 1303,
+      "name_mr": "नरेश विजयनाथ कुरसांगा",
+      "name_en": "Naresh Vijaynath Kursanga"
+    },
+    {
+      "serial_number": 1304,
+      "name_mr": "नंदकिशोर उईके",
+      "name_en": "Nandkishore Uike"
+    },
+    {
+      "serial_number": 1305,
+      "name_mr": "अमिता ओमप्रकाश पालीवाल",
+      "name_en": "Amita Omprakash Paliwal"
+    },
+    {
+      "serial_number": 1306,
+      "name_mr": "सुनील किशोर राव काळे",
+      "name_en": "Sunil Kishore Rao Kale"
+    },
+    {
+      "serial_number": 1307,
+      "name_mr": "जोसना नंदोकिशोर मेश्राम",
+      "name_en": "Josna Nandokishor Meshram"
+    },
+    {
+      "serial_number": 1308,
+      "name_mr": "वैभव पुरी",
+      "name_en": "Vaibhav Puri"
+    },
+    {
+      "serial_number": 1309,
+      "name_mr": "अभिषेक अनिल नंदेश्वर",
+      "name_en": "Abhishek Anil Nandeshwar"
+    },
+    {
+      "serial_number": 1310,
+      "name_mr": "छाया नरेश कुरसांगे",
+      "name_en": "Chaya Naresh Kursange"
+    },
+    {
+      "serial_number": 1311,
+      "name_mr": "रणजित मोहन इंगळे",
+      "name_en": "Ranjit Mohan Ingle"
+    },
+    {
+      "serial_number": 1312,
+      "name_mr": "रुपाली सतीश नवघरे",
+      "name_en": "Rupali Satish Navghare"
+    },
+    {
+      "serial_number": 1313,
+      "name_mr": "सोनाली सचिन नवघरे",
+      "name_en": "Sonali Sachin Navghare"
+    },
+    {
+      "serial_number": 1314,
+      "name_mr": "खुशाल संजय नवघरे",
+      "name_en": "Khushal Sanjay Navghare"
+    },
+    {
+      "serial_number": 1315,
+      "name_mr": "अस्मिता वनकर",
+      "name_en": "Asmita Vankar"
+    },
+    {
+      "serial_number": 1316,
+      "name_mr": "शारदा अनिल नंदेश्वर",
+      "name_en": "Sarada Anil Nandeshwar"
+    },
+    {
+      "serial_number": 1317,
+      "name_mr": "शारदा वंजारी",
+      "name_en": "Sharda Wanjari"
+    },
+    {
+      "serial_number": 1318,
+      "name_mr": "रोहित वंजारी",
+      "name_en": "Rohit Vanjari"
+    },
+    {
+      "serial_number": 1319,
+      "name_mr": "सोनाली प्रमोद चौधरी",
+      "name_en": "Sonali Pramod Chaudhary"
+    },
+    {
+      "serial_number": 1320,
+      "name_mr": "अरुण चौधरी",
+      "name_en": "Arun Chaudhary"
+    },
+    {
+      "serial_number": 1321,
+      "name_mr": "सविता अरुण चौधरी",
+      "name_en": "Savita Arun Chaudhary"
+    },
+    {
+      "serial_number": 1322,
+      "name_mr": "आकांशा दिनेश मानकर",
+      "name_en": "Akansha Dinesh Mankar"
+    },
+    {
+      "serial_number": 1323,
+      "name_mr": "मीराबाई सुखराम बिसेन",
+      "name_en": "Mirabai Sukhram Bisen"
+    },
+    {
+      "serial_number": 1324,
+      "name_mr": "तन्वी दिनेश मानकर",
+      "name_en": "Tanvi Dinesh Mankar"
+    },
+    {
+      "serial_number": 1325,
+      "name_mr": "नलिनी भोयर",
+      "name_en": "Nalini Bhoyer"
+    },
+    {
+      "serial_number": 1326,
+      "name_mr": "रसिका नवघरे",
+      "name_en": "Rasika Navghare"
+    },
+    {
+      "serial_number": 1327,
+      "name_mr": "रहमत खान",
+      "name_en": "Rahmat Khan"
+    },
+    {
+      "serial_number": 1328,
+      "name_mr": "मानतसा खान",
+      "name_en": "Manatsa Khan"
+    },
+    {
+      "serial_number": 1329,
+      "name_mr": "लता शैलेश राऊत",
+      "name_en": "Lata Shailesh Raut"
+    },
+    {
+      "serial_number": 1330,
+      "name_mr": "वनमाला अजुन बागडे",
+      "name_en": "Vanmala Ajun Bagde"
+    },
+    {
+      "serial_number": 1331,
+      "name_mr": "शालिनीबाई विजय पुंड",
+      "name_en": "Shalinibai Vijay Pund"
+    },
+    {
+      "serial_number": 1332,
+      "name_mr": "अलका राजू वानखेडे",
+      "name_en": "Alka Raju Wankhede"
+    },
+    {
+      "serial_number": 1333,
+      "name_mr": "सतीश राजू वानखेडे",
+      "name_en": "Satish Raju Wankhede"
+    },
+    {
+      "serial_number": 1334,
+      "name_mr": "विशाल राजू वानखेडे",
+      "name_en": "Vishal Raju Wankhede"
+    },
+    {
+      "serial_number": 1335,
+      "name_mr": "मृणाल दिनकर भानखेडे",
+      "name_en": "Mrinal Dinkar Bhankhede"
+    },
+    {
+      "serial_number": 1336,
+      "name_mr": "गीता रमेशराव माडवगणे",
+      "name_en": "Geeta Rameshrao Madvagane"
+    },
+    {
+      "serial_number": 1337,
+      "name_mr": "प्रशांत चुडामणजी वंजारी",
+      "name_en": "Prashant Chudamanji Vanjari"
+    },
+    {
+      "serial_number": 1338,
+      "name_mr": "श्रुती मनोज काळे",
+      "name_en": "Shruti Manoj Kale"
+    },
+    {
+      "serial_number": 1339,
+      "name_mr": "निकिता प्रशांत वंजारी",
+      "name_en": "Nikita Prashant Vanjari"
+    },
+    {
+      "serial_number": 1340,
+      "name_mr": "मनीषा योगेश वानखेडे",
+      "name_en": "Manisha Yogesh Wankhede"
+    },
+    {
+      "serial_number": 1341,
+      "name_mr": "करिश्मा दिनकर भानखेडे",
+      "name_en": "Karishma Dinkar Bhankhede"
+    },
+    {
+      "serial_number": 1342,
+      "name_mr": "मनीषा चंदन जुम्नाक",
+      "name_en": "Manisha Chandan Jumnak"
+    },
+    {
+      "serial_number": 1343,
+      "name_mr": "अक्षय शंकर सांभारे",
+      "name_en": "Akshay Shankar Sambhare"
+    },
+    {
+      "serial_number": 1344,
+      "name_mr": "अश्विन संजय सकाळ",
+      "name_en": "Ashwin Sanjay Sakal"
+    },
+    {
+      "serial_number": 1345,
+      "name_mr": "कौसल्या महादेव चौधरी",
+      "name_en": "Kausalya Mahadev Chaudhary"
+    },
+    {
+      "serial_number": 1346,
+      "name_mr": "भागीरथी गणपतराव भोगले",
+      "name_en": "Bhagirathi Ganpatrao suffered"
+    },
+    {
+      "serial_number": 1347,
+      "name_mr": "उर्मिला विजयराव रोखठोक",
+      "name_en": "Urmila Vijayrao Cash"
+    },
+    {
+      "serial_number": 1348,
+      "name_mr": "नंदा राजू कावळे",
+      "name_en": "Nanda Raju Kawle"
+    },
+    {
+      "serial_number": 1349,
+      "name_mr": "सुषमा अमोल म्हणाल्या",
+      "name_en": "Sushma Amol said"
+    },
+    {
+      "serial_number": 1350,
+      "name_mr": "अमोल मधुकरराव बोळे",
+      "name_en": "Amol Madhukarrao Bole"
+    },
+    {
+      "serial_number": 1351,
+      "name_mr": "सुरेश ईश्वर रामटेके",
+      "name_en": "Suresh Ishwar Ramteke"
+    },
+    {
+      "serial_number": 1352,
+      "name_mr": "सुमित सुरेश रामटेके",
+      "name_en": "Sumit Suresh Ramteke"
+    },
+    {
+      "serial_number": 1353,
+      "name_mr": "दुलीचंद ईश्वरदास बडोले",
+      "name_en": "Dulichand Iswardas Badole"
+    },
+    {
+      "serial_number": 1354,
+      "name_mr": "किसन रामचंद्र लोटणे",
+      "name_en": "Kisan Ramchandra Lotane"
+    },
+    {
+      "serial_number": 1355,
+      "name_mr": "बायबाई किसन लोटणे",
+      "name_en": "Byabai Kisan Lotane"
+    },
+    {
+      "serial_number": 1356,
+      "name_mr": "संजय किसन लोटणे",
+      "name_en": "Sanjay Kisan Lotane"
+    },
+    {
+      "serial_number": 1357,
+      "name_mr": "रामाजी महादेवराव कोल्हे",
+      "name_en": "Ramaji Mahadevarao Kolhe"
+    },
+    {
+      "serial_number": 1358,
+      "name_mr": "वच्छलाबाई रामाजी कोल्हे",
+      "name_en": "Vacchlabai Ramaji Kolhe"
+    },
+    {
+      "serial_number": 1359,
+      "name_mr": "फकिराजी चिरकुट आमनेरकर",
+      "name_en": "Fakiraji Chirkut Amnerkar"
+    },
+    {
+      "serial_number": 1360,
+      "name_mr": "विठोबा दादूजी सांभाळतात",
+      "name_en": "Vithoba Daduji caters"
+    },
+    {
+      "serial_number": 1361,
+      "name_mr": "सांगिता विठोबा पूर्ण",
+      "name_en": "Sangita Vithoba completes"
+    },
+    {
+      "serial_number": 1362,
+      "name_mr": "आशा रामरसजी खेडकर",
+      "name_en": "Asha Ramrasji Khedkar"
+    },
+    {
+      "serial_number": 1363,
+      "name_mr": "रामचंद्र सदाशिव इंगळे",
+      "name_en": "Ramchandra Sadashiv Ingle"
+    },
+    {
+      "serial_number": 1364,
+      "name_mr": "बाळ रामचंद्र इंगळे",
+      "name_en": "Baby Ramachandra Ingle"
+    },
+    {
+      "serial_number": 1365,
+      "name_mr": "सविता तुळशीराम चंदनखेडे",
+      "name_en": "Savita Tulshiram Chandankhede"
+    },
+    {
+      "serial_number": 1366,
+      "name_mr": "इंदू भोजराज डायरे",
+      "name_en": "Indu Bhojraj Dire"
+    },
+    {
+      "serial_number": 1367,
+      "name_mr": "गुलाब सोनबा ठाकरे",
+      "name_en": "Gulab Sonba Thackeray"
+    },
+    {
+      "serial_number": 1368,
+      "name_mr": "प्रशांत वसंताजी शेळके",
+      "name_en": "Prashant Vasanthaji Shelke"
+    },
+    {
+      "serial_number": 1369,
+      "name_mr": "गजानन प्रभाकर कावळे",
+      "name_en": "Gajanan Prabhakar Kawle"
+    },
+    {
+      "serial_number": 1370,
+      "name_mr": "प्रगती प्रमोद भगत",
+      "name_en": "Pragati Pramod Bhagat"
+    },
+    {
+      "serial_number": 1371,
+      "name_mr": "मनीषा निलेश गिरडे",
+      "name_en": "Manisha Nilesh Girde"
+    },
+    {
+      "serial_number": 1372,
+      "name_mr": "उज्वल प्रवीण गुल्हाने",
+      "name_en": "Ujwal Praveen Gulhane"
+    },
+    {
+      "serial_number": 1373,
+      "name_mr": "प्रवीण मधुकर उज्ज्वलकर",
+      "name_en": "Pravin Madhukar Ujjwalkar"
+    },
+    {
+      "serial_number": 1374,
+      "name_mr": "अर्चना प्रवीण उज्वलकर",
+      "name_en": "Archana Praveen Ujwalkar"
+    },
+    {
+      "serial_number": 1375,
+      "name_mr": "मिथुन देवरथ गेडाम",
+      "name_en": "Mithun Devarath Gedam"
+    },
+    {
+      "serial_number": 1376,
+      "name_mr": "शुभम विजय खडके",
+      "name_en": "Shubham Vijay Khadke"
+    },
+    {
+      "serial_number": 1377,
+      "name_mr": "संदीप नामदेव शेळके",
+      "name_en": "Sandeep Namdev Shelke"
+    },
+    {
+      "serial_number": 1378,
+      "name_mr": "आकाश रामजी वैराग",
+      "name_en": "Akash Ramji Vairag"
+    },
+    {
+      "serial_number": 1379,
+      "name_mr": "आशा नारायण इंगळे",
+      "name_en": "Asha Narayan Ingle"
+    },
+    {
+      "serial_number": 1380,
+      "name_mr": "विठ्ठल दौलतराव चाप्पेकर",
+      "name_en": "Vitthal Daulatrao Chappekar"
+    },
+    {
+      "serial_number": 1381,
+      "name_mr": "संघरत्न जेठूजी मॅडम",
+      "name_en": "Sangharatna Jethuji Madame"
+    },
+    {
+      "serial_number": 1382,
+      "name_mr": "संगिताबाई संघरत्न मॅडम",
+      "name_en": "Sangitabai Sangharatna Madam"
+    },
+    {
+      "serial_number": 1383,
+      "name_mr": "चंदन मारोती जुमनाके",
+      "name_en": "Chandan Maroti Jumnake"
+    },
+    {
+      "serial_number": 1384,
+      "name_mr": "शांता नत्थुजी भोयर",
+      "name_en": "Shanta Natthuji Bhoyer"
+    },
+    {
+      "serial_number": 1385,
+      "name_mr": "वामन नत्थुजी भोयर",
+      "name_en": "Vaman Natthuji Bhoyer"
+    },
+    {
+      "serial_number": 1386,
+      "name_mr": "पुष्पा वामन भोयर",
+      "name_en": "Pushpa Vaman Bhoyer"
+    },
+    {
+      "serial_number": 1387,
+      "name_mr": "शोभा मधुकर चालपे",
+      "name_en": "Shobha Madhukar Chalpe"
+    },
+    {
+      "serial_number": 1388,
+      "name_mr": "बापूराव मंगुजी खोड",
+      "name_en": "Bapurao Manguji prank"
+    },
+    {
+      "serial_number": 1389,
+      "name_mr": "बाळ बापूराव खोड्या",
+      "name_en": "Baby bapurao prank"
+    },
+    {
+      "serial_number": 1390,
+      "name_mr": "रवींद्र बापूराव खोड",
+      "name_en": "Ravindra Bapurao prank"
+    },
+    {
+      "serial_number": 1391,
+      "name_mr": "विनोद अशोकराव जाधव",
+      "name_en": "Vinod Ashokrao Jadhav"
+    },
+    {
+      "serial_number": 1392,
+      "name_mr": "अमोल अशोकराव जाधव",
+      "name_en": "Amol Ashokrao Jadhav"
+    },
+    {
+      "serial_number": 1393,
+      "name_mr": "मालनबाई गेंदालाल बीसें",
+      "name_en": "Malanbai Gendlal Beesen"
+    },
+    {
+      "serial_number": 1394,
+      "name_mr": "उषा अशोकराव जाधव",
+      "name_en": "Usha Ashokrao Jadhav"
+    },
+    {
+      "serial_number": 1395,
+      "name_mr": "गुलाब सोनबाजी ठाकरे",
+      "name_en": "Gulab Sonbaji Thackeray"
+    },
+    {
+      "serial_number": 1396,
+      "name_mr": "सुरेंद्र निर्मल राजभर",
+      "name_en": "Surendra Nirmal Rajbhar"
+    },
+    {
+      "serial_number": 1397,
+      "name_mr": "मैना सुरेंद्र राजभर",
+      "name_en": "Maina Surendra Rajbhar"
+    },
+    {
+      "serial_number": 1398,
+      "name_mr": "सुधीर उपासराव घी",
+      "name_en": "Sudhir Upasrao Ghee"
+    },
+    {
+      "serial_number": 1399,
+      "name_mr": "दत्तू चिंधू भोयर",
+      "name_en": "Dattu Chindhu Bhoyer"
+    },
+    {
+      "serial_number": 1400,
+      "name_mr": "देविदास नत्थुजी कवाडे",
+      "name_en": "Devidas Natthuji Kawade"
+    },
+    {
+      "serial_number": 1401,
+      "name_mr": "रेखा देविदास कवाडे",
+      "name_en": "Rekha Devidas Kawade"
+    },
+    {
+      "serial_number": 1402,
+      "name_mr": "ललितकुमार नत्थुजी कवाडे",
+      "name_en": "Lalit Kumar Natthuji Kawade"
+    },
+    {
+      "serial_number": 1403,
+      "name_mr": "ललिता सुनील पवार",
+      "name_en": "Lalita Sunil Pawar"
+    },
+    {
+      "serial_number": 1404,
+      "name_mr": "सुमित पांडुरंग वंजारी",
+      "name_en": "Sumit Pandurang Vanjari"
+    },
+    {
+      "serial_number": 1405,
+      "name_mr": "अलका ओंकार बनाईत",
+      "name_en": "Alka Omkar Banait"
+    },
+    {
+      "serial_number": 1406,
+      "name_mr": "रविकांत सुभाष राव फुसे",
+      "name_en": "Ravikant Subhash Rao Phuse"
+    },
+    {
+      "serial_number": 1407,
+      "name_mr": "विजय दिवाणजी गौतम",
+      "name_en": "Vijay Divanji Gautam"
+    },
+    {
+      "serial_number": 1408,
+      "name_mr": "सुधाकर शिवचरण जाभुळकर",
+      "name_en": "Sudhakar Shivcharan Jabhulkar"
+    },
+    {
+      "serial_number": 1409,
+      "name_mr": "रेखा सुधाकर जांभुळकर",
+      "name_en": "Rekha Sudhakar Jambhulkar"
+    },
+    {
+      "serial_number": 1410,
+      "name_mr": "प्रिती दिलीप खडके",
+      "name_en": "Preity Dilip Khadke"
+    },
+    {
+      "serial_number": 1411,
+      "name_mr": "दिलीप कवडूजी खडके",
+      "name_en": "Dilip Kavaduji Khadke"
+    },
+    {
+      "serial_number": 1412,
+      "name_mr": "प्रियंका कृष्णाजी नारद",
+      "name_en": "Priyanka Krishnaji Narad"
+    },
+    {
+      "serial_number": 1413,
+      "name_mr": "नितीन पृथ्वीराज सोनटक्के",
+      "name_en": "Nitin Prithviraj Sontakke"
+    },
+    {
+      "serial_number": 1414,
+      "name_mr": "आम्रपाली सागर बडोदेकर",
+      "name_en": "Amrapali Sagar Badodekar"
+    },
+    {
+      "serial_number": 1415,
+      "name_mr": "गणेश भोयर",
+      "name_en": "Ganesh Bhoyer"
+    },
+    {
+      "serial_number": 1416,
+      "name_mr": "गोविंदा इंगळे",
+      "name_en": "Govinda Ingle"
+    },
+    {
+      "serial_number": 1417,
+      "name_mr": "अनुजा ठमके",
+      "name_en": "Anuja Thamke"
+    },
+    {
+      "serial_number": 1418,
+      "name_mr": "प्रभा वसंत कावळे",
+      "name_en": "Prabha Vasant Kawle"
+    },
+    {
+      "serial_number": 1419,
+      "name_mr": "गणेश विजय डाबरकर",
+      "name_en": "Ganesh Vijay Daburkar"
+    },
+    {
+      "serial_number": 1420,
+      "name_mr": "कुणाली मयंक डफरे",
+      "name_en": "Kunali Mayank Duffre"
+    },
+    {
+      "serial_number": 1421,
+      "name_mr": "सागर कवडूजी ढोले",
+      "name_en": "Sagar Kavaduji Dhole"
+    },
+    {
+      "serial_number": 1422,
+      "name_mr": "मयुरी जकेश डोंगर",
+      "name_en": "Mayuri Jakesh Dongar"
+    },
+    {
+      "serial_number": 1423,
+      "name_mr": "परणय विलास जामुले",
+      "name_en": "Paranay Vilas Jamule"
+    },
+    {
+      "serial_number": 1424,
+      "name_mr": "नुरी श्याम खोडे",
+      "name_en": "Nuri Shyam Khode"
+    },
+    {
+      "serial_number": 1425,
+      "name_mr": "पवन परसरामजी लोहारे",
+      "name_en": "Pawan Parasramji Lohare"
+    },
+    {
+      "serial_number": 1426,
+      "name_mr": "तेजस्वी प्रकाश धोपटे",
+      "name_en": "Tejaswi Prakash Dhopte"
+    },
+    {
+      "serial_number": 1427,
+      "name_mr": "लाखा चॅनेलाल जावरकर",
+      "name_en": "Lakha Channelal Javarkar"
+    },
+    {
+      "serial_number": 1428,
+      "name_mr": "सुरज रामू उईके",
+      "name_en": "Suraj Ramu Uike"
+    },
+    {
+      "serial_number": 1429,
+      "name_mr": "सुरज रामरावजी कोल्हे",
+      "name_en": "Suraj Ramraoji Kolhe"
+    },
+    {
+      "serial_number": 1430,
+      "name_mr": "मंगला बाबा पेरकुंडे",
+      "name_en": "Mangala Baba Perkunde"
+    },
+    {
+      "serial_number": 1431,
+      "name_mr": "अधेश कन्हैयालाल सीनियर",
+      "name_en": "Adhesh Kanhaiyalal Sr"
+    },
+    {
+      "serial_number": 1432,
+      "name_mr": "शोभा मधुकर चरपे",
+      "name_en": "Shobha Madhukar Charpe"
+    },
+    {
+      "serial_number": 1433,
+      "name_mr": "मनीषा संजय रगीते",
+      "name_en": "Manisha Sanjay Ragite"
+    },
+    {
+      "serial_number": 1434,
+      "name_mr": "श्रद्धा विनोद अरुणराव नारद",
+      "name_en": "Shraddha Vinod Arunrao Narad"
+    },
+    {
+      "serial_number": 1435,
+      "name_mr": "शुभम शंकरराव वाळे",
+      "name_en": "Shubham Shankarao Waze"
+    },
+    {
+      "serial_number": 1436,
+      "name_mr": "वनिता गजानन कावळे",
+      "name_en": "Vanita Gajanan Kawle"
+    },
+    {
+      "serial_number": 1437,
+      "name_mr": "बाबा मारुती पेरकुंडे",
+      "name_en": "Baba Maruti Perkunde"
+    },
+    {
+      "serial_number": 1438,
+      "name_mr": "रोशन वासुदेव भोगतो",
+      "name_en": "Roshan Vasudev suffers"
+    },
+    {
+      "serial_number": 1439,
+      "name_mr": "विलास संतोष चौधरी",
+      "name_en": "Vilas Santosh Chaudhary"
+    },
+    {
+      "serial_number": 1440,
+      "name_mr": "सागर मदनलाल जावरकर",
+      "name_en": "Sagar Madanlal Javarkar"
+    },
+    {
+      "serial_number": 1441,
+      "name_mr": "श्यामलाल पंढरी जाभुळे",
+      "name_en": "Shyamlal Pandhari Jabhule"
+    },
+    {
+      "serial_number": 1442,
+      "name_mr": "पृथ्वी रोशन भुत",
+      "name_en": "Prithvija Roshan Bhut"
+    },
+    {
+      "serial_number": 1443,
+      "name_mr": "संगिता योगेश हलमारे",
+      "name_en": "Sangita Yogesh Halmare"
+    },
+    {
+      "serial_number": 1444,
+      "name_mr": "संगीता विजय वानखडे",
+      "name_en": "Sangeeta Vijay Wankhade"
+    },
+    {
+      "serial_number": 1445,
+      "name_mr": "सुनीता मारुती जुमनाक",
+      "name_en": "Sunita Maruti Jumnak"
+    },
+    {
+      "serial_number": 1446,
+      "name_mr": "पुष्पा जानराव कावळे",
+      "name_en": "Pushpa Janrao Kawle"
+    },
+    {
+      "serial_number": 1447,
+      "name_mr": "गंगुबाई पांडुरंग पुंड",
+      "name_en": "Gangubai Pandurang Pund"
+    },
+    {
+      "serial_number": 1448,
+      "name_mr": "सुध्दा विजय पुंड",
+      "name_en": "Suddha Vijay Pund"
+    },
+    {
+      "serial_number": 1449,
+      "name_mr": "दत्तू मारोतराव नारनवरे",
+      "name_en": "Dattu Marotrao Naranaware"
+    },
+    {
+      "serial_number": 1450,
+      "name_mr": "माधवराव सीताराम कावळे",
+      "name_en": "Madhavrao Sitaram Kawle"
+    },
+    {
+      "serial_number": 1451,
+      "name_mr": "निर्मला माधवराव कवळे",
+      "name_en": "Nirmala Madhavrao Kavale"
+    },
+    {
+      "serial_number": 1452,
+      "name_mr": "उज्वल सचिन परतला",
+      "name_en": "Ujwal Sachin is back"
+    },
+    {
+      "serial_number": 1453,
+      "name_mr": "रत्नमाला राजू डोंगरे",
+      "name_en": "Ratnamala Raju Dongre"
+    },
+    {
+      "serial_number": 1454,
+      "name_mr": "राजू सुरजलाल डोंगरे",
+      "name_en": "Raju Surjalal Dongre"
+    },
+    {
+      "serial_number": 1455,
+      "name_mr": "कार्तिक रमेश गवळी",
+      "name_en": "Karthik Ramesh Gawli"
+    },
+    {
+      "serial_number": 1456,
+      "name_mr": "युगल घनश्याम कावळे",
+      "name_en": "Yugal Ghanshyam Kawle"
+    },
+    {
+      "serial_number": 1457,
+      "name_mr": "शीतल हेमराज चाप्पेकर",
+      "name_en": "Sheetal Hemraj Chappekar"
+    },
+    {
+      "serial_number": 1458,
+      "name_mr": "हिमदेव हरिदास वंजारी",
+      "name_en": "Himdev Haridas Vanjari"
+    },
+    {
+      "serial_number": 1459,
+      "name_mr": "वनमाला किमदेव वंजारी",
+      "name_en": "Vanmala Kimdev Vanjari"
+    },
+    {
+      "serial_number": 1460,
+      "name_mr": "कृष्ण चंपतराव नारद",
+      "name_en": "Krishna Champatrao Narad"
+    },
+    {
+      "serial_number": 1461,
+      "name_mr": "नम्रता लंकेश कावळे",
+      "name_en": "Namrata Lankesh Kawle"
+    },
+    {
+      "serial_number": 1462,
+      "name_mr": "संजय नारायण कडवे",
+      "name_en": "Sanjay Narayan Kadve"
+    },
+    {
+      "serial_number": 1463,
+      "name_mr": "सुनीता संजय कडवे",
+      "name_en": "Sunita Sanjay Kadve"
+    },
+    {
+      "serial_number": 1464,
+      "name_mr": "संदेश राजेश रागेत",
+      "name_en": "Sandesh Rajesh Rageet"
+    },
+    {
+      "serial_number": 1465,
+      "name_mr": "शोभा गजानन खेळले",
+      "name_en": "Shobha Gajanan played"
+    },
+    {
+      "serial_number": 1466,
+      "name_mr": "चंदनसिंग उमेशसिंग बैस",
+      "name_en": "Chandan Singh Umesh Singh Bais"
+    },
+    {
+      "serial_number": 1467,
+      "name_mr": "सुमन चंदनसिंग बैस",
+      "name_en": "Suman Chandan Singh Bais"
+    },
+    {
+      "serial_number": 1468,
+      "name_mr": "कल्याणी काकडे",
+      "name_en": "Kalyani Kakade"
+    },
+    {
+      "serial_number": 1469,
+      "name_mr": "अश्विनी सुभाष अवचट",
+      "name_en": "Ashwini Subhash Awachat"
+    },
+    {
+      "serial_number": 1470,
+      "name_mr": "पार्वती जयराम नगरले",
+      "name_en": "Parvati Jayaram Nagarle"
+    },
+    {
+      "serial_number": 1471,
+      "name_mr": "मयुरी कारलुके",
+      "name_en": "Mayuri Karluke"
+    },
+    {
+      "serial_number": 1472,
+      "name_mr": "जकेश महेंद्र डोंगर",
+      "name_en": "Jakesh Mahendra Dongar"
+    },
+    {
+      "serial_number": 1473,
+      "name_mr": "मकेश महेंद्र डोंगरे",
+      "name_en": "Makesh Mahendra Dongre"
+    },
+    {
+      "serial_number": 1474,
+      "name_mr": "मोनू पटले",
+      "name_en": "Monu Patle"
+    },
+    {
+      "serial_number": 1475,
+      "name_mr": "शुभम रामभाऊ गोडे",
+      "name_en": "Shubham Rambhau Gode"
+    },
+    {
+      "serial_number": 1476,
+      "name_mr": "अर्चना दिलीप चावडे",
+      "name_en": "Archana Dilip Chawde"
+    },
+    {
+      "serial_number": 1477,
+      "name_mr": "शाहरुख खान अल्लाउद्दीन खान",
+      "name_en": "Shah Rukh Khan Allauddin Khan"
+    },
+    {
+      "serial_number": 1478,
+      "name_mr": "नझूर खान अल्लाउद्दीन खान",
+      "name_en": "Nazur Khan Allauddin Khan"
+    },
+    {
+      "serial_number": 1479,
+      "name_mr": "सुर्शीदा अल्लाउद्दीन खान",
+      "name_en": "Surshida Allauddin Khan"
+    },
+    {
+      "serial_number": 1480,
+      "name_mr": "रिता ग्यानदास राऊत",
+      "name_en": "Rita Gyandas Raut"
+    },
+    {
+      "serial_number": 1481,
+      "name_mr": "राजुलाल धगनलाल बिसेन",
+      "name_en": "Rajulal Dhaganlal Bisen"
+    },
+    {
+      "serial_number": 1482,
+      "name_mr": "शैलेश लखन रायकर",
+      "name_en": "Shailesh Lakhan Raikar"
+    },
+    {
+      "serial_number": 1483,
+      "name_mr": "उषा शैलेश रायकर",
+      "name_en": "Usha Shailesh Raikar"
+    },
+    {
+      "serial_number": 1484,
+      "name_mr": "ईश्वर राजेंद्र डोंगरे",
+      "name_en": "Ishwar Rajendra Dongre"
+    },
+    {
+      "serial_number": 1485,
+      "name_mr": "लीना राजेंद्र डोंगरे",
+      "name_en": "Leena Rajendra Dongre"
+    },
+    {
+      "serial_number": 1486,
+      "name_mr": "शुभांगी नितीन इंगळे",
+      "name_en": "Shubhangi Nitin Ingle"
+    },
+    {
+      "serial_number": 1487,
+      "name_mr": "मंगला रोशन खोब्रागडे",
+      "name_en": "Mangala Roshan Khobragade"
+    },
+    {
+      "serial_number": 1488,
+      "name_mr": "रोशन प्रकाश खोब्रागडे",
+      "name_en": "Roshan Prakash Khobragade"
+    },
+    {
+      "serial_number": 1489,
+      "name_mr": "श्रद्धा गौतम वासनिक",
+      "name_en": "Shraddha Gautam Wasnik"
+    },
+    {
+      "serial_number": 1490,
+      "name_mr": "पूजा गौतम वासनिक",
+      "name_en": "Pooja Gautam Wasnik"
+    },
+    {
+      "serial_number": 1491,
+      "name_mr": "करिष्मा दर्शन पारेकर",
+      "name_en": "Karisma Darshan Parekar"
+    },
+    {
+      "serial_number": 1492,
+      "name_mr": "हर्ष गजानन नारद",
+      "name_en": "Harsha Gajanan Narad"
+    },
+    {
+      "serial_number": 1493,
+      "name_mr": "विशाल वासुदेव भगत",
+      "name_en": "Vishal Vasudev Bhagat"
+    },
+    {
+      "serial_number": 1494,
+      "name_mr": "आशा यादव आष्टणकर",
+      "name_en": "Asha Yadav Ashtankar"
+    },
+    {
+      "serial_number": 1495,
+      "name_mr": "यादव संतोष आष्टणकर",
+      "name_en": "Yadav Santosh Ashtankar"
+    },
+    {
+      "serial_number": 1496,
+      "name_mr": "मदनलाल रंगोबाजी जावरकर",
+      "name_en": "Madanlal Rangobaji Javarkar"
+    },
+    {
+      "serial_number": 1497,
+      "name_mr": "शेखर मदनलाल जावरकर",
+      "name_en": "Shekhar Madanlal Javarkar"
+    },
+    {
+      "serial_number": 1498,
+      "name_mr": "मयंक प्रकाश डफरे",
+      "name_en": "Mayank Prakash Duffre"
+    },
+    {
+      "serial_number": 1499,
+      "name_mr": "भोलेनाथ मारुती फुलला",
+      "name_en": "Bholenath Maruti blossomed"
+    },
+    {
+      "serial_number": 1500,
+      "name_mr": "अक्षय दिलीपराव कावळे",
+      "name_en": "Akshay Diliprao Kawle"
+    },
+    {
+      "serial_number": 1501,
+      "name_mr": "सोनाली माधव पोहाणे",
+      "name_en": "Sonali Madhav Pohane"
+    },
+    {
+      "serial_number": 1502,
+      "name_mr": "घनश्याम केशव गांजुडे",
+      "name_en": "Ghanshyam Keshav Ganjude"
+    },
+    {
+      "serial_number": 1503,
+      "name_mr": "विलास चंपतराव कावळे",
+      "name_en": "Vilas Champatrao Kawle"
+    },
+    {
+      "serial_number": 1504,
+      "name_mr": "नीळकंठ चंपतराव कवळे",
+      "name_en": "Neelkanth Champatrao Kavale"
+    },
+    {
+      "serial_number": 1505,
+      "name_mr": "मंगेश नत्थू कावळे",
+      "name_en": "Mangesh Natthu Kawle"
+    },
+    {
+      "serial_number": 1506,
+      "name_mr": "सुनंदा विलास कावळे",
+      "name_en": "Sunanda Vilas Kawle"
+    },
+    {
+      "serial_number": 1507,
+      "name_mr": "राजेश जुबेर खान",
+      "name_en": "Rajesh Juber Khan"
+    },
+    {
+      "serial_number": 1508,
+      "name_mr": "लक्ष्मी सुनील जांभुळे",
+      "name_en": "Lakshmi Sunil Jambhule"
+    },
+    {
+      "serial_number": 1509,
+      "name_mr": "अनिल निरंजन बिलोने",
+      "name_en": "Anil Niranjan Bilone"
+    },
+    {
+      "serial_number": 1510,
+      "name_mr": "गौरव कावळे",
+      "name_en": "Gaurav Kawle"
+    },
+    {
+      "serial_number": 1511,
+      "name_mr": "अजमत जुबेर खान",
+      "name_en": "Azmat Zubair Khan"
+    },
+    {
+      "serial_number": 1512,
+      "name_mr": "सोनाली विजय मडावी",
+      "name_en": "Sonali Vijay Madavi"
+    },
+    {
+      "serial_number": 1513,
+      "name_mr": "रेखा पुंडलिक कांबळे",
+      "name_en": "Rekha Pundalik Kamble"
+    },
+    {
+      "serial_number": 1514,
+      "name_mr": "नंदा नारायण काळे",
+      "name_en": "Nanda Narayan Kale"
+    },
+    {
+      "serial_number": 1515,
+      "name_mr": "अहिल्या महेंद्र ठाकरे",
+      "name_en": "Ahhilla Mahendra Thackeray"
+    },
+    {
+      "serial_number": 1516,
+      "name_mr": "त्रिवेणी संजय वरभे",
+      "name_en": "Triveni Sanjay Varbhe"
+    },
+    {
+      "serial_number": 1517,
+      "name_mr": "कलावती नामदेव वरभे",
+      "name_en": "Kalavati Namdev Varabhe"
+    },
+    {
+      "serial_number": 1518,
+      "name_mr": "संजय नामदेव वरभे",
+      "name_en": "Sanjay Namdev Varabhe"
+    },
+    {
+      "serial_number": 1519,
+      "name_mr": "देविदास भाऊराव वासद",
+      "name_en": "Devidas Bhaurao Vasad"
+    },
+    {
+      "serial_number": 1520,
+      "name_mr": "संगीता देदिवास वासद",
+      "name_en": "Sangeetha Dediwas Vasad"
+    },
+    {
+      "serial_number": 1521,
+      "name_mr": "इंदू गुलाबराव ठाकरे",
+      "name_en": "Indu Gulabrao Thackeray"
+    },
+    {
+      "serial_number": 1522,
+      "name_mr": "दिनेश बळीराम शेंदरे",
+      "name_en": "Dinesh Baliram Shendare"
+    },
+    {
+      "serial_number": 1523,
+      "name_mr": "वर्षा गणेश शेंदरे",
+      "name_en": "Varsha Ganesh Shendere"
+    },
+    {
+      "serial_number": 1524,
+      "name_mr": "धर्मपाल छगनलाल बिसेन",
+      "name_en": "Dharmapal Chhaganlal Bisen"
+    }
+  ]
+}
